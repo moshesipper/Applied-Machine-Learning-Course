@@ -26,7 +26,7 @@ Contents:
 - [Introduction to machine learning](https://data-psl.github.io/lectures2020/slides/02_intro_to_machine_learning)
 - [simple weather example](code/weather.py)
 - [iris knn (map)](https://scikit-learn.org/stable/auto_examples/neighbors/plot_classification.html#sphx-glr-auto-examples-neighbors-plot-classification-py)
-- [​](https://scikit-learn.org/stable/auto_examples/neighbors/plot_classification.html#sphx-glr-auto-examples-neighbors-plot-classification-py)kfold​
+- [kfold​](code/kfold.py)
 
 #3 Scikit, Models, Decision Trees
 
@@ -40,14 +40,14 @@ Contents:
 - [Machine learning models](https://data-psl.github.io/lectures2020/slides/03_machine_learning_models/)
 - [Random Forests](https://youtu.be/J4Wdy0Wc_xQ)
 - [Linear Regression](https://youtu.be/PaFPbb66DxQ)
-- [Linear Regression Example](https://scikit-learn.org/stable/auto_examples/linear_model/plot_ols.html) (sklearn)
+- [Linear Regression Example](https://scikit-learn.org/stable/auto_examples/linear_model/plot_ols.html) [sklearn](code/LinearReg.py)
 - [Logistic Regression](https://youtu.be/yIYKR4sgzI8), [Logistic Regression](https://www.analyticsvidhya.com/blog/2021/07/an-introduction-to-logistic-regression/), [Cross-Entropy Loss](https://towardsdatascience.com/cross-entropy-loss-function-f38c4ec8643e)
 - [Optimization of linear models](https://data-psl.github.io/lectures2020/slides/05_optimization_linear_models/)
 - ​[Ridge vs. Lasso](https://www.statology.org/when-to-use-ridge-lasso-regression/)​
 
 #5 AdaBoost, Gradient Boosting
 
-- Summary: [Linear Regression](https://medium.com/analytics-vidhya/a-quick-summary-of-linear-regression-42d1dab85e3e), [Logistic Regression](https://www.analyticsvidhya.com/blog/2021/07/an-introduction-to-logistic-regression/) (LinVsLog.py, PolynomialFeatures.py)
+- Summary: [Linear Regression](https://medium.com/analytics-vidhya/a-quick-summary-of-linear-regression-42d1dab85e3e), [Logistic Regression](https://www.analyticsvidhya.com/blog/2021/07/an-introduction-to-logistic-regression/) [LinVsLog](code/LinVsLog.py), [PolynomialFeatures](code/PolynomialFeatures.py))
 - [Adaptive Boosting](https://youtu.be/LsK-xG1cLYA)​​
 - ​[Gradient Boosting](https://youtu.be/3CC4N4z3GJc)
 - [AddGBoost](https://www.sciencedirect.com/science/article/pii/S2666827021001225)​
@@ -73,14 +73,14 @@ Contents:
 - [What companies think AI looks like...](https://media-exp1.licdn.com/dms/image/C4D22AQGHDRqNV6uPPg/feedshare-shrink_1280/0/1653029435934?e=1655942400&amp;v=beta&amp;t=PQytCPFFbbKE-AbHBLo3zsNbRcQ8nVqTqb6JbTc4kUs), [ML in practice](https://info.deeplearning.ai/the-batch-one-model-for-hundreds-of-tasks-recognizing-workplace-hazards-when-data-means-danger-vision-transformer-upgrade-1)
 - [balanced accuracy](https://www.statology.org/balanced-accuracy/), [balanced accuracy](https://scikit-learn.org/stable/modules/model_evaluation.html#balanced-accuracy-score), [various metrics from CM](https://en.wikipedia.org/wiki/Confusion_matrix)
 - [11 Different Uses of Dimensionality Reduction](https://towardsdatascience.com/11-different-uses-of-dimensionality-reduction-4325d62b4fa6)
-- ​[PCA](https://youtu.be/FgakZw6K1QQ), [PCA](https://www.sartorius.com/en/knowledge/science-snippets/what-is-principal-component-analysis-pca-and-how-it-is-used-507186), [PCA vs LR](https://starship-knowledge.com/pca-vs-linear-regression#PCA_vs_Linear_Regression_-_How_do_they_Differ), pca.py
-- ​[t-SNE](https://youtu.be/NEaUSP4YerM), tsne.py
+- ​[PCA](https://youtu.be/FgakZw6K1QQ), [PCA](https://www.sartorius.com/en/knowledge/science-snippets/what-is-principal-component-analysis-pca-and-how-it-is-used-507186), [PCA vs LR](https://starship-knowledge.com/pca-vs-linear-regression#PCA_vs_Linear_Regression_-_How_do_they_Differ), [pca.py](code/pca.py)
+- ​[t-SNE](https://youtu.be/NEaUSP4YerM), [tsne.py](code/tsne.py)
 - [Hierarchical clustering](https://youtu.be/7xHsRkOdVwo)
-- [K-means clustering](https://youtu.be/4b5d3muPQmA), kmeans.py
+- [K-means clustering](https://youtu.be/4b5d3muPQmA), [kmeans.py](code/kmeans.py)
 
 #9 Hyperparameter Tuning, p-vals, t-test, Permutation Test
 
-- [Hyperparameter tuning](https://towardsdatascience.com/hyperparameter-tuning-explained-d0ebb2ba1d35), [Hyperparameter tuning](https://towardsdatascience.com/hyperparameter-tuning-a-practical-guide-and-template-b3bf0504f095), [Optuna](https://optuna.org/), optuna.py
+- [Hyperparameter tuning](https://towardsdatascience.com/hyperparameter-tuning-explained-d0ebb2ba1d35), [Hyperparameter tuning](https://towardsdatascience.com/hyperparameter-tuning-a-practical-guide-and-template-b3bf0504f095), [Optuna](https://optuna.org/), [optuna.py](code/optuna.py)
 - [p-values](https://youtu.be/vemZtEM63GY), [how to calculate p-values](https://youtu.be/JQc3yx0-Q9E), [p-hacking](https://youtu.be/HDCOUXE3HMM)
 - [Probability is not Likelihood](https://www.youtube.com/watch?v=pYxNSUDSFH4)
 - [17 Statistical Hypothesis Tests in Python](https://machinelearningmastery.com/statistical-hypothesis-tests-in-python-cheat-sheet/)
@@ -109,60 +109,57 @@ Contents:
 - [SAFE, OMNIREP](https://drive.google.com/file/d/1fKymYCJPyd9rBmpEDgRPRe0GE7Yr3SuI/view?usp=sharing)
 - [​](https://drive.google.com/file/d/1kdQQlH11jPNx0goYIjEc9CH3vK8osBK_/view)[Novelty search](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.424.6944&amp;rep=rep1&amp;type=pdf)​​
 
-![Shape1](RackMultipart20220615-1-hknvn1_html_78b1b6d3a144239.gif)
-
-
 
 **Pros and Cons**
 
-KN Neighbors
+- KN Neighbors
    Simple, No training, No assumption about data, Easy to implement, New data can be added seamlessly, Only one hyperparameter
-    Doesn&#39;t work well in high dimensions, Sensitive to noisy data, missing values and outliers, Doesn&#39;t work well with large data sets —  cost of calculating distance is high, Needs feature scaling, Doesn&#39;t work well on imbalanced data, Doesn&#39;t deal well with missing values
+   Doesn't work well in high dimensions, Sensitive to noisy data, missing values and outliers, Doesn't work well with large data sets —  cost of calculating distance is high, Needs feature scaling, Doesn't work well on imbalanced data, Doesn't deal well with missing values
 
-Decision Tree
-   Doesn&#39;t require standardization or normalization, Easy to implement, Can handle missing values, Automatic feature selection
-     High variance, Higher training time, Can become complex, Can easily overfit
+- Decision Tree
+   Doesn't require standardization or normalization, Easy to implement, Can handle missing values, Automatic feature selection
+    High variance, Higher training time, Can become complex, Can easily overfit
 
-Random Forest
-**   ** Left-out data can be used for testing, High accuracy, Provides feature importance estimates, Can handle missing values, Doesn&#39;t require feature scaling, Good performance on imbalanced datasets, Can handle large dataset, Outliers have little impact, Less overfitting
-    Less interpretable, More computational resources, Prediction time high
+- Random Forest
+   Left-out data can be used for testing, High accuracy, Provides feature importance estimates, Can handle missing values, Doesn't require feature scaling, Good performance on imbalanced datasets, Can handle large dataset, Outliers have little impact, Less overfitting
+   Less interpretable, More computational resources, Prediction time high
 
-Linear Regression
+- Linear Regression
    Simple, Interpretable, Easy to Implement
-    Assumes linear relationship between features, Sensitive to outliers
+   Assumes linear relationship between features, Sensitive to outliers
 
-Logistic Regression
-   Doesn&#39;t assume linear relationship between independent and dependent variables, Output can be interpreted as probability, Robust to noise
-    Requires more data, Effective when linearly separable
+- Logistic Regression
+   Doesn’t assume linear relationship between independent and dependent variables, Output can be interpreted as probability, Robust to noise
+   Requires more data, Effective when linearly separable
 
-Lasso Regression (L1)
+- Lasso Regression (L1)
    Prevents overfitting, Selects features by shrinking coefficients to zero
    Selected features will be biased, Prediction can be worse than Ridge
 
-Ridge Regression (L2)
+- Ridge Regression (L2)
    Prevents overfitting
-    Increases bias, Less interpretability
+   Increases bias, Less interpretability 
 
-AdaBoost
+- AdaBoost
    Fast, Reduced bias, Little need to tune
-    Vulnerable to noise, Can overfit
+   Vulnerable to noise, Can overfit
 
-Gradient Boosting
+- Gradient Boosting
    Good performance
-    Harder to tune hyperparameters
+   Harder to tune hyperparameters
 
-XGBoost
+- XGBoost
    Less feature engineering required, Outliers have little impact, Can output feature importance, Handles large datasets, Good model performance, Less prone to overfitting
-​  Difficult to interpret, Harder to tune as there are numerous hyperparameters
+​   Difficult to interpret, Harder to tune as there are numerous hyperparameters
 
-SVM
+- SVM
    Performs well in higher dimensions, Excellent when classes are separable, Outliers have less impact
-    Slow, Poor performance with overlapping classes, Selecting appropriate kernel functions can be tricky
+   Slow, Poor performance with overlapping classes, Selecting appropriate kernel functions can be tricky
 
-​Naïve Bayes
+​- Naïve Bayes
    Fast, Simple, Requires less training data, Scalable, Insensitive to irrelevant features, Good performance with high-dimensional data
    Assumes independence of features
 
-Deep Learning
+- Deep Learning
    Superb performance with unstructured data (images, video, audio, text)
-    (Very) long training time, Many hyperparameters, Prone to overfitting
+   (Very) long training time, Many hyperparameters, Prone to overfitting
