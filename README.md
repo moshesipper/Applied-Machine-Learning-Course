@@ -40,7 +40,7 @@ Contents:
 - [Machine learning models](https://data-psl.github.io/lectures2020/slides/03_machine_learning_models/)
 - [Random Forests](https://youtu.be/J4Wdy0Wc_xQ)
 - [Linear Regression](https://youtu.be/PaFPbb66DxQ)
-- [Linear Regression Example](https://scikit-learn.org/stable/auto_examples/linear_model/plot_ols.html) [sklearn](code/LinearReg.py)
+- [Linear Regression Example](https://scikit-learn.org/stable/auto_examples/linear_model/plot_ols.html), [LinearReg.py](code/LinearReg.py)
 - [Logistic Regression](https://youtu.be/yIYKR4sgzI8), [Logistic Regression](https://www.analyticsvidhya.com/blog/2021/07/an-introduction-to-logistic-regression/), [Cross-Entropy Loss](https://towardsdatascience.com/cross-entropy-loss-function-f38c4ec8643e)
 - [Optimization of linear models](https://data-psl.github.io/lectures2020/slides/05_optimization_linear_models/)
 - ​[Ridge vs. Lasso](https://www.statology.org/when-to-use-ridge-lasso-regression/)​
