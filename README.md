@@ -1,5 +1,3 @@
-[**https://word2md.com/**](https://word2md.com/)
-
 **Material for the Applied ML course I teach at Ben-Gurion University.**
 
 This course covers the applied side of algorithmics in machine learning and deep learning, focusing on hands-on coding experience in Python
