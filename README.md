@@ -2,6 +2,7 @@
 
 This course covers the applied side of algorithmics in machine learning and deep learning, focusing on hands-on coding experience in Python.
 
+***	
 
 **Contents**
 
@@ -14,6 +15,7 @@ This course covers the applied side of algorithmics in machine learning and deep
 - Artificial neural networks: backpropagation, deep neural network, convolutional neural network
 - Evolutionary algorithms: genetic algorithm, ​genetic programming
 
+***	
 
 **Lesson plan**
 
