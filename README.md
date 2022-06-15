@@ -1,4 +1,4 @@
-**Material for the Applied ML course I teach at Ben-Gurion University.**
+**Material for my Applied ML course at Ben-Gurion University.**
 
 This course covers the applied side of algorithmics in machine learning and deep learning, focusing on hands-on coding experience in Python
 
@@ -9,8 +9,8 @@ Contents:
 - Applying ML: evaluation, dataset splits, cross-validation, performance measures, bias/variance tradeoff, visualization, confusion matrix, choosing estimators, hyperparameter tuning, statistics
 - Supervised learning: models, features, objectives, model training, overfitting, regularization, classification, regression, gradient descent, k nearest neighbors, linear regression, logistic regression, decision tree, random forest, adaptive boosting, gradient boosting, support vector machine, naïve Bayes
 - Dimensionality reduction: principal component analysis
-- Artificial neural networks: backpropagation, deep neural network, convolutional neural network
 - Unsupervised learning: hierarchical clustering, k-means, t-SNE ​
+- Artificial neural networks: backpropagation, deep neural network, convolutional neural network
 - Evolutionary algorithms: genetic algorithm, ​genetic programming
 
 **Lesson plan**
