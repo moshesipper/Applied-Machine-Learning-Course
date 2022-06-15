@@ -149,7 +149,7 @@ Contents:
    ❌ Harder to tune hyperparameters
 
 - XGBoost \
-   ✅ Less feature engineering required, Outliers have little impact, Can output feature importance, Handles large datasets, Good model performance, Less prone to overfitting \​   
+   ✅ Less feature engineering required, Outliers have little impact, Can output feature importance, Handles large datasets, Good model performance, Less prone to overfitting \​
    ❌ Difficult to interpret, Harder to tune as there are numerous hyperparameters
 
 - SVM \
@@ -160,6 +160,6 @@ Contents:
    ✅ Fast, Simple, Requires less training data, Scalable, Insensitive to irrelevant features, Good performance with high-dimensional data \
    ❌ Assumes independence of features
 
-- Deep Learning \  
-  ✅ Superb performance with unstructured data (images, video, audio, text) \  
+- Deep Learning \
+  ✅ Superb performance with unstructured data (images, video, audio, text) \
   ❌ (Very) long training time, Many hyperparameters, Prone to overfitting
