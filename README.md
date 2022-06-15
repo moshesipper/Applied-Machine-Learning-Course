@@ -113,7 +113,9 @@ Contents:
 
 ![Shape1](RackMultipart20220615-1-hknvn1_html_78b1b6d3a144239.gif)
 
-**Pros **** and  ****Cons**
+
+
+**Pros and Cons**
 
 KN Neighbors
    Simple, No training, No assumption about data, Easy to implement, New data can be added seamlessly, Only one hyperparameter
