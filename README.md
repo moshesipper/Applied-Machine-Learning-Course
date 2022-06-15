@@ -113,7 +113,9 @@ Contents:
 **Pros and Cons**
 
 - KN Neighbors
+
    Simple, No training, No assumption about data, Easy to implement, New data can be added seamlessly, Only one hyperparameter
+   
    Doesn't work well in high dimensions, Sensitive to noisy data, missing values and outliers, Doesn't work well with large data sets —  cost of calculating distance is high, Needs feature scaling, Doesn't work well on imbalanced data, Doesn't deal well with missing values
 
 - Decision Tree
