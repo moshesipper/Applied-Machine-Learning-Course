@@ -113,7 +113,7 @@ This course covers the applied side of algorithmics in machine learning and deep
 
 ***	
 
-**Pros and Cons**
+**Some Pros and Cons**
 
 - KN Neighbors \
    ✅ Simple, No training, No assumption about data, Easy to implement, New data can be added seamlessly, Only one hyperparameter \
