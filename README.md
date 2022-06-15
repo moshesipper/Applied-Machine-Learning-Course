@@ -1,59 +1,43 @@
-**Syllabus**
-This course covers the applied side of algorithmics in machine learning and deep learning, focusing on hands-on coding experience in Python.   ([official syllabus page](https://bgu4u.bgu.ac.il/pls/scwp/!app.gate?app=ann&amp;step=3&amp;st=s&amp;popup=1&amp;rn_course_department=202&amp;rn_course_degree_level=2&amp;rn_course=6511&amp;rn_year=2022&amp;rn_semester=2&amp;rn_course_details=&amp;rn_course_ins=0))
+[**https://word2md.com/**](https://word2md.com/)
+
+**Material for the Applied ML course I teach at Ben-Gurion University.**
+
+This course covers the applied side of algorithmics in machine learning and deep learning, focusing on hands-on coding experience in Python
+
 Contents:
 
 - What is machine learning (ML)?
 - Basics of Python programming
-- Applying ML: evaluation, dataset splits, cross-validation, performance measures, bias/variance tradeoff, visualization, confusion matrix
-- Supervised learning: models, features, objectives, model training, overfitting, regularization, classification, regression, gradient descent, k nearest neighbors, linear regression, logistic regression, decision tree, random forest, adaptive boosting, gradient boosting, support vector machine
+- Applying ML: evaluation, dataset splits, cross-validation, performance measures, bias/variance tradeoff, visualization, confusion matrix, choosing estimators, hyperparameter tuning, statistics
+- Supervised learning: models, features, objectives, model training, overfitting, regularization, classification, regression, gradient descent, k nearest neighbors, linear regression, logistic regression, decision tree, random forest, adaptive boosting, gradient boosting, support vector machine, naïve Bayes
 - Dimensionality reduction: principal component analysis
-- Artificial neural networks: perceptron, multi-layer perceptron, backpropagation, deep neural network, convolutional neural network, GANs
-- Unsupervised learning: clustering, k-means, autoencoder​
+- Artificial neural networks: backpropagation, deep neural network, convolutional neural network
+- Unsupervised learning: hierarchical clustering, k-means, t-SNE ​
 - Evolutionary algorithms: genetic algorithm, ​genetic programming
 
-**Administrative Details**
-
-- Prerequisites: Algorithms, Linear algebra, Probability
-- Good to know, though not a prerequisite: Python
-- Attendance is not mandatory: You may view classes (live) online, and peruse class recordings on Moodle
-- Credits: 4
-- ​​Grade:
-  - 70%: Final exam
-  - 30%: Homework (3 coding assignments)
-  - You must pass both course components in order to pass the course
-- Classroom:  **34/2**
-- Schedule (non-standard):
-
-                **12:10--13:25**  class
-                **13:25--13:45**  break
-                **13:45--14:50**  class
-                **14:50--15:10**  break
-                **15:10--16:00**  class
-
-[**Resources **](https://www.moshesipper.com/resources.html)(evolutionary algorithms, machine learning, deep learning)​
-
 **Lesson plan**
-​[​](http://www.evolutionarycomputation.org/slides/)#1 (23/3) Python, AI+ML Intro​
+
+​[​](http://www.evolutionarycomputation.org/slides/)#1 Python, AI+ML Intro​
 
 - [Python Programming](https://pythonbasics.org/) ([Python](https://www.python.org/downloads/windows/), [PyCharm](https://www.jetbrains.com/pycharm/download/#section=windows)), [Pandas](https://pythonbasics.org/what-is-pandas/), [NumPy](https://numpy.org/devdocs/user/absolute_beginners.html) / [NumPy](https://www.w3schools.com/python/numpy/default.asp) ([Numba](https://numba.pydata.org/)) ([np.dot](https://numpy.org/doc/stable/reference/generated/numpy.dot.html) vs loop example)
 - [Computing Machinery and Intelligence](https://www.cs.mcgill.ca/~dprecup/courses/AI/Materials/turing1950.pdf)
 - [Machine Learning: history, applications, recent successes](https://data-psl.github.io/lectures2020/slides/01_machine_learning_successes)
 
-#2 (30/3) ML Intro, Simple Example, KNN, Cross-Validation
+#2 ML Intro, Simple Example, KNN, Cross-Validation
 
 - [Introduction to machine learning](https://data-psl.github.io/lectures2020/slides/02_intro_to_machine_learning)
 - simple weather example
 - [iris knn (map)](https://scikit-learn.org/stable/auto_examples/neighbors/plot_classification.html#sphx-glr-auto-examples-neighbors-plot-classification-py)
 - [​](https://scikit-learn.org/stable/auto_examples/neighbors/plot_classification.html#sphx-glr-auto-examples-neighbors-plot-classification-py)kfold​
 
-#3 (6/4)​​ Scikit, Models, Decision Trees
+#3 Scikit, Models, Decision Trees
 
 - [Machine learning with scikit-learn](https://data-psl.github.io/lectures2020/slides/04_scikit_learn/#1)
 - [Machine learning models](https://data-psl.github.io/lectures2020/slides/03_machine_learning_models/)
 - [Boston dataset](https://scikit-learn.org/stable/datasets/toy_dataset.html#boston-dataset)
 - ​[Decision trees](https://youtu.be/_L39rN6gz7Y)​
 
-#4 (13/4) Random Forest, Linear Regression Logistic Regression
+#4 Random Forest, Linear Regression Logistic Regression
 
 - [Machine learning models](https://data-psl.github.io/lectures2020/slides/03_machine_learning_models/)
 - [Random Forests](https://youtu.be/J4Wdy0Wc_xQ)
@@ -63,16 +47,14 @@ Contents:
 - [Optimization of linear models](https://data-psl.github.io/lectures2020/slides/05_optimization_linear_models/)
 - ​[Ridge vs. Lasso](https://www.statology.org/when-to-use-ridge-lasso-regression/)​
 
-## (20/4) No class, פסח
-#5 (27/4) AdaBoost, Gradient Boosting
+#5 AdaBoost, Gradient Boosting
 
 - Summary: [Linear Regression](https://medium.com/analytics-vidhya/a-quick-summary-of-linear-regression-42d1dab85e3e), [Logistic Regression](https://www.analyticsvidhya.com/blog/2021/07/an-introduction-to-logistic-regression/) (LinVsLog.py, PolynomialFeatures.py)
 - [Adaptive Boosting](https://youtu.be/LsK-xG1cLYA)​​
 - ​[Gradient Boosting](https://youtu.be/3CC4N4z3GJc)
 - [AddGBoost](https://www.sciencedirect.com/science/article/pii/S2666827021001225)​
 
-## (4/5) No class, יום הזכרון
-#6 (11/5) XGBoost, Comparing ML algos, Gradient Descent
+#6 XGBoost, Comparing ML algos, Gradient Descent
 
 - Reminder: [Adaboost](https://www.cs.bgu.ac.il/~sipper/adaboost.jpg), [Gradient boost](https://www.cs.bgu.ac.il/~sipper/gradboost.jpg)
 - ​[XGBoost](https://youtu.be/OtD8wVaFm6E)
@@ -81,14 +63,14 @@ Contents:
 - [Gradient Descent](https://youtu.be/sDv4f4s2SB8) ([Least Squares](https://www.mathsisfun.com/data/least-squares-regression.html), [Least Squares](https://textbooks.math.gatech.edu/ila/least-squares.html))
 - [Stochastic Gradient Descent](https://youtu.be/vMh0zPT0tLI)
 
-#7 (18/5) Choosing Model, SVM, Bayes, Metrics
+#7 Choosing Model, SVM, Bayes, Metrics
 
 - [Choosing the right estimator](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html) ([one model doesn&#39;t fit all](https://media-exp1.licdn.com/dms/image/C5622AQHK0ySAmVHlvQ/feedshare-shrink_800/0/1652450701365?e=1655942400&amp;v=beta&amp;t=3KKtUu5AD30HD1n75tXUizL6UdgeDX8sBjH2UH20XfE)...)
 - [Support Vector Machine](https://youtu.be/efR1C6CvhmE) [(](https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html)[sklearn.svm.SVC)](https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html), [Plot different SVM classifiers in the iris dataset](https://scikit-learn.org/stable/auto_examples/svm/plot_iris_svc.html#sphx-glr-auto-examples-svm-plot-iris-svc-py)
 - [Multinomial Naive Bayes](https://youtu.be/O2L2Uv9pdDA)
 - Metrics: [sklearn.metrics](https://scikit-learn.org/stable/modules/classes.html?highlight=metrics#module-sklearn.metrics), [Confusion Matrix](https://youtu.be/Kdsp6soqA7o), [Sensitivity and Specificity,](https://youtu.be/vP06aMoz4v8) [ROC and AUC](https://youtu.be/4jRBRDbJemM), ​[balanced accuracy](https://www.statology.org/balanced-accuracy/), [balanced accuracy](https://scikit-learn.org/stable/modules/model_evaluation.html#balanced-accuracy-score), [various metrics from CM](https://en.wikipedia.org/wiki/Confusion_matrix)
 
-#8 (25/5) Metrics, PCA, t-SNE, Clustering
+#8 Metrics, PCA, t-SNE, Clustering
 
 - [What companies think AI looks like...](https://media-exp1.licdn.com/dms/image/C4D22AQGHDRqNV6uPPg/feedshare-shrink_1280/0/1653029435934?e=1655942400&amp;v=beta&amp;t=PQytCPFFbbKE-AbHBLo3zsNbRcQ8nVqTqb6JbTc4kUs), [ML in practice](https://info.deeplearning.ai/the-batch-one-model-for-hundreds-of-tasks-recognizing-workplace-hazards-when-data-means-danger-vision-transformer-upgrade-1)
 - [balanced accuracy](https://www.statology.org/balanced-accuracy/), [balanced accuracy](https://scikit-learn.org/stable/modules/model_evaluation.html#balanced-accuracy-score), [various metrics from CM](https://en.wikipedia.org/wiki/Confusion_matrix)
@@ -98,7 +80,7 @@ Contents:
 - [Hierarchical clustering](https://youtu.be/7xHsRkOdVwo)
 - [K-means clustering](https://youtu.be/4b5d3muPQmA), kmeans.py
 
-#9 (1/6) Hyperparameter Tuning, p-vals, t-test, Permutation Test
+#9 Hyperparameter Tuning, p-vals, t-test, Permutation Test
 
 - [Hyperparameter tuning](https://towardsdatascience.com/hyperparameter-tuning-explained-d0ebb2ba1d35), [Hyperparameter tuning](https://towardsdatascience.com/hyperparameter-tuning-a-practical-guide-and-template-b3bf0504f095), [Optuna](https://optuna.org/), optuna.py
 - [p-values](https://youtu.be/vemZtEM63GY), [how to calculate p-values](https://youtu.be/JQc3yx0-Q9E), [p-hacking](https://youtu.be/HDCOUXE3HMM)
@@ -108,7 +90,7 @@ Contents:
 - ([chi-square](https://youtu.be/ZjdBM7NO7bY))
 - [permutation test](https://youtu.be/GmvpsJHGCxQ) ([AddGBoost ](https://www.sciencedirect.com/science/article/pii/S2666827021001225)+ [code](https://github.com/moshesipper/AddGBoost)), [permutation test](https://www.linkedin.com/feed/update/urn:li:activity:6934781784937107456/)
 
-#10, #11 (8/6, 15/6) Neural Networks
+#10, #11 Neural Networks
 
 - ​[Neural networks](https://youtube.com/playlist?list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1)
 - [Neural Networks with À La Carte Selection of Activation Functions](https://drive.google.com/file/d/10wy_gFPoNLwQXHkHKAojYBxbKkB5W_da/view?usp=sharing)
@@ -116,7 +98,7 @@ Contents:
 
 - [Convolution...](https://www.linkedin.com/posts/pascalbornet_artificialintelligence-ugcPost-6925288775740776448-0S-K/)
 
-#12, #13 (22/6, 29/6) Evolutionary Algorithms
+#12, #13 Evolutionary Algorithms
 
 - [Evolutionary Computation](http://www.evolutionarycomputation.org/slides/)
 - ​[tiny\_ga](https://github.com/moshesipper/tiny_ga)
@@ -129,7 +111,7 @@ Contents:
 - [SAFE, OMNIREP](https://drive.google.com/file/d/1fKymYCJPyd9rBmpEDgRPRe0GE7Yr3SuI/view?usp=sharing)
 - [​](https://drive.google.com/file/d/1kdQQlH11jPNx0goYIjEc9CH3vK8osBK_/view)[Novelty search](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.424.6944&amp;rep=rep1&amp;type=pdf)​​
 
-![Shape1](RackMultipart20220615-1-p6os2i_html_78b1b6d3a144239.gif)
+![Shape1](RackMultipart20220615-1-hknvn1_html_78b1b6d3a144239.gif)
 
 **Pros **** and  ****Cons**
 
