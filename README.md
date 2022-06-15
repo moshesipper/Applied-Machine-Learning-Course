@@ -2,7 +2,8 @@
 
 This course covers the applied side of algorithmics in machine learning and deep learning, focusing on hands-on coding experience in Python.
 
-Contents:
+
+**Contents**
 
 - What is machine learning (ML)?
 - Basics of Python programming
@@ -12,6 +13,7 @@ Contents:
 - Unsupervised learning: hierarchical clustering, k-means, t-SNE ​
 - Artificial neural networks: backpropagation, deep neural network, convolutional neural network
 - Evolutionary algorithms: genetic algorithm, ​genetic programming
+
 
 **Lesson plan**
 
@@ -109,6 +111,7 @@ Contents:
 - [​](https://drive.google.com/file/d/1kdQQlH11jPNx0goYIjEc9CH3vK8osBK_/view)[Novelty search](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.424.6944&amp;rep=rep1&amp;type=pdf)​​
 
 
+***	
 
 **Pros and Cons**
 
