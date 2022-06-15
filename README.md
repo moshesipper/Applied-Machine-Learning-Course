@@ -123,48 +123,48 @@ This course covers the applied side of algorithmics in machine learning and deep
 
 - Decision Tree \
    ✔ Doesn't require standardization or normalization, Easy to implement, Can handle missing values, Automatic feature selection \
-   ✘ High variance, Higher training time, Can become complex, Can easily overfit
+   ✖ High variance, Higher training time, Can become complex, Can easily overfit
 
 - Random Forest \
    ✔ Left-out data can be used for testing, High accuracy, Provides feature importance estimates, Can handle missing values, Doesn't require feature scaling, Good performance on imbalanced datasets, Can handle large dataset, Outliers have little impact, Less overfitting \
-   ✘ Less interpretable, More computational resources, Prediction time high
+   ✖ Less interpretable, More computational resources, Prediction time high
 
 - Linear Regression \
    ✔ Simple, Interpretable, Easy to Implement \
-   ✘ Assumes linear relationship between features, Sensitive to outliers
+   ✖ Assumes linear relationship between features, Sensitive to outliers
 
 - Logistic Regression \
    ✔ Doesn’t assume linear relationship between independent and dependent variables, Output can be interpreted as probability, Robust to noise \
-   ✘ Requires more data, Effective when linearly separable
+   ✖ Requires more data, Effective when linearly separable
 
 - Lasso Regression (L1) \
    ✔ Prevents overfitting, Selects features by shrinking coefficients to zero \
-   ✘ Selected features will be biased, Prediction can be worse than Ridge
+   ✖ Selected features will be biased, Prediction can be worse than Ridge
 
 - Ridge Regression (L2) \
    ✔ Prevents overfitting \
-   ✘ Increases bias, Less interpretability 
+   ✖ Increases bias, Less interpretability 
 
 - AdaBoost \
    ✔ Fast, Reduced bias, Little need to tune \
-   ✘ Vulnerable to noise, Can overfit
+   ✖ Vulnerable to noise, Can overfit
 
 - Gradient Boosting \
    ✔ Good performance \
-   ✘ Harder to tune hyperparameters
+   ✖ Harder to tune hyperparameters
 
 - XGBoost \
    ✔ Less feature engineering required, Outliers have little impact, Can output feature importance, Handles large datasets, Good model performance, Less prone to overfitting \​
-   ✘ Difficult to interpret, Harder to tune as there are numerous hyperparameters
+   ✖ Difficult to interpret, Harder to tune as there are numerous hyperparameters
 
 - SVM \
    ✔ Performs well in higher dimensions, Excellent when classes are separable, Outliers have less impact \
-   ✘ Slow, Poor performance with overlapping classes, Selecting appropriate kernel functions can be tricky
+   ✖ Slow, Poor performance with overlapping classes, Selecting appropriate kernel functions can be tricky
 
 - Naïve Bayes \
    ✔ Fast, Simple, Requires less training data, Scalable, Insensitive to irrelevant features, Good performance with high-dimensional data \
-   ✘ Assumes independence of features
+   ✖ Assumes independence of features
 
 - Deep Learning \
   ✔ Superb performance with unstructured data (images, video, audio, text) \
-  ✘ (Very) long training time, Many hyperparameters, Prone to overfitting
+  ✖ (Very) long training time, Many hyperparameters, Prone to overfitting
