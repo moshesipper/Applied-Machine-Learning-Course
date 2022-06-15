@@ -47,7 +47,7 @@ Contents:
 
 #5 AdaBoost, Gradient Boosting
 
-- Summary: [Linear Regression](https://medium.com/analytics-vidhya/a-quick-summary-of-linear-regression-42d1dab85e3e), [Logistic Regression](https://www.analyticsvidhya.com/blog/2021/07/an-introduction-to-logistic-regression/), [LinVsLog](code/LinVsLog.py), [PolynomialFeatures](code/PolynomialFeatures.py))
+- Summary: [Linear Regression](https://medium.com/analytics-vidhya/a-quick-summary-of-linear-regression-42d1dab85e3e), [Logistic Regression](https://www.analyticsvidhya.com/blog/2021/07/an-introduction-to-logistic-regression/), [LinVsLog](code/LinVsLog.py), [PolynomialFeatures](code/PolynomialFeatures.py)
 - [Adaptive Boosting](https://youtu.be/LsK-xG1cLYA)​​
 - ​[Gradient Boosting](https://youtu.be/3CC4N4z3GJc)
 - [AddGBoost](https://www.sciencedirect.com/science/article/pii/S2666827021001225)​
