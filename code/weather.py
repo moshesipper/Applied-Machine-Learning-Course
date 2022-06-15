@@ -6,7 +6,7 @@ import numpy as np
 import pandas as pd
 from sklearn.linear_model import LogisticRegression
 
-df = pd.read_csv(r'G:\My Drive\prof\progs\python\aml\weather.csv', header=0)
+df = pd.read_csv(r'weather.csv', header=0)
 print(df.columns.values)  # ['Humidity' 'Wind' 'Temperature' 'Clouds' 'Raining?']
 X, y = df.to_numpy()[:, 0:4], df.to_numpy()[:, 4]
 

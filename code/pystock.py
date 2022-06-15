@@ -2,7 +2,7 @@ import csv
 import pandas as pd
 
 # https://github.com/eliangcs/pystock-data
-price_file = r'G:\My Drive\prof\progs\python\aml\prices.csv'
+price_file = r'prices.csv'
 df = pd.read_csv(price_file,
                  names = ['symbol', 'date', 'open', 'high', 'low','close','volume','adj_close'],
                  usecols = ['symbol', 'date', 'close'],
@@ -21,4 +21,4 @@ df=df.pivot(index='symbol',columns='date',values='close')
 df=df.dropna(axis=0, thresh=10)
 df=df.dropna(axis=1, thresh=10)
 # for verification purposes
-df.to_csv(r'G:\My Drive\prof\progs\python\aml\output.csv')#,index = False,header=False)
+df.to_csv(r'output.csv')#,index = False,header=False)
