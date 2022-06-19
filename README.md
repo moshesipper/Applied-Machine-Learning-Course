@@ -110,7 +110,8 @@
 - GP:[ Koza](http://www.genetic-programming.com/c2003lecture1modified.ppt),[ Koza Tutorial,](http://www.genetic-programming.com/gecco2003tutorial.pdf) [Koza &amp; Poli](http://www.cs.bham.ac.uk/~wbl/biblio/cache/bin/cache.php?koza:2003:gpt,http___www.genetic-programming.com_jkpdf_burke2003tutorial.pdf,http://www.genetic-programming.com/jkpdf/burke2003tutorial.pdf), [Yoo, ](https://coinse.kaist.ac.kr/assets/files/teaching/cs454/cs454-slide09.pdf)[Herrmann](https://www.inf.ed.ac.uk/teaching/courses/nat/slides/nat09h.pdf)
 - [tiny\_gp](https://github.com/moshesipper/tiny_gp)
 - [Linear GP](http://www.am.chalmers.se/~wolff/AI2/Lect05LGP.pdf) / [Cartesian GP](http://cs.ijs.si/ppsn2014/files/slides/ppsn2014-tutorial3-miller.pdf) / [Grammatical Evolution](https://web.archive.org/web/20110721124315/http:/www.grammaticalevolution.org/tutorial.pdf)
-- ​[Koza&#39;s vids](https://www.youtube.com/channel/UC9MEHhji3ODbE_e66EgFkew)
+- ​[Koza's vids](https://www.youtube.com/channel/UC9MEHhji3ODbE_e66EgFkew)
+- [Humies](https://www.human-competitive.org/)
 - [SAFE, OMNIREP](https://drive.google.com/file/d/1fKymYCJPyd9rBmpEDgRPRe0GE7Yr3SuI/view?usp=sharing)
 - [​](https://drive.google.com/file/d/1kdQQlH11jPNx0goYIjEc9CH3vK8osBK_/view)[Novelty search](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.424.6944&amp;rep=rep1&amp;type=pdf)​​
 
