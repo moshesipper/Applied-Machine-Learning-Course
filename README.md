@@ -113,7 +113,7 @@
 - ​[Koza's vids](https://www.youtube.com/channel/UC9MEHhji3ODbE_e66EgFkew)
 - [Humies](https://www.human-competitive.org/)
 - [SAFE, OMNIREP](https://drive.google.com/file/d/1fKymYCJPyd9rBmpEDgRPRe0GE7Yr3SuI/view?usp=sharing)
-- [​](https://drive.google.com/file/d/1kdQQlH11jPNx0goYIjEc9CH3vK8osBK_/view)[Novelty search](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.424.6944&amp;rep=rep1&amp;type=pdf)​​
+- [Novelty search](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.424.6944&amp;rep=rep1&amp;type=pdf)​​
 
 
 ***	
