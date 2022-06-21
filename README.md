@@ -104,16 +104,16 @@
 #12, #13 Evolutionary Algorithms
 
 - [Evolutionary Computation](http://www.evolutionarycomputation.org/slides/)
-- ​[tiny_ga](https://github.com/moshesipper/tiny_ga)
-- ​[NSGA II](https://engineering.purdue.edu/~sudhoff/ee630/Lecture09.pdf)​
+- ​[tiny_ga](https://github.com/moshesipper/tiny_ga), [tiny_gp](https://github.com/moshesipper/tiny_gp)
+- GP:[Koza](http://www.genetic-programming.com/c2003lecture1modified.ppt),[ Koza Tutorial,](http://www.genetic-programming.com/gecco2003tutorial.pdf) [Koza &amp; Poli](http://www.cs.bham.ac.uk/~wbl/biblio/cache/bin/cache.php?koza:2003:gpt,http___www.genetic-programming.com_jkpdf_burke2003tutorial.pdf,http://www.genetic-programming.com/jkpdf/burke2003tutorial.pdf), [Yoo, ](https://coinse.kaist.ac.kr/assets/files/teaching/cs454/cs454-slide09.pdf)[Herrmann](https://www.inf.ed.ac.uk/teaching/courses/nat/slides/nat09h.pdf), ​[Koza's vids](https://www.youtube.com/channel/UC9MEHhji3ODbE_e66EgFkew)
+- ​[Multi-Objective Optimization](https://engineering.purdue.edu/~sudhoff/ee630/Lecture09.pdf)​
 - [Schema theorem](https://engineering.purdue.edu/~sudhoff/ee630/Lecture03.pdf)
-- GP:[Koza](http://www.genetic-programming.com/c2003lecture1modified.ppt),[ Koza Tutorial,](http://www.genetic-programming.com/gecco2003tutorial.pdf) [Koza &amp; Poli](http://www.cs.bham.ac.uk/~wbl/biblio/cache/bin/cache.php?koza:2003:gpt,http___www.genetic-programming.com_jkpdf_burke2003tutorial.pdf,http://www.genetic-programming.com/jkpdf/burke2003tutorial.pdf), [Yoo, ](https://coinse.kaist.ac.kr/assets/files/teaching/cs454/cs454-slide09.pdf)[Herrmann](https://www.inf.ed.ac.uk/teaching/courses/nat/slides/nat09h.pdf)
-- [tiny_gp](https://github.com/moshesipper/tiny_gp)
-- [Linear GP](http://www.am.chalmers.se/~wolff/AI2/Lect05LGP.pdf) / [Cartesian GP](http://cs.ijs.si/ppsn2014/files/slides/ppsn2014-tutorial3-miller.pdf) / [Grammatical Evolution](https://web.archive.org/web/20110721124315/http:/www.grammaticalevolution.org/tutorial.pdf)
-- ​[Koza's vids](https://www.youtube.com/channel/UC9MEHhji3ODbE_e66EgFkew)
-- [Humies](https://www.human-competitive.org/)
+- [Linear GP](http://www.am.chalmers.se/~wolff/AI2/Lect05LGP.pdf)
+- [Cartesian GP](http://cs.ijs.si/ppsn2014/files/slides/ppsn2014-tutorial3-miller.pdf)
+- [Grammatical Evolution](https://web.archive.org/web/20110721124315/http:/www.grammaticalevolution.org/tutorial.pdf)
 - [SAFE, OMNIREP](https://drive.google.com/file/d/1fKymYCJPyd9rBmpEDgRPRe0GE7Yr3SuI/view?usp=sharing)
 - [Novelty search](https://www.cs.ucf.edu/~gitars/cap6671-2010/Presentations/lehman_alife08.pdf)​​
+- [Humies](https://www.human-competitive.org/)
 
 
 ***	
