@@ -4,12 +4,18 @@
 
 
 ***
-[Contents](#Contents)	
+[Contents](#contents)	
+
+[Lesson Plan](#lessons)
+
+[Some Pros and Cons](#pros)
+
+[Resources (evolutionary algorithms, machine learning, deep learning](#resources)
 
 
 ***
 
-<a name="Contents">**Contents**</a>
+<a name="contents">**Contents**</a>
 
 - What is machine learning (ML)?
 - Basics of Python programming
@@ -22,7 +28,7 @@
 
 ***	
 
-**Lesson plan**
+<a name="lessons">**Lesson plan**</a>
 
 ​#1 Python, AI+ML Intro​
 
@@ -123,7 +129,7 @@
 
 ***	
 
-**Some Pros and Cons**
+<a name="pros">**Some Pros and Cons**</a>
 
 - KN Neighbors \
    ✔ Simple, No training, No assumption about data, Easy to implement, New data can be added seamlessly, Only one hyperparameter \
@@ -180,7 +186,7 @@
 
 ***	
 
-**Resources (evolutionary algorithms, machine learning, deep learning)**
+<a name="resources">**Resources (evolutionary algorithms, machine learning, deep learning**</a>
 
 **Reads / Vids**
 
