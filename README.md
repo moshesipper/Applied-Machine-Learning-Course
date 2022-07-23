@@ -1,6 +1,6 @@
 # Course: Applied Machine Learning
 
-**This course covers the applied side of algorithmics in machine learning and deep learning, focusing on hands-on coding experience in Python.**
+**This course covers the applied/coding side of algorithmics in machine learning and deep learning, with a smidgen of evolutionary algorithms.**
 
 
 ***
