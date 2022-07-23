@@ -2,9 +2,16 @@
 
 **This course covers the applied side of algorithmics in machine learning and deep learning, focusing on hands-on coding experience in Python.**
 
-***	
 
-**Contents**
+***
+[Contents](#Contents)	
+
+
+***
+
+<a name="heading">
+   **Contents**
+</a>
 
 - What is machine learning (ML)?
 - Basics of Python programming
