@@ -9,9 +9,7 @@
 
 ***
 
-<a name="heading">
-   **Contents**
-</a>
+<a name="Contents">**Contents**</a>
 
 - What is machine learning (ML)?
 - Basics of Python programming
