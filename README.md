@@ -1,5 +1,5 @@
-## Applied Machine Learning
-# Course material
+# Applied Machine Learning
+## Course material
 
 **This course covers the applied side of algorithmics in machine learning and deep learning, focusing on hands-on coding experience in Python.**
 
