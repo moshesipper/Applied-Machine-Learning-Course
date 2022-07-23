@@ -1,11 +1,10 @@
 # Applied Machine Learning
-## Course material
 
 **This course covers the applied side of algorithmics in machine learning and deep learning, focusing on hands-on coding experience in Python.**
 
 
 ***
-[Contents](#contents)	
+[Course Contents](#contents)	
 
 [Lesson Plan](#lessons)
 
@@ -16,7 +15,7 @@
 
 ***
 
-<a name="contents">**Contents**</a>
+<a name="contents">**Course Contents**</a>
 
 - What is machine learning (ML)?
 - Basics of Python programming
