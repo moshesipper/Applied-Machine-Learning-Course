@@ -183,7 +183,7 @@
 *   [גיא כתבי - אלגוריתמים אבולוציוניים](https://www.youtube.com/watch?v=XPx-a6MVne8&ab_channel=guykatabi) (YouTube) \[גיא בוגר הקורס שלי: _אלגוריתמים אבולוציוניים וחיים מלאכותיים_\]
 *   [Introduction to Evolutionary Computing](http://www.evolutionarycomputation.org/) (course/book slides)
 *   [John Koza Genetic Programming](https://www.youtube.com/channel/UC9MEHhji3ODbE_e66EgFkew) (YouTube)
-*   [Some reports in the popular press](http://www.moshesipper.com/research/)
+*   [Some reports in the popular press](https://www.moshesipper.com/publications.html)
 *   [Why video games are essential for inventing artificial intelligence](https://togelius.blogspot.co.il/2016/01/why-video-games-are-essential-for.html)
 *   [Biologic or “By Ole Logic”](http://www.moshesipper.com/blog/biologic-or-by-ole-logic)
 *   [26 Top Machine Learning Interview Questions and Answers: Theory Edition](https://www.blog.confetti.ai/post/26-top-machine-learning-interview-questions-and-answers-theory)
