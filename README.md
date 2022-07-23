@@ -8,9 +8,9 @@
 
 [Lesson Plan](#lessons)
 
-[Some Pros and Cons](#pros)
+[Algorithm Pros and Cons](#pros)
 
-[Resources (evolutionary algorithms, machine learning, deep learning](#resources)
+[Resources (evolutionary algorithms, machine learning, deep learning)](#resources)
 
 
 ***
@@ -129,7 +129,7 @@
 
 ***	
 
-<a name="pros">**Some Pros and Cons**</a>
+<a name="pros">**Algorithm Pros and Cons**</a>
 
 - KN Neighbors \
    ✔ Simple, No training, No assumption about data, Easy to implement, New data can be added seamlessly, Only one hyperparameter \
@@ -186,7 +186,7 @@
 
 ***	
 
-<a name="resources">**Resources (evolutionary algorithms, machine learning, deep learning**</a>
+<a name="resources">**Resources (evolutionary algorithms, machine learning, deep learning)**</a>
 
 **Reads / Vids**
 
