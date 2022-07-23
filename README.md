@@ -220,6 +220,7 @@
 
 **Software**
 
+*	[EC-KitY: Evolutionary Computation Tool Kit in Python with Seamless Machine Learning Integration](https://www.eckity.org/)
 *   [gplearn: Genetic Programming in Python, with a scikit-learn inspired and compatible API](https://gplearn.readthedocs.io/en/stable/#)
 *   [LEAP: Library for Evolutionary Algorithms in Python](https://github.com/AureumChaos/LEAP)
 *   [DEAP: Distributed Evolutionary Algorithms in Python](https://deap.readthedocs.io/en/master/)
