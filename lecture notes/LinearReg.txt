@@ -1,0 +1,5 @@
+residuals -- in grad boosting we'll see "pseudo"-residuals
+
+https://en.wikipedia.org/wiki/Coefficient_of_determination
+
+LinearReg SK example: show LinearReg.py

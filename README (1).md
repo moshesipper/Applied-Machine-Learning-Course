@@ -1,21 +1,10 @@
-# Course: Applied Machine Learning
+## Material for my Applied ML course at Ben-Gurion University
 
-**This course covers the applied/coding side of algorithmics in machine learning and deep learning, with a smidgen of evolutionary algorithms.**
+**This course covers the applied side of algorithmics in machine learning and deep learning, focusing on hands-on coding experience in Python.**
 
+***	
 
-***
-[Course Contents](#contents)	
-
-[Lesson Plan](#lessons)
-
-[Algorithm Pros and Cons](#pros)
-
-[Resources: Evolutionary Algorithms, Machine Learning, Deep Learning](#resources)
-
-
-***
-
-<a name="contents">**Course Contents**</a>
+**Contents**
 
 - What is machine learning (ML)?
 - Basics of Python programming
@@ -28,7 +17,7 @@
 
 ***	
 
-<a name="lessons">**Lesson plan**</a>
+**Lesson plan**
 
 ​#1 Python, AI+ML Intro​
 
@@ -81,8 +70,7 @@
 - [Choosing the right estimator](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html) ([one model doesn&#39;t fit all](https://media-exp1.licdn.com/dms/image/C5622AQHK0ySAmVHlvQ/feedshare-shrink_800/0/1652450701365?e=1655942400&amp;v=beta&amp;t=3KKtUu5AD30HD1n75tXUizL6UdgeDX8sBjH2UH20XfE)...)
 - [Support Vector Machine](https://youtu.be/efR1C6CvhmE) [(](https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html)[sklearn.svm.SVC)](https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html), [Plot different SVM classifiers in the iris dataset](https://scikit-learn.org/stable/auto_examples/svm/plot_iris_svc.html#sphx-glr-auto-examples-svm-plot-iris-svc-py)
 - [Multinomial Naive Bayes](https://youtu.be/O2L2Uv9pdDA)
-- Metrics: [sklearn.metrics](https://scikit-learn.org/stable/modules/classes.html?highlight=metrics#module-sklearn.metrics), [Confusion Matrix](https://youtu.be/Kdsp6soqA7o), [Sensitivity and Specificity,](https://youtu.be/vP06aMoz4v8) [ROC and AUC](https://youtu.be/4jRBRDbJemM) ([Online ROC Curve Calculator](https://www.rad.jhmi.edu/jeng/javarad/roc/JROCFITi.html)), ​[balanced accuracy](https://www.statology.org/balanced-accuracy/), [balanced accuracy](https://scikit-learn.org/stable/modules/model_evaluation.html#balanced-accuracy-score), [various metrics from CM](https://en.wikipedia.org/wiki/Confusion_matrix)
-- [Could machine learning fuel a reproducibility crisis in science?](https://www.nature.com/articles/d41586-022-02035-w)
+- Metrics: [sklearn.metrics](https://scikit-learn.org/stable/modules/classes.html?highlight=metrics#module-sklearn.metrics), [Confusion Matrix](https://youtu.be/Kdsp6soqA7o), [Sensitivity and Specificity,](https://youtu.be/vP06aMoz4v8) [ROC and AUC](https://youtu.be/4jRBRDbJemM), ​[balanced accuracy](https://www.statology.org/balanced-accuracy/), [balanced accuracy](https://scikit-learn.org/stable/modules/model_evaluation.html#balanced-accuracy-score), [various metrics from CM](https://en.wikipedia.org/wiki/Confusion_matrix)
 
 #8 Metrics, PCA, t-SNE, Clustering
 
@@ -111,7 +99,7 @@
 - [PyTorch](https://pytorch.org/tutorials/beginner/pytorch_with_examples.html), [PyTorch](https://towardsdatascience.com/understanding-pytorch-with-an-example-a-step-by-step-tutorial-81fc5f8c4e8e)
 - [Convolution...](https://www.linkedin.com/posts/pascalbornet_artificialintelligence-ugcPost-6925288775740776448-0S-K/)
 - [Growth of AI computing](https://twitter.com/pmddomingos/status/1535112033137401857), [AI move from Academia](https://twitter.com/GaryMarcus/status/1536150812795121664), [Artificial General Intelligence Is Not as Imminent as You Might Think](https://www.scientificamerican.com/article/artificial-general-intelligence-is-not-as-imminent-as-you-might-think1/)
-- [Tinker With a Neural Network in Your Browser](https://playground.tensorflow.org/)
+
 
 #12, #13 Evolutionary Algorithms
 
@@ -130,7 +118,7 @@
 
 ***	
 
-<a name="pros">**Algorithm Pros and Cons**</a>
+**Some Pros and Cons**
 
 - KN Neighbors \
    ✔ Simple, No training, No assumption about data, Easy to implement, New data can be added seamlessly, Only one hyperparameter \
@@ -183,81 +171,3 @@
 - Deep Learning \
   ✔ Superb performance with unstructured data (images, video, audio, text) \
   ✖ (Very) long training time, Many hyperparameters, Prone to overfitting
-
-
-***	
-
-<a name="resources">**Resources: Evolutionary Algorithms, Machine Learning, Deep Learning**</a>
-
-*Reads / Vids*
-
-*   [Genetic and Evolutionary Algorithms and Programming](https://drive.google.com/file/d/0B6G3tbmMcpR4WVBTeDhKa3NtQjg/view?usp=sharing)
-*   [גיא כתבי - אלגוריתמים אבולוציוניים](https://www.youtube.com/watch?v=XPx-a6MVne8&ab_channel=guykatabi) (YouTube) \[גיא בוגר הקורס שלי: _אלגוריתמים אבולוציוניים וחיים מלאכותיים_\]
-*   [Introduction to Evolutionary Computing](http://www.evolutionarycomputation.org/) (course/book slides)
-*   [John Koza Genetic Programming](https://www.youtube.com/channel/UC9MEHhji3ODbE_e66EgFkew) (YouTube)
-*   [Some reports in the popular press](https://www.moshesipper.com/publications.html)
-*   [Why video games are essential for inventing artificial intelligence](https://togelius.blogspot.co.il/2016/01/why-video-games-are-essential-for.html)
-*   [Biologic or “By Ole Logic”](http://www.moshesipper.com/blog/biologic-or-by-ole-logic)
-*   [26 Top Machine Learning Interview Questions and Answers: Theory Edition](https://www.blog.confetti.ai/post/26-top-machine-learning-interview-questions-and-answers-theory)
-*   [10 Popular Machine Learning Algorithms In A Nutshell](https://www.theinsaneapp.com/2021/11/machine-learning-algorithms-for-beginners.html)
-*   [StatQuest with Josh Starmer](https://www.youtube.com/user/joshstarmer)
-*   [Machine learning preparatory week @PSL](https://data-psl.github.io/lectures2020/)
-*   [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome) (coursera)
-*   [ROC-AUC](https://www.analyticsvidhya.com/blog/2020/06/auc-roc-curve-machine-learning/)
-*   [Tinker With a Neural Network in Your Browser](https://playground.tensorflow.org/)
-*   [Common Machine Learning Algorithms for Beginners](https://www.dezyre.com/article/common-machine-learning-algorithms-for-beginners/202)
-*   [Machine Learning Glossary](https://ml-cheatsheet.readthedocs.io/en/latest/index.html)
-*   ​[ML YouTube Courses](https://github.com/dair-ai/ML-YouTube-Courses)​
-  
-
-*Books*
-
-*   M. Sipper, _[Evolved to Win](https://www.moshesipper.com/evolved-to-win.html)_, Lulu, 2011 (freely downloadable)
-*   M. Sipper, _[Machine Nature: The Coming Age of Bio-Inspired Computing](https://www.moshesipper.com/machine-nature-the-coming-age-of-bio-inspired-computing.html)_, McGraw-Hill, New York, 2002
-*   A.E. Eiben and J.E. Smith, [_Introduction to Evolutionary Computing_](http://www.cs.vu.nl/~gusz/ecbook/ecbook.html), Springer, 1st edition, 2003, Corr. 2nd printing, 2007
-*   R. Poli, B. Langdon, & N. McPhee, [_A Field Guide to Genetic Programming_](http://www.gp-field-guide.org.uk/), 2008. (freely downloadable)
-*   J. Koza, [_Genetic Programming: On the Programming of Computers by Means of Natural Selection_](http://www.genetic-programming.org/gpbook1toc.html), MIT Press, Cambridge, MA, 1992.
-*   S. Luke, [_Essentials of Metaheuristics_](http://cs.gmu.edu/~sean/book/metaheuristics/), 2010. (freely downloadable)
-*   A. Geron, [Hands On Machine Learning with Scikit Learn and TensorFlow](https://github.com/yanshengjia/ml-road/blob/master/resources/Hands%20On%20Machine%20Learning%20with%20Scikit%20Learn%20and%20TensorFlow.pdf)
-*   G. James, D. Witten, T. Hastie, R. Tibshirani, [An Introduction to Statistical Learning](https://www.statlearning.com/), 2nd edition, 2021 (freely downloadable)
-*   J. VanderPlas, [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
-*   K. Reitz, [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/)
-*   M. Nielsen, [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html)
-*   Z. Michalewicz & D.B. Fogel, [_How to Solve It: Modern Heuristics_](https://www.springer.com/computer/theoretical+computer+science/foundations+of+computations/book/978-3-540-22494-5), 2nd ed. Revised and Extended, 2004
-*   Z. Michalewicz. [_Genetic Algorithms + Data Structures = Evolution Programs_](http://www.springeronline.com/sgw/cda/frontpage/0,10735,5-40109-22-1430991-0,00.html). Springer-Verlag, Berlin, 3rd edition, 1996
-*   D. Floreano & C. Mattiussi, [_Bio-Inspired Artificial Intelligence: Theories, Methods, and Technologies_](http://baibook.epfl.ch/), MIT Press, 2008
-*   A. Tettamanzi & M. Tomassini, [_Soft Computing: Integrating Evolutionary, Neural, and Fuzzy Systems_](https://www.springer.com/computer/theoretical+computer+science/book/978-3-540-42204-4), Springer-Verlag, Heidelberg, 2001
-*   M. Mohri, A. Rostamizadeh, and A. Talwalka, [Foundations of Machine Learning](https://www.dropbox.com/s/4fij1xrclwjdu5y/Foundations%20of%20Machine%20Learning%2C%20Mohri%202012.pdf?dl=0), MIT Press, 2012 (freely downloadable)  
-    
-
-*Software*
-
-*	[EC-KitY: Evolutionary Computation Tool Kit in Python with Seamless Machine Learning Integration](https://www.eckity.org/)
-*   [gplearn: Genetic Programming in Python, with a scikit-learn inspired and compatible API](https://gplearn.readthedocs.io/en/stable/#)
-*   [LEAP: Library for Evolutionary Algorithms in Python](https://github.com/AureumChaos/LEAP)
-*   [DEAP: Distributed Evolutionary Algorithms in Python](https://deap.readthedocs.io/en/master/)
-*   [Swarm Intelligence in Python (Genetic Algorithm, Particle Swarm Optimization, Simulated Annealing, Ant Colony Algorithm, Immune Algorithm, Artificial Fish Swarm Algorithm in Python)](https://github.com/guofei9987/scikit-opt)
-*   [Scikit-learn: Machine Learning in Python](https://scikit-learn.org/stable/index.html)
-*   [​Mlxtend (machine learning extensions)](https://rasbt.github.io/mlxtend/) 
-*   [PyTorch (deep networks)](https://pytorch.org/)
-*   [Best-of Machine Learning with Python​](https://github.com/ml-tooling/best-of-ml-python)
-*   [Fundamental concepts of PyTorch through self-contained examples](https://github.com/jcjohnson/pytorch-examples)​
-*   [Faster Python calculations with Numba](https://pythonspeed.com/articles/numba-faster-python)  
-    
-
-*Datasets*
-
-*   [Tabular & cleaned (PMLB)](https://github.com/EpistasisLab/pmlb)
-*   [By domain](https://www.datasetlist.com/)
-*   ​[By application](https://github.com/awesomedata/awesome-public-datasets)
-*   [Search engine](https://datasetsearch.research.google.com/)
-*   [Kaggle competitions](https://www.kaggle.com/datasets)
-*   [OpenML​](https://www.openml.org/)
-*   [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets.php)
-*   ​[Image Databases](https://homepages.inf.ed.ac.uk/rbf/CVonline/Imagedbase.htm)
-*   [AWS Open Data Registry](https://registry.opendata.aws/)
-*   ​[Wikipedia ML Datasets](https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research)
-*   [The Big Bad NLP Database](https://datasets.quantumstat.com/)
-*   ​[Datasets for Machine Learning and Deep Learning](https://sebastianraschka.com/blog/2021/ml-dl-datasets.html)
-*   [Browse State-of-the-Art](https://paperswithcode.com/sota)  
-    
