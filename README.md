@@ -8,6 +8,8 @@
 
 [Lesson Plan](#lessons)
 
+[Cheat Sheets](#cheat)
+
 [Algorithm Pros and Cons](#pros)
 
 [Resources: Evolutionary Algorithms, Machine Learning, Deep Learning](#resources)
@@ -131,6 +133,22 @@
 
 ***	
 
+<a name="cheat">**Cheat Sheets**</a>
+*   [Machine Learning Glossary](https://ml-cheatsheet.readthedocs.io/en/latest/index.html)
+*	[Cheat Sheets for Machine Learning and Data Science](https://sites.google.com/view/datascience-cheat-sheets): 
+		- Bias-Variance Tradeoff
+		- Imbalanced Data in Classification
+		- PCA Dimensionality Reduction
+		- Bayes' Theorem and Classifier
+		- Regression Analysis
+		- Regularization in ML
+		- Convolutional Neural Network
+		- Famous CNNs
+		- Ensemble Methods in Machine Learning
+
+
+***	
+
 <a name="pros">**Algorithm Pros and Cons**</a>
 
 - KN Neighbors \
@@ -207,7 +225,6 @@
 *   [ROC-AUC](https://www.analyticsvidhya.com/blog/2020/06/auc-roc-curve-machine-learning/)
 *   [Tinker With a Neural Network in Your Browser](https://playground.tensorflow.org/)
 *   [Common Machine Learning Algorithms for Beginners](https://www.dezyre.com/article/common-machine-learning-algorithms-for-beginners/202)
-*   [Machine Learning Glossary](https://ml-cheatsheet.readthedocs.io/en/latest/index.html)
 *   ​[ML YouTube Courses](https://github.com/dair-ai/ML-YouTube-Courses)​
   
 
