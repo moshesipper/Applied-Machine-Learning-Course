@@ -136,15 +136,15 @@
 <a name="cheat">**Cheat Sheets**</a>
 *   [Machine Learning Glossary](https://ml-cheatsheet.readthedocs.io/en/latest/index.html)
 *	[Cheat Sheets for Machine Learning and Data Science](https://sites.google.com/view/datascience-cheat-sheets): 
-- Bias-Variance Tradeoff
-- Imbalanced Data in Classification
-- PCA Dimensionality Reduction
-- Bayes' Theorem and Classifier
-- Regression Analysis
-- Regularization in ML
-- Convolutional Neural Network
-- Famous CNNs
-- Ensemble Methods in Machine Learning
+	o Bias-Variance Tradeoff
+	o Imbalanced Data in Classification
+	o PCA Dimensionality Reduction
+	o Bayes' Theorem and Classifier
+	o Regression Analysis
+	o Regularization in ML
+	o Convolutional Neural Network
+	o Famous CNNs
+	o Ensemble Methods in Machine Learning
 
 
 ***	
