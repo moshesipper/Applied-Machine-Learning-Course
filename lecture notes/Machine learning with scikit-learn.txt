@@ -1,0 +1,11 @@
+slide 14 -- run code, change to DecisionTree, then Logistic, show predict and predict_proba
+
+slide 19 -- 
+   show check_is_fitted source, looks for '_'
+   show attributes, e.g., logistic: estimator.classes_, estimator.coef_
+   
+slide 21 -- plot_cf_matrix.py   
+
+slide 25 -- onehotencoder examples in sklearn
+
+at the end show algspeed, different speeds, also example of uniform way of dealing with algs

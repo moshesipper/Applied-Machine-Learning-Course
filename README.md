@@ -226,6 +226,7 @@
 *   [Tinker With a Neural Network in Your Browser](https://playground.tensorflow.org/)
 *   [Common Machine Learning Algorithms for Beginners](https://www.dezyre.com/article/common-machine-learning-algorithms-for-beginners/202)
 *   ​[ML YouTube Courses](https://github.com/dair-ai/ML-YouTube-Courses)​
+*	[Machine Learning Essentials for Biomedical Data Science: Introduction and ML Basics](https://www.youtube.com/watch?v=Qcgav8NmPxY&list=PLafPhSv1OSDfEqFsBnurxzJbcwZSJA8X4)
   
 
 *Books*
