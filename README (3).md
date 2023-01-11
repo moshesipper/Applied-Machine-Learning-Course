@@ -37,8 +37,6 @@
 - [Python Programming](https://pythonbasics.org/) ([Python](https://www.python.org/downloads/windows/), [PyCharm](https://www.jetbrains.com/pycharm/download/#section=windows)), [Pandas](https://pythonbasics.org/what-is-pandas/), [NumPy](https://numpy.org/devdocs/user/absolute_beginners.html) / [NumPy](https://www.w3schools.com/python/numpy/default.asp) ([Numba](https://numba.pydata.org/)) ([np.dot](https://numpy.org/doc/stable/reference/generated/numpy.dot.html) vs [loop example](code/loop-vs-np.py))
 - [Computing Machinery and Intelligence](https://www.cs.mcgill.ca/~dprecup/courses/AI/Materials/turing1950.pdf)
 - [Machine Learning: history, applications, recent successes](https://data-psl.github.io/lectures2020/slides/01_machine_learning_successes)
-- [Building an ML Model](https://media.licdn.com/dms/image/C4E22AQE-asPVy92oEw/feedshare-shrink_1280/0/1672175694811?e=1675296000&v=beta&t=T5fS_yiU8DZF28Vakg13meGwcg3u8DchAPNP9kXYy5s),
-  [Data Science Landscape](https://media.licdn.com/dms/image/C4E22AQEchDYrmM8Qdg/feedshare-shrink_800/0/1672377766999?e=1675296000&v=beta&t=IQRzEXzma_xee0BzL4lRnhh-wTwEbKbHh_iZHB6vT8g)
 
 #2 ML Intro, Simple Example, KNN, Cross-Validation
 
@@ -137,8 +135,16 @@
 
 <a name="cheat">**Cheat Sheets**</a>
 *   [Machine Learning Glossary](https://ml-cheatsheet.readthedocs.io/en/latest/index.html)
-*	[Cheat Sheets for Machine Learning and Data Science](https://sites.google.com/view/datascience-cheat-sheets)
-*	[The Illustrated Machine Learning Website](https://illustrated-machine-learning.github.io/)
+*	[Cheat Sheets for Machine Learning and Data Science](https://sites.google.com/view/datascience-cheat-sheets): \
+	o Bias-Variance Tradeoff \
+	o Imbalanced Data in Classification \
+	o PCA Dimensionality Reduction \
+	o Bayes' Theorem and Classifier \
+	o Regression Analysis \
+	o Regularization in ML \
+	o Convolutional Neural Network \
+	o Famous CNNs \
+	o Ensemble Methods in Machine Learning
 
 
 ***	
@@ -206,8 +212,6 @@
 
 *   [Genetic and Evolutionary Algorithms and Programming](https://drive.google.com/file/d/0B6G3tbmMcpR4WVBTeDhKa3NtQjg/view?usp=sharing)
 *   [גיא כתבי - אלגוריתמים אבולוציוניים](https://www.youtube.com/watch?v=XPx-a6MVne8&ab_channel=guykatabi) (YouTube) \[גיא בוגר הקורס שלי: _אלגוריתמים אבולוציוניים וחיים מלאכותיים_\]
-*	[Choosing Representation, Mutation, and Crossover in Genetic Algorithms
-](https://ieeexplore.ieee.org/document/9942691/interactive)
 *   [Introduction to Evolutionary Computing](http://www.evolutionarycomputation.org/) (course/book slides)
 *   [John Koza Genetic Programming](https://www.youtube.com/channel/UC9MEHhji3ODbE_e66EgFkew) (YouTube)
 *   [Some reports in the popular press](https://www.moshesipper.com/publications.html)

@@ -8,8 +8,6 @@
 
 [Lesson Plan](#lessons)
 
-[Cheat Sheets](#cheat)
-
 [Algorithm Pros and Cons](#pros)
 
 [Resources: Evolutionary Algorithms, Machine Learning, Deep Learning](#resources)
@@ -37,8 +35,6 @@
 - [Python Programming](https://pythonbasics.org/) ([Python](https://www.python.org/downloads/windows/), [PyCharm](https://www.jetbrains.com/pycharm/download/#section=windows)), [Pandas](https://pythonbasics.org/what-is-pandas/), [NumPy](https://numpy.org/devdocs/user/absolute_beginners.html) / [NumPy](https://www.w3schools.com/python/numpy/default.asp) ([Numba](https://numba.pydata.org/)) ([np.dot](https://numpy.org/doc/stable/reference/generated/numpy.dot.html) vs [loop example](code/loop-vs-np.py))
 - [Computing Machinery and Intelligence](https://www.cs.mcgill.ca/~dprecup/courses/AI/Materials/turing1950.pdf)
 - [Machine Learning: history, applications, recent successes](https://data-psl.github.io/lectures2020/slides/01_machine_learning_successes)
-- [Building an ML Model](https://media.licdn.com/dms/image/C4E22AQE-asPVy92oEw/feedshare-shrink_1280/0/1672175694811?e=1675296000&v=beta&t=T5fS_yiU8DZF28Vakg13meGwcg3u8DchAPNP9kXYy5s),
-  [Data Science Landscape](https://media.licdn.com/dms/image/C4E22AQEchDYrmM8Qdg/feedshare-shrink_800/0/1672377766999?e=1675296000&v=beta&t=IQRzEXzma_xee0BzL4lRnhh-wTwEbKbHh_iZHB6vT8g)
 
 #2 ML Intro, Simple Example, KNN, Cross-Validation
 
@@ -86,7 +82,6 @@
 - [Support Vector Machine](https://youtu.be/efR1C6CvhmE) [(](https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html)[sklearn.svm.SVC)](https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html), [Plot different SVM classifiers in the iris dataset](https://scikit-learn.org/stable/auto_examples/svm/plot_iris_svc.html#sphx-glr-auto-examples-svm-plot-iris-svc-py)
 - [Multinomial Naive Bayes](https://youtu.be/O2L2Uv9pdDA)
 - Metrics: [sklearn.metrics](https://scikit-learn.org/stable/modules/classes.html?highlight=metrics#module-sklearn.metrics), [Confusion Matrix](https://youtu.be/Kdsp6soqA7o), [Sensitivity and Specificity,](https://youtu.be/vP06aMoz4v8) [ROC and AUC](https://youtu.be/4jRBRDbJemM) ([Online ROC Curve Calculator](https://www.rad.jhmi.edu/jeng/javarad/roc/JROCFITi.html)), ​[balanced accuracy](https://www.statology.org/balanced-accuracy/), [balanced accuracy](https://scikit-learn.org/stable/modules/model_evaluation.html#balanced-accuracy-score), [various metrics from CM](https://en.wikipedia.org/wiki/Confusion_matrix)
-- [Could machine learning fuel a reproducibility crisis in science?](https://www.nature.com/articles/d41586-022-02035-w)
 
 #8 Metrics, PCA, t-SNE, Clustering
 
@@ -100,7 +95,6 @@
 
 #9 Hyperparameter Tuning, p-vals, t-test, Permutation Test
 
-- [Model Parameter vs. Hyperparameter](https://www.youtube.com/watch?v=Qcgav8NmPxY&t=1224s)
 - [Hyperparameter tuning](https://towardsdatascience.com/hyperparameter-tuning-explained-d0ebb2ba1d35), [Hyperparameter tuning](https://towardsdatascience.com/hyperparameter-tuning-a-practical-guide-and-template-b3bf0504f095), [Optuna](https://optuna.org/), [optuna.py](code/optuna.py)
 - [p-values](https://youtu.be/vemZtEM63GY), [how to calculate p-values](https://youtu.be/JQc3yx0-Q9E), [p-hacking](https://youtu.be/HDCOUXE3HMM)
 - [Probability is not Likelihood](https://www.youtube.com/watch?v=pYxNSUDSFH4)
@@ -131,14 +125,6 @@
 - [New Pathways in Coevolutionary Computation](https://drive.google.com/file/d/1fKymYCJPyd9rBmpEDgRPRe0GE7Yr3SuI/view?usp=sharing)
 - [Novelty search](https://www.cs.ucf.edu/~gitars/cap6671-2010/Presentations/lehman_alife08.pdf)​​
 - [Humies](https://www.human-competitive.org/)
-
-
-***	
-
-<a name="cheat">**Cheat Sheets**</a>
-*   [Machine Learning Glossary](https://ml-cheatsheet.readthedocs.io/en/latest/index.html)
-*	[Cheat Sheets for Machine Learning and Data Science](https://sites.google.com/view/datascience-cheat-sheets)
-*	[The Illustrated Machine Learning Website](https://illustrated-machine-learning.github.io/)
 
 
 ***	
@@ -206,8 +192,6 @@
 
 *   [Genetic and Evolutionary Algorithms and Programming](https://drive.google.com/file/d/0B6G3tbmMcpR4WVBTeDhKa3NtQjg/view?usp=sharing)
 *   [גיא כתבי - אלגוריתמים אבולוציוניים](https://www.youtube.com/watch?v=XPx-a6MVne8&ab_channel=guykatabi) (YouTube) \[גיא בוגר הקורס שלי: _אלגוריתמים אבולוציוניים וחיים מלאכותיים_\]
-*	[Choosing Representation, Mutation, and Crossover in Genetic Algorithms
-](https://ieeexplore.ieee.org/document/9942691/interactive)
 *   [Introduction to Evolutionary Computing](http://www.evolutionarycomputation.org/) (course/book slides)
 *   [John Koza Genetic Programming](https://www.youtube.com/channel/UC9MEHhji3ODbE_e66EgFkew) (YouTube)
 *   [Some reports in the popular press](https://www.moshesipper.com/publications.html)
@@ -221,8 +205,8 @@
 *   [ROC-AUC](https://www.analyticsvidhya.com/blog/2020/06/auc-roc-curve-machine-learning/)
 *   [Tinker With a Neural Network in Your Browser](https://playground.tensorflow.org/)
 *   [Common Machine Learning Algorithms for Beginners](https://www.dezyre.com/article/common-machine-learning-algorithms-for-beginners/202)
+*   [Machine Learning Glossary](https://ml-cheatsheet.readthedocs.io/en/latest/index.html)
 *   ​[ML YouTube Courses](https://github.com/dair-ai/ML-YouTube-Courses)​
-*	[Machine Learning Essentials for Biomedical Data Science: Introduction and ML Basics](https://www.youtube.com/watch?v=Qcgav8NmPxY&list=PLafPhSv1OSDfEqFsBnurxzJbcwZSJA8X4)
   
 
 *Books*
