@@ -94,7 +94,7 @@
 - [balanced accuracy](https://www.statology.org/balanced-accuracy/), [balanced accuracy](https://scikit-learn.org/stable/modules/model_evaluation.html#balanced-accuracy-score), [various metrics from CM](https://en.wikipedia.org/wiki/Confusion_matrix)
 - [11 Different Uses of Dimensionality Reduction](https://towardsdatascience.com/11-different-uses-of-dimensionality-reduction-4325d62b4fa6)
 - ​[PCA](https://youtu.be/FgakZw6K1QQ), [PCA](https://www.sartorius.com/en/knowledge/science-snippets/what-is-principal-component-analysis-pca-and-how-it-is-used-507186), [PCA vs LR](https://starship-knowledge.com/pca-vs-linear-regression#PCA_vs_Linear_Regression_-_How_do_they_Differ), [pca.ipynb](https://colab.research.google.com/drive/1h6xLxKyEltPwsck-mJ5nQPFkMGYI8VOs?usp=sharing)
-- ​[t-SNE](https://youtu.be/NEaUSP4YerM), [tsne.py](code/tsne.py)
+- ​[t-SNE](https://youtu.be/NEaUSP4YerM), [tsne.ipynb](https://colab.research.google.com/drive/1vnA5iwWrjDY4AhHL_E86VLq59FwJG2s9?usp=sharing)
 - [Hierarchical clustering](https://youtu.be/7xHsRkOdVwo)
 - [K-means clustering](https://youtu.be/4b5d3muPQmA), [kmeans.py](code/kmeans.py)
 
