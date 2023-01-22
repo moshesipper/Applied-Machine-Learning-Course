@@ -43,7 +43,7 @@
 #2 ML Intro, Simple Example, KNN, Cross-Validation
 
 - [Introduction to machine learning](https://data-psl.github.io/lectures2020/slides/02_intro_to_machine_learning)
-- [simple weather example](code/weather.py)
+- [simple weather example](https://colab.research.google.com/drive/1XShD6G7sPGLXKtto4GBZPLWJoPcJEJBk?usp=sharing)
 - [iris knn (map)](https://scikit-learn.org/stable/auto_examples/neighbors/plot_classification.html#sphx-glr-auto-examples-neighbors-plot-classification-py)
 - [kfold​](code/kfold.py)
 
