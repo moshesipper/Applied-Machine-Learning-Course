@@ -243,6 +243,7 @@
 *   D. Floreano & C. Mattiussi, [_Bio-Inspired Artificial Intelligence: Theories, Methods, and Technologies_](http://baibook.epfl.ch/), MIT Press, 2008
 *   A. Tettamanzi & M. Tomassini, [_Soft Computing: Integrating Evolutionary, Neural, and Fuzzy Systems_](https://www.springer.com/computer/theoretical+computer+science/book/978-3-540-42204-4), Springer-Verlag, Heidelberg, 2001
 *   M. Mohri, A. Rostamizadeh, and A. Talwalka, [Foundations of Machine Learning](https://www.dropbox.com/s/4fij1xrclwjdu5y/Foundations%20of%20Machine%20Learning%2C%20Mohri%202012.pdf?dl=0), MIT Press, 2012 (freely downloadable)  
+*	Simon J.D. Prince, [Understanding Deep Learning](https://udlbook.github.io/udlbook/), MIT Press, 2023 (freely downloadable)
     
 
 *Software*
