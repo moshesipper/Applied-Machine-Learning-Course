@@ -202,7 +202,7 @@
 
 <a name="resources">**Resources: Evolutionary Algorithms, Machine Learning, Deep Learning**</a>
 
-*Reads / Vids*
+Reads / Vids
 
 *   [Genetic and Evolutionary Algorithms and Programming](https://drive.google.com/file/d/0B6G3tbmMcpR4WVBTeDhKa3NtQjg/view?usp=sharing)
 *   [גיא כתבי - אלגוריתמים אבולוציוניים](https://www.youtube.com/watch?v=XPx-a6MVne8&ab_channel=guykatabi) (YouTube) \[גיא בוגר הקורס שלי: _אלגוריתמים אבולוציוניים וחיים מלאכותיים_\]
@@ -225,7 +225,7 @@
 *	[Machine Learning Essentials for Biomedical Data Science: Introduction and ML Basics](https://www.youtube.com/watch?v=Qcgav8NmPxY&list=PLafPhSv1OSDfEqFsBnurxzJbcwZSJA8X4)
   
 
-*Books* (🡇 means free to download)
+Books (🡇 means free to download)
 
 *   M. Sipper, _[Evolved to Win](https://www.moshesipper.com/evolved-to-win.html)_, Lulu, 2011 🡇
 *   M. Sipper, _[Machine Nature: The Coming Age of Bio-Inspired Computing](https://www.moshesipper.com/machine-nature-the-coming-age-of-bio-inspired-computing.html)_, McGraw-Hill, New York, 2002
@@ -246,7 +246,7 @@
 *	Simon J.D. Prince, [Understanding Deep Learning](https://udlbook.github.io/udlbook/), MIT Press, 2023 🡇
     
 
-*Software*
+Software
 
 *	[EC-KitY: Evolutionary Computation Tool Kit in Python with Seamless Machine Learning Integration](https://www.eckity.org/)
 *   [gplearn: Genetic Programming in Python, with a scikit-learn inspired and compatible API](https://gplearn.readthedocs.io/en/stable/#)
@@ -261,7 +261,7 @@
 *   [Faster Python calculations with Numba](https://pythonspeed.com/articles/numba-faster-python)  
     
 
-*Datasets*
+Datasets
 
 *   [Tabular & cleaned (PMLB)](https://github.com/EpistasisLab/pmlb)
 *   [By domain](https://www.datasetlist.com/)
