@@ -32,7 +32,7 @@
 
 <a name="lessons">**Lesson plan**</a>
 
-(![](https://drive.google.com/file/d/12HeTfVTIDcKcAWuV6PTMNOR1dschDZEt/view?usp=sharing) marks my colab notebooks)
+(![](colab.png) marks my colab notebooks)
 
 
 ​#1 Python, AI+ML Intro​
