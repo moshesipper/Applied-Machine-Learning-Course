@@ -43,21 +43,21 @@
 - [Building an ML Model](https://media.licdn.com/dms/image/C4E22AQE-asPVy92oEw/feedshare-shrink_1280/0/1672175694811?e=1675296000&v=beta&t=T5fS_yiU8DZF28Vakg13meGwcg3u8DchAPNP9kXYy5s),
   [Data Science Landscape](https://media.licdn.com/dms/image/C4E22AQEchDYrmM8Qdg/feedshare-shrink_800/0/1672377766999?e=1675296000&v=beta&t=IQRzEXzma_xee0BzL4lRnhh-wTwEbKbHh_iZHB6vT8g)
 
-#2 ML Intro, Simple Example, KNN, Cross-Validation
+2: ML Intro, Simple Example, KNN, Cross-Validation
 
 - [Introduction to machine learning](https://data-psl.github.io/lectures2020/slides/02_intro_to_machine_learning)
 - [simple weather example](https://colab.research.google.com/drive/1XShD6G7sPGLXKtto4GBZPLWJoPcJEJBk?usp=sharing) ![](colab.png)
 - [iris knn (map)](https://scikit-learn.org/stable/auto_examples/neighbors/plot_classification.html#sphx-glr-auto-examples-neighbors-plot-classification-py)
 - [kfold​](https://colab.research.google.com/drive/1Hj17jfBbl0tYBVn6ze0YQ7xxTS5Dr1-D?usp=sharing) ![](colab.png)
 
-#3 Scikit, Models, Decision Trees
+3: Scikit, Models, Decision Trees
 
 - [Machine learning with scikit-learn](https://data-psl.github.io/lectures2020/slides/04_scikit_learn/#1)
 - [Machine learning models](https://data-psl.github.io/lectures2020/slides/03_machine_learning_models/)
 - [Boston dataset](https://scikit-learn.org/stable/datasets/toy_dataset.html#boston-dataset)
 - ​[Decision trees](https://youtu.be/_L39rN6gz7Y)​
 
-#4 Random Forest, Linear Regression Logistic Regression
+4: Random Forest, Linear Regression Logistic Regression
 
 - [Machine learning models](https://data-psl.github.io/lectures2020/slides/03_machine_learning_models/)
 - [Random Forests](https://youtu.be/J4Wdy0Wc_xQ)
@@ -67,14 +67,14 @@
 - [Optimization of linear models](https://data-psl.github.io/lectures2020/slides/05_optimization_linear_models/)
 - ​[Ridge vs. Lasso](https://www.statology.org/when-to-use-ridge-lasso-regression/)​
 
-#5 AdaBoost, Gradient Boosting
+5: AdaBoost, Gradient Boosting
 
 - Summary: [Linear Regression](https://medium.com/analytics-vidhya/a-quick-summary-of-linear-regression-42d1dab85e3e), [Logistic Regression](https://www.analyticsvidhya.com/blog/2021/07/an-introduction-to-logistic-regression/), [LinVsLog](https://colab.research.google.com/drive/1kfMFdrVpL9NczZdKDfA_zGT0NMr3PMYS?usp=sharing) ![](colab.png), [PolynomialFeatures](https://colab.research.google.com/drive/1zjuhudzOZRCbovLwWSxYLxsJ67V7A5Dt?usp=sharing) ![](colab.png)
 - [Adaptive Boosting](https://youtu.be/LsK-xG1cLYA)​​
 - ​[Gradient Boosting](https://youtu.be/3CC4N4z3GJc)
 - [AddGBoost](https://www.sciencedirect.com/science/article/pii/S2666827021001225)​
 
-#6 XGBoost, Comparing ML algos, Gradient Descent
+6: XGBoost, Comparing ML algos, Gradient Descent
 
 - Reminder: [Adaboost](https://www.cs.bgu.ac.il/~sipper/adaboost.jpg), [Gradient boost](https://www.cs.bgu.ac.il/~sipper/gradboost.jpg)
 - ​[XGBoost](https://youtu.be/OtD8wVaFm6E)
@@ -83,7 +83,7 @@
 - [Gradient Descent](https://youtu.be/sDv4f4s2SB8) ([Least Squares](https://www.mathsisfun.com/data/least-squares-regression.html), [Least Squares](https://textbooks.math.gatech.edu/ila/least-squares.html))
 - [Stochastic Gradient Descent](https://youtu.be/vMh0zPT0tLI)
 
-#7 Choosing Model, SVM, Bayes, Metrics
+7: Choosing Model, SVM, Bayes, Metrics
 
 - [Choosing the right estimator](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html) ([one model doesn&#39;t fit all](https://media-exp1.licdn.com/dms/image/C5622AQHK0ySAmVHlvQ/feedshare-shrink_800/0/1652450701365?e=1655942400&amp;v=beta&amp;t=3KKtUu5AD30HD1n75tXUizL6UdgeDX8sBjH2UH20XfE)...)
 - [Support Vector Machine](https://youtu.be/efR1C6CvhmE) [(](https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html)[sklearn.svm.SVC)](https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html), [Plot different SVM classifiers in the iris dataset](https://scikit-learn.org/stable/auto_examples/svm/plot_iris_svc.html#sphx-glr-auto-examples-svm-plot-iris-svc-py)
@@ -91,7 +91,7 @@
 - Metrics: [sklearn.metrics](https://scikit-learn.org/stable/modules/classes.html?highlight=metrics#module-sklearn.metrics), [Confusion Matrix](https://youtu.be/Kdsp6soqA7o), [Sensitivity and Specificity,](https://youtu.be/vP06aMoz4v8) [ROC and AUC](https://youtu.be/4jRBRDbJemM) ([Online ROC Curve Calculator](https://www.rad.jhmi.edu/jeng/javarad/roc/JROCFITi.html)), ​[balanced accuracy](https://www.statology.org/balanced-accuracy/), [balanced accuracy](https://scikit-learn.org/stable/modules/model_evaluation.html#balanced-accuracy-score), [various metrics from CM](https://en.wikipedia.org/wiki/Confusion_matrix)
 - [Could machine learning fuel a reproducibility crisis in science?](https://www.nature.com/articles/d41586-022-02035-w)
 
-#8 Metrics, PCA, t-SNE, Clustering
+8: Metrics, PCA, t-SNE, Clustering
 
 - [What companies think AI looks like...](https://media-exp1.licdn.com/dms/image/C4D22AQGHDRqNV6uPPg/feedshare-shrink_1280/0/1653029435934?e=1655942400&amp;v=beta&amp;t=PQytCPFFbbKE-AbHBLo3zsNbRcQ8nVqTqb6JbTc4kUs), [ML in practice](https://info.deeplearning.ai/the-batch-one-model-for-hundreds-of-tasks-recognizing-workplace-hazards-when-data-means-danger-vision-transformer-upgrade-1)
 - [balanced accuracy](https://www.statology.org/balanced-accuracy/), [balanced accuracy](https://scikit-learn.org/stable/modules/model_evaluation.html#balanced-accuracy-score), [various metrics from CM](https://en.wikipedia.org/wiki/Confusion_matrix)
@@ -101,7 +101,7 @@
 - [Hierarchical clustering](https://youtu.be/7xHsRkOdVwo)
 - [K-means clustering](https://youtu.be/4b5d3muPQmA), [kmeans](https://colab.research.google.com/drive/1aoiM8cnS_DdNOP2njEsjWcyf6-zHMrJ1?usp=sharing) ![](colab.png)
 
-#9 Hyperparameter Tuning, p-vals, t-test, Permutation Test
+9: Hyperparameter Tuning, p-vals, t-test, Permutation Test
 
 - [Model Parameter vs. Hyperparameter](https://www.youtube.com/watch?v=Qcgav8NmPxY&t=1224s)
 - [Hyperparameter tuning](https://towardsdatascience.com/hyperparameter-tuning-explained-d0ebb2ba1d35), [Hyperparameter tuning](https://towardsdatascience.com/hyperparameter-tuning-a-practical-guide-and-template-b3bf0504f095), [Optuna](https://optuna.org/), [optuna](https://colab.research.google.com/drive/1FbG9yaUNn8EqL1NgLBBoRIx9E5EPBuIQ?usp=sharing) ![](colab.png)
@@ -112,7 +112,7 @@
 - ([chi-square](https://youtu.be/ZjdBM7NO7bY))
 - [permutation test](https://youtu.be/GmvpsJHGCxQ) ([AddGBoost ](https://www.sciencedirect.com/science/article/pii/S2666827021001225)+ [code](https://github.com/moshesipper/AddGBoost)), [permutation test](https://www.linkedin.com/feed/update/urn:li:activity:6934781784937107456/)
 
-#10, #11 Neural Networks
+10+11: Neural Networks
 
 - ​[Neural networks](https://youtube.com/playlist?list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1)
 - [Neural Networks with À La Carte Selection of Activation Functions](https://drive.google.com/file/d/10wy_gFPoNLwQXHkHKAojYBxbKkB5W_da/view?usp=sharing)
@@ -121,7 +121,7 @@
 - [Growth of AI computing](https://twitter.com/pmddomingos/status/1535112033137401857), [AI move from Academia](https://twitter.com/GaryMarcus/status/1536150812795121664), [Artificial General Intelligence Is Not as Imminent as You Might Think](https://www.scientificamerican.com/article/artificial-general-intelligence-is-not-as-imminent-as-you-might-think1/)
 - [Tinker With a Neural Network in Your Browser](https://playground.tensorflow.org/)
 
-#12, #13 Evolutionary Algorithms
+12+13: Evolutionary Algorithms
 
 - [Evolutionary Computation](http://www.evolutionarycomputation.org/slides/)
 - ​[Tiny GA](https://github.com/moshesipper/tiny_ga), [Tiny GP](https://github.com/moshesipper/tiny_gp)
