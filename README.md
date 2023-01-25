@@ -1,6 +1,6 @@
 # Course: Applied Machine Learning 
-<img src="https://www.moshesipper.com/uploads/3/0/8/3/30831095/published/pixar-animation-studios-disney-pixar-wall-e-rubik-s-cube-wallpaper-preview2.jpg" width="200" />
 
+<img align="right" src="https://www.moshesipper.com/uploads/3/0/8/3/30831095/published/pixar-animation-studios-disney-pixar-wall-e-rubik-s-cube-wallpaper-preview2.jpg" width="200" />
 **This course covers the applied/coding side of algorithmics in machine learning and deep learning, with a smidgen of evolutionary algorithms.** 
 
 
