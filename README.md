@@ -17,7 +17,7 @@
 
 ***
 
-###<a name="contents">Course Contents</a>
+<a name="contents">#### Course Contents</a>
 
 - What is machine learning (ML)?
 - Basics of Python programming
