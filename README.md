@@ -37,7 +37,7 @@
 
 ​#1 Python, AI+ML Intro​
 
-- [Python Programming](https://pythonbasics.org/) ([Python](https://www.python.org/downloads/windows/), [PyCharm](https://www.jetbrains.com/pycharm/download/#section=windows)), [Pandas](https://pythonbasics.org/what-is-pandas/), [NumPy](https://numpy.org/devdocs/user/absolute_beginners.html) / [NumPy](https://www.w3schools.com/python/numpy/default.asp) ([Numba](https://numba.pydata.org/)) ([np.dot](https://numpy.org/doc/stable/reference/generated/numpy.dot.html) vs [loop example](https://colab.research.google.com/drive/1wAfDDyqYkj1izQvn7bDF9tJA4xYlDWzp?usp=sharing))
+- [Python Programming](https://pythonbasics.org/) ([Python](https://www.python.org/downloads/windows/), [PyCharm](https://www.jetbrains.com/pycharm/download/#section=windows)), [Pandas](https://pythonbasics.org/what-is-pandas/), [NumPy](https://numpy.org/devdocs/user/absolute_beginners.html) / [NumPy](https://www.w3schools.com/python/numpy/default.asp) ([Numba](https://numba.pydata.org/)) ([np.dot](https://numpy.org/doc/stable/reference/generated/numpy.dot.html) vs [loop example](https://colab.research.google.com/drive/1wAfDDyqYkj1izQvn7bDF9tJA4xYlDWzp?usp=sharing)![](colab.png))
 - [Computing Machinery and Intelligence](https://www.cs.mcgill.ca/~dprecup/courses/AI/Materials/turing1950.pdf)
 - [Machine Learning: history, applications, recent successes](https://data-psl.github.io/lectures2020/slides/01_machine_learning_successes)
 - [Building an ML Model](https://media.licdn.com/dms/image/C4E22AQE-asPVy92oEw/feedshare-shrink_1280/0/1672175694811?e=1675296000&v=beta&t=T5fS_yiU8DZF28Vakg13meGwcg3u8DchAPNP9kXYy5s),
