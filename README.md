@@ -227,14 +227,14 @@
 
 *Books* (🡇 means free to download)
 
-*   M. Sipper, _[Evolved to Win](https://www.moshesipper.com/evolved-to-win.html)_, Lulu, 2011 (freely downloadable)
+*   M. Sipper, _[Evolved to Win](https://www.moshesipper.com/evolved-to-win.html)_, Lulu, 2011 🡇
 *   M. Sipper, _[Machine Nature: The Coming Age of Bio-Inspired Computing](https://www.moshesipper.com/machine-nature-the-coming-age-of-bio-inspired-computing.html)_, McGraw-Hill, New York, 2002
 *   A.E. Eiben and J.E. Smith, [_Introduction to Evolutionary Computing_](http://www.cs.vu.nl/~gusz/ecbook/ecbook.html), Springer, 1st edition, 2003, Corr. 2nd printing, 2007
-*   R. Poli, B. Langdon, & N. McPhee, [_A Field Guide to Genetic Programming_](http://www.gp-field-guide.org.uk/), 2008. (freely downloadable)
+*   R. Poli, B. Langdon, & N. McPhee, [_A Field Guide to Genetic Programming_](http://www.gp-field-guide.org.uk/), 2008 🡇
 *   J. Koza, [_Genetic Programming: On the Programming of Computers by Means of Natural Selection_](http://www.genetic-programming.org/gpbook1toc.html), MIT Press, Cambridge, MA, 1992.
-*   S. Luke, [_Essentials of Metaheuristics_](http://cs.gmu.edu/~sean/book/metaheuristics/), 2013. (freely downloadable)
-*   A. Geron, [Hands On Machine Learning with Scikit Learn and TensorFlow](https://github.com/yanshengjia/ml-road/blob/master/resources/Hands%20On%20Machine%20Learning%20with%20Scikit%20Learn%20and%20TensorFlow.pdf), 2017 (freely downloadable)
-*   G. James, D. Witten, T. Hastie, R. Tibshirani, [An Introduction to Statistical Learning](https://www.statlearning.com/), 2nd edition, 2021 (freely downloadable)
+*   S. Luke, [_Essentials of Metaheuristics_](http://cs.gmu.edu/~sean/book/metaheuristics/), 2013 🡇
+*   A. Geron, [Hands On Machine Learning with Scikit Learn and TensorFlow](https://github.com/yanshengjia/ml-road/blob/master/resources/Hands%20On%20Machine%20Learning%20with%20Scikit%20Learn%20and%20TensorFlow.pdf), 2017 🡇
+*   G. James, D. Witten, T. Hastie, R. Tibshirani, [An Introduction to Statistical Learning](https://www.statlearning.com/), 2nd edition, 2021 🡇
 *   J. VanderPlas, [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 *   K. Reitz, [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/)
 *   M. Nielsen, [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html)
@@ -242,8 +242,8 @@
 *   Z. Michalewicz. [_Genetic Algorithms + Data Structures = Evolution Programs_](http://www.springeronline.com/sgw/cda/frontpage/0,10735,5-40109-22-1430991-0,00.html). Springer-Verlag, Berlin, 3rd edition, 1996
 *   D. Floreano & C. Mattiussi, [_Bio-Inspired Artificial Intelligence: Theories, Methods, and Technologies_](http://baibook.epfl.ch/), MIT Press, 2008
 *   A. Tettamanzi & M. Tomassini, [_Soft Computing: Integrating Evolutionary, Neural, and Fuzzy Systems_](https://www.springer.com/computer/theoretical+computer+science/book/978-3-540-42204-4), Springer-Verlag, Heidelberg, 2001
-*   M. Mohri, A. Rostamizadeh, and A. Talwalka, [Foundations of Machine Learning](https://www.dropbox.com/s/4fij1xrclwjdu5y/Foundations%20of%20Machine%20Learning%2C%20Mohri%202012.pdf?dl=0), MIT Press, 2012 (freely downloadable)  
-*	Simon J.D. Prince, [Understanding Deep Learning](https://udlbook.github.io/udlbook/), MIT Press, 2023 (freely downloadable)
+*   M. Mohri, A. Rostamizadeh, and A. Talwalka, [Foundations of Machine Learning](https://www.dropbox.com/s/4fij1xrclwjdu5y/Foundations%20of%20Machine%20Learning%2C%20Mohri%202012.pdf?dl=0), MIT Press, 2012 🡇
+*	Simon J.D. Prince, [Understanding Deep Learning](https://udlbook.github.io/udlbook/), MIT Press, 2023 🡇
     
 
 *Software*
