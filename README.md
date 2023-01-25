@@ -4,8 +4,6 @@
 
 **This course covers the applied/coding side of algorithmics in machine learning and deep learning, with a smidgen of evolutionary algorithms.** 
 
-
-***
 [Course Contents](#contents)	
 
 [Lesson Plan](#lessons)
