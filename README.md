@@ -46,9 +46,9 @@
 #2 ML Intro, Simple Example, KNN, Cross-Validation
 
 - [Introduction to machine learning](https://data-psl.github.io/lectures2020/slides/02_intro_to_machine_learning)
-- [simple weather example](https://colab.research.google.com/drive/1XShD6G7sPGLXKtto4GBZPLWJoPcJEJBk?usp=sharing)
+- [simple weather example](https://colab.research.google.com/drive/1XShD6G7sPGLXKtto4GBZPLWJoPcJEJBk?usp=sharing) ![](colab.png)
 - [iris knn (map)](https://scikit-learn.org/stable/auto_examples/neighbors/plot_classification.html#sphx-glr-auto-examples-neighbors-plot-classification-py)
-- [kfold​](https://colab.research.google.com/drive/1Hj17jfBbl0tYBVn6ze0YQ7xxTS5Dr1-D?usp=sharing)
+- [kfold​](https://colab.research.google.com/drive/1Hj17jfBbl0tYBVn6ze0YQ7xxTS5Dr1-D?usp=sharing) ![](colab.png)
 
 #3 Scikit, Models, Decision Trees
 
@@ -62,14 +62,14 @@
 - [Machine learning models](https://data-psl.github.io/lectures2020/slides/03_machine_learning_models/)
 - [Random Forests](https://youtu.be/J4Wdy0Wc_xQ)
 - [Linear Regression](https://youtu.be/PaFPbb66DxQ)
-- [LinearReg.ipynb](https://colab.research.google.com/drive/1fCQjAiEce6hU0osLzCWo73hC9iYva3QK?usp=sharing)
+- [LinearReg.ipynb](https://colab.research.google.com/drive/1fCQjAiEce6hU0osLzCWo73hC9iYva3QK?usp=sharing) ![](colab.png)
 - [Logistic Regression](https://youtu.be/yIYKR4sgzI8), [Logistic Regression](https://www.analyticsvidhya.com/blog/2021/07/an-introduction-to-logistic-regression/), [Cross-Entropy Loss](https://towardsdatascience.com/cross-entropy-loss-function-f38c4ec8643e)
 - [Optimization of linear models](https://data-psl.github.io/lectures2020/slides/05_optimization_linear_models/)
 - ​[Ridge vs. Lasso](https://www.statology.org/when-to-use-ridge-lasso-regression/)​
 
 #5 AdaBoost, Gradient Boosting
 
-- Summary: [Linear Regression](https://medium.com/analytics-vidhya/a-quick-summary-of-linear-regression-42d1dab85e3e), [Logistic Regression](https://www.analyticsvidhya.com/blog/2021/07/an-introduction-to-logistic-regression/), [LinVsLog](https://colab.research.google.com/drive/1kfMFdrVpL9NczZdKDfA_zGT0NMr3PMYS?usp=sharing), [PolynomialFeatures](https://colab.research.google.com/drive/1zjuhudzOZRCbovLwWSxYLxsJ67V7A5Dt?usp=sharing)
+- Summary: [Linear Regression](https://medium.com/analytics-vidhya/a-quick-summary-of-linear-regression-42d1dab85e3e), [Logistic Regression](https://www.analyticsvidhya.com/blog/2021/07/an-introduction-to-logistic-regression/), [LinVsLog](https://colab.research.google.com/drive/1kfMFdrVpL9NczZdKDfA_zGT0NMr3PMYS?usp=sharing) ![](colab.png), [PolynomialFeatures](https://colab.research.google.com/drive/1zjuhudzOZRCbovLwWSxYLxsJ67V7A5Dt?usp=sharing) ![](colab.png)
 - [Adaptive Boosting](https://youtu.be/LsK-xG1cLYA)​​
 - ​[Gradient Boosting](https://youtu.be/3CC4N4z3GJc)
 - [AddGBoost](https://www.sciencedirect.com/science/article/pii/S2666827021001225)​
@@ -96,15 +96,15 @@
 - [What companies think AI looks like...](https://media-exp1.licdn.com/dms/image/C4D22AQGHDRqNV6uPPg/feedshare-shrink_1280/0/1653029435934?e=1655942400&amp;v=beta&amp;t=PQytCPFFbbKE-AbHBLo3zsNbRcQ8nVqTqb6JbTc4kUs), [ML in practice](https://info.deeplearning.ai/the-batch-one-model-for-hundreds-of-tasks-recognizing-workplace-hazards-when-data-means-danger-vision-transformer-upgrade-1)
 - [balanced accuracy](https://www.statology.org/balanced-accuracy/), [balanced accuracy](https://scikit-learn.org/stable/modules/model_evaluation.html#balanced-accuracy-score), [various metrics from CM](https://en.wikipedia.org/wiki/Confusion_matrix)
 - [11 Different Uses of Dimensionality Reduction](https://towardsdatascience.com/11-different-uses-of-dimensionality-reduction-4325d62b4fa6)
-- ​[PCA](https://youtu.be/FgakZw6K1QQ), [PCA](https://www.sartorius.com/en/knowledge/science-snippets/what-is-principal-component-analysis-pca-and-how-it-is-used-507186), [PCA vs LR](https://starship-knowledge.com/pca-vs-linear-regression#PCA_vs_Linear_Regression_-_How_do_they_Differ), [pca.ipynb](https://colab.research.google.com/drive/1h6xLxKyEltPwsck-mJ5nQPFkMGYI8VOs?usp=sharing)
-- ​[t-SNE](https://youtu.be/NEaUSP4YerM), [tsne.ipynb](https://colab.research.google.com/drive/1vnA5iwWrjDY4AhHL_E86VLq59FwJG2s9?usp=sharing)
+- ​[PCA](https://youtu.be/FgakZw6K1QQ), [PCA](https://www.sartorius.com/en/knowledge/science-snippets/what-is-principal-component-analysis-pca-and-how-it-is-used-507186), [PCA vs LR](https://starship-knowledge.com/pca-vs-linear-regression#PCA_vs_Linear_Regression_-_How_do_they_Differ), [pca.ipynb](https://colab.research.google.com/drive/1h6xLxKyEltPwsck-mJ5nQPFkMGYI8VOs?usp=sharing) ![](colab.png)
+- ​[t-SNE](https://youtu.be/NEaUSP4YerM), [tsne.ipynb](https://colab.research.google.com/drive/1vnA5iwWrjDY4AhHL_E86VLq59FwJG2s9?usp=sharing) ![](colab.png)
 - [Hierarchical clustering](https://youtu.be/7xHsRkOdVwo)
-- [K-means clustering](https://youtu.be/4b5d3muPQmA), [kmeans.ipynb](https://colab.research.google.com/drive/1aoiM8cnS_DdNOP2njEsjWcyf6-zHMrJ1?usp=sharing)
+- [K-means clustering](https://youtu.be/4b5d3muPQmA), [kmeans.ipynb](https://colab.research.google.com/drive/1aoiM8cnS_DdNOP2njEsjWcyf6-zHMrJ1?usp=sharing) ![](colab.png)
 
 #9 Hyperparameter Tuning, p-vals, t-test, Permutation Test
 
 - [Model Parameter vs. Hyperparameter](https://www.youtube.com/watch?v=Qcgav8NmPxY&t=1224s)
-- [Hyperparameter tuning](https://towardsdatascience.com/hyperparameter-tuning-explained-d0ebb2ba1d35), [Hyperparameter tuning](https://towardsdatascience.com/hyperparameter-tuning-a-practical-guide-and-template-b3bf0504f095), [Optuna](https://optuna.org/), [optuna.ipynb](https://colab.research.google.com/drive/1FbG9yaUNn8EqL1NgLBBoRIx9E5EPBuIQ?usp=sharing)
+- [Hyperparameter tuning](https://towardsdatascience.com/hyperparameter-tuning-explained-d0ebb2ba1d35), [Hyperparameter tuning](https://towardsdatascience.com/hyperparameter-tuning-a-practical-guide-and-template-b3bf0504f095), [Optuna](https://optuna.org/), [optuna.ipynb](https://colab.research.google.com/drive/1FbG9yaUNn8EqL1NgLBBoRIx9E5EPBuIQ?usp=sharing) ![](colab.png)
 - [p-values](https://youtu.be/vemZtEM63GY), [how to calculate p-values](https://youtu.be/JQc3yx0-Q9E), [p-hacking](https://youtu.be/HDCOUXE3HMM)
 - [Probability is not Likelihood](https://www.youtube.com/watch?v=pYxNSUDSFH4)
 - [17 Statistical Hypothesis Tests in Python](https://machinelearningmastery.com/statistical-hypothesis-tests-in-python-cheat-sheet/)
