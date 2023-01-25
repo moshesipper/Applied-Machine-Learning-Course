@@ -32,7 +32,7 @@
 
 <a name="lessons">**Lesson plan**</a>
 
-​#1 Python, AI+ML Intro​
++ ​#1 Python, AI+ML Intro​
 
 - [Python Programming](https://pythonbasics.org/) ([Python](https://www.python.org/downloads/windows/), [PyCharm](https://www.jetbrains.com/pycharm/download/#section=windows)), [Pandas](https://pythonbasics.org/what-is-pandas/), [NumPy](https://numpy.org/devdocs/user/absolute_beginners.html) / [NumPy](https://www.w3schools.com/python/numpy/default.asp) ([Numba](https://numba.pydata.org/)) ([np.dot](https://numpy.org/doc/stable/reference/generated/numpy.dot.html) vs [loop example](https://colab.research.google.com/drive/1wAfDDyqYkj1izQvn7bDF9tJA4xYlDWzp?usp=sharing))
 - [Computing Machinery and Intelligence](https://www.cs.mcgill.ca/~dprecup/courses/AI/Materials/turing1950.pdf)
@@ -225,7 +225,7 @@
 *	[Machine Learning Essentials for Biomedical Data Science: Introduction and ML Basics](https://www.youtube.com/watch?v=Qcgav8NmPxY&list=PLafPhSv1OSDfEqFsBnurxzJbcwZSJA8X4)
   
 
-*Books* <small>(🡇 means free to download)</small>
+*Books* (🡇 means free to download)
 
 *   M. Sipper, _[Evolved to Win](https://www.moshesipper.com/evolved-to-win.html)_, Lulu, 2011 🡇
 *   M. Sipper, _[Machine Nature: The Coming Age of Bio-Inspired Computing](https://www.moshesipper.com/machine-nature-the-coming-age-of-bio-inspired-computing.html)_, McGraw-Hill, New York, 2002
