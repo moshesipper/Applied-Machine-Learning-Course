@@ -46,7 +46,7 @@
 2: ML Intro, Simple Example, KNN, Cross-Validation
 
 - [Introduction to machine learning](https://data-psl.github.io/lectures2020/slides/02_intro_to_machine_learning),
-  [(train/val/test)](https://github.com/moshesipper/Applied-Machine-Learning-Course)
+  [(train/val/test)](https://glassboxmedicine.com/2019/09/15/best-use-of-train-val-test-splits-with-tips-for-medical-data/)
 - [simple weather example](https://colab.research.google.com/drive/1XShD6G7sPGLXKtto4GBZPLWJoPcJEJBk?usp=sharing) ![](colab.png)
 - [iris knn (map)](https://scikit-learn.org/stable/auto_examples/neighbors/plot_classification.html#sphx-glr-auto-examples-neighbors-plot-classification-py)
 - [kfold​](https://colab.research.google.com/drive/1Hj17jfBbl0tYBVn6ze0YQ7xxTS5Dr1-D?usp=sharing) ![](colab.png)
