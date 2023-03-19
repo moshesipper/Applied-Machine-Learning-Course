@@ -228,6 +228,7 @@ Reads / Vids
 *   ​[ML YouTube Courses](https://github.com/dair-ai/ML-YouTube-Courses)​
 *	[Machine Learning Essentials for Biomedical Data Science: Introduction and ML Basics](https://www.youtube.com/watch?v=Qcgav8NmPxY&list=PLafPhSv1OSDfEqFsBnurxzJbcwZSJA8X4)
 *	[GPT in 60 Lines of NumPy](https://jaykmody.com/blog/gpt-from-scratch/)
+*	[Some Techniques To Make Your PyTorch Models Train (Much) Faster](https://sebastianraschka.com/blog/2023/pytorch-faster.html)
   
 
 Books (🡇 means free to download)
