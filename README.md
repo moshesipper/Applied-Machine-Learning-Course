@@ -55,7 +55,7 @@
 
 - [Machine learning with scikit-learn](https://data-psl.github.io/lectures2020/slides/04_scikit_learn/#1)
 - [Machine learning models](https://data-psl.github.io/lectures2020/slides/03_machine_learning_models/)
-- [Boston dataset](https://scikit-learn.org/stable/datasets/toy_dataset.html#boston-dataset)
+- [Toy datasets (sklearn)](https://scikit-learn.org/stable/datasets/toy_dataset.html)
 - ​[Decision trees](https://youtu.be/_L39rN6gz7Y)​
 
 4: Random Forest, Linear Regression Logistic Regression
