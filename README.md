@@ -57,6 +57,8 @@
 - [Machine learning models](https://data-psl.github.io/lectures2020/slides/03_machine_learning_models/)
 - [Toy datasets (sklearn)](https://scikit-learn.org/stable/datasets/toy_dataset.html)
 - ​[Decision trees](https://youtu.be/_L39rN6gz7Y)​
+- [Decision trees​](https://colab.research.google.com/drive/1wyD94nW0HFvdhCkYLLmkxdVulhZTDD-x?usp=sharing) ![](colab.png)
+
 
 4: Random Forest, Linear Regression Logistic Regression
 
