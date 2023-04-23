@@ -82,7 +82,7 @@
 - Reminder: [Adaboost](https://www.cs.bgu.ac.il/~sipper/adaboost.jpg), [Gradient boost](https://www.cs.bgu.ac.il/~sipper/gradboost.jpg)
 - ​[XGBoost](https://youtu.be/OtD8wVaFm6E)
 - [Comparing supervised learning algorithms](https://www.dataschool.io/comparing-supervised-learning-algorithms/)
-- ​[How to find the best performing Machine Learning algorithm](https://medium.com/analytics-vidhya/how-to-find-the-best-performing-machine-learning-algorithm-dc4eb4ff34b6) ([load\_iris ](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_iris.html)vs. [load\_wine](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_wine.html), plt.show(), [Lazy Predict](https://lazypredict.readthedocs.io/en/latest/readme.html))
+- ​[How to find the best performing Machine Learning algorithm](https://medium.com/analytics-vidhya/how-to-find-the-best-performing-machine-learning-algorithm-dc4eb4ff34b6), Boston dataset (`from sklearn.datasets import load_boston` -> [racist data destruction?](https://medium.com/@docintangible/racist-data-destruction-113e3eff54a8)) 
 - [Gradient Descent](https://youtu.be/sDv4f4s2SB8) ([Least Squares](https://www.mathsisfun.com/data/least-squares-regression.html), [Least Squares](https://textbooks.math.gatech.edu/ila/least-squares.html))
 - [Stochastic Gradient Descent](https://youtu.be/vMh0zPT0tLI)
 
