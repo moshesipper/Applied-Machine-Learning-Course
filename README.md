@@ -103,6 +103,7 @@
 - ​[t-SNE](https://youtu.be/NEaUSP4YerM), [tsne](https://colab.research.google.com/drive/1vnA5iwWrjDY4AhHL_E86VLq59FwJG2s9?usp=sharing) ![](colab.png)
 - [Hierarchical clustering](https://youtu.be/7xHsRkOdVwo)
 - [K-means clustering](https://youtu.be/4b5d3muPQmA), [kmeans](https://colab.research.google.com/drive/1aoiM8cnS_DdNOP2njEsjWcyf6-zHMrJ1?usp=sharing) ![](colab.png)
+- [From Data to Clusters: When is Your Clustering Good Enough?](https://towardsdatascience.com/from-data-to-clusters-when-is-your-clustering-good-enough-5895440a978a)
 
 9: Hyperparameter Tuning, p-vals, t-test, Permutation Test
 
