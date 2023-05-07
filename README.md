@@ -94,7 +94,7 @@
 - [Multinomial Naive Bayes](https://youtu.be/O2L2Uv9pdDA)
 - Metrics: [sklearn.metrics](https://scikit-learn.org/stable/modules/classes.html?highlight=metrics#module-sklearn.metrics), [Confusion Matrix](https://youtu.be/Kdsp6soqA7o), 
 [Sensitivity and Specificity](https://youtu.be/vP06aMoz4v8),
- [https://en.wikipedia.org/wiki/Sensitivity_and_specificity] (Sensitivity and specificity),
+[Sensitivity and specificity](https://en.wikipedia.org/wiki/Sensitivity_and_specificity),
  [ROC and AUC](https://youtu.be/4jRBRDbJemM) ([Online ROC Curve Calculator](https://www.rad.jhmi.edu/jeng/javarad/roc/JROCFITi.html)), ​[balanced accuracy](https://www.statology.org/balanced-accuracy/), [balanced accuracy](https://scikit-learn.org/stable/modules/model_evaluation.html#balanced-accuracy-score), [various metrics from CM](https://en.wikipedia.org/wiki/Confusion_matrix)
 - [Could machine learning fuel a reproducibility crisis in science?](https://www.nature.com/articles/d41586-022-02035-w)
 
