@@ -92,7 +92,10 @@
 - [Choosing the right estimator](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
 - [Support Vector Machine](https://youtu.be/efR1C6CvhmE) [(](https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html)[sklearn.svm.SVC)](https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html), [Plot different SVM classifiers in the iris dataset](https://scikit-learn.org/stable/auto_examples/svm/plot_iris_svc.html#sphx-glr-auto-examples-svm-plot-iris-svc-py)
 - [Multinomial Naive Bayes](https://youtu.be/O2L2Uv9pdDA)
-- Metrics: [sklearn.metrics](https://scikit-learn.org/stable/modules/classes.html?highlight=metrics#module-sklearn.metrics), [Confusion Matrix](https://youtu.be/Kdsp6soqA7o), [Sensitivity and Specificity](https://youtu.be/vP06aMoz4v8), [https://en.wikipedia.org/wiki/Sensitivity_and_specificity](Sensitivity and specificity), [ROC and AUC](https://youtu.be/4jRBRDbJemM) ([Online ROC Curve Calculator](https://www.rad.jhmi.edu/jeng/javarad/roc/JROCFITi.html)), ​[balanced accuracy](https://www.statology.org/balanced-accuracy/), [balanced accuracy](https://scikit-learn.org/stable/modules/model_evaluation.html#balanced-accuracy-score), [various metrics from CM](https://en.wikipedia.org/wiki/Confusion_matrix)
+- Metrics: [sklearn.metrics](https://scikit-learn.org/stable/modules/classes.html?highlight=metrics#module-sklearn.metrics), [Confusion Matrix](https://youtu.be/Kdsp6soqA7o), 
+[Sensitivity and Specificity](https://youtu.be/vP06aMoz4v8),
+ [https://en.wikipedia.org/wiki/Sensitivity_and_specificity] (Sensitivity and specificity),
+ [ROC and AUC](https://youtu.be/4jRBRDbJemM) ([Online ROC Curve Calculator](https://www.rad.jhmi.edu/jeng/javarad/roc/JROCFITi.html)), ​[balanced accuracy](https://www.statology.org/balanced-accuracy/), [balanced accuracy](https://scikit-learn.org/stable/modules/model_evaluation.html#balanced-accuracy-score), [various metrics from CM](https://en.wikipedia.org/wiki/Confusion_matrix)
 - [Could machine learning fuel a reproducibility crisis in science?](https://www.nature.com/articles/d41586-022-02035-w)
 
 8: Metrics, PCA, t-SNE, Clustering
