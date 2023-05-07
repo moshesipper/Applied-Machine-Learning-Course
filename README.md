@@ -85,6 +85,7 @@
 - ​[How to find the best performing Machine Learning algorithm](https://medium.com/analytics-vidhya/how-to-find-the-best-performing-machine-learning-algorithm-dc4eb4ff34b6), Boston dataset (`from sklearn.datasets import load_boston` -> [racist data destruction?](https://medium.com/@docintangible/racist-data-destruction-113e3eff54a8)) 
 - [Gradient Descent](https://youtu.be/sDv4f4s2SB8) ([Least Squares](https://www.mathsisfun.com/data/least-squares-regression.html), [Least Squares](https://textbooks.math.gatech.edu/ila/least-squares.html))
 - [Stochastic Gradient Descent](https://youtu.be/vMh0zPT0tLI)
+- [Stochastic Gradient Descent Algorithm With Python and NumPy](https://realpython.com/gradient-descent-algorithm-python/)
 
 7: Choosing Model, SVM, Bayes, Metrics
 
