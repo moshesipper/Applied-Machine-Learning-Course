@@ -105,6 +105,7 @@
 - [11 Different Uses of Dimensionality Reduction](https://towardsdatascience.com/11-different-uses-of-dimensionality-reduction-4325d62b4fa6)
 - ​[PCA](https://youtu.be/FgakZw6K1QQ), [PCA](https://www.sartorius.com/en/knowledge/science-snippets/what-is-principal-component-analysis-pca-and-how-it-is-used-507186), [PCA vs LR](https://starship-knowledge.com/pca-vs-linear-regression#PCA_vs_Linear_Regression_-_How_do_they_Differ), [pca](https://colab.research.google.com/drive/1h6xLxKyEltPwsck-mJ5nQPFkMGYI8VOs?usp=sharing) ![](colab.png)
 - ​[t-SNE](https://youtu.be/NEaUSP4YerM), [tsne](https://colab.research.google.com/drive/1vnA5iwWrjDY4AhHL_E86VLq59FwJG2s9?usp=sharing) ![](colab.png)
+- [Clustering](https://www.geeksforgeeks.org/clustering-in-machine-learning/)
 - [Hierarchical clustering](https://youtu.be/7xHsRkOdVwo)
 - [K-means clustering](https://youtu.be/4b5d3muPQmA), [kmeans](https://colab.research.google.com/drive/1aoiM8cnS_DdNOP2njEsjWcyf6-zHMrJ1?usp=sharing) ![](colab.png)
 - [From Data to Clusters: When is Your Clustering Good Enough?](https://towardsdatascience.com/from-data-to-clusters-when-is-your-clustering-good-enough-5895440a978a)
