@@ -120,7 +120,8 @@
 - [17 Statistical Hypothesis Tests in Python](https://machinelearningmastery.com/statistical-hypothesis-tests-in-python-cheat-sheet/)
 - [t-test](https://youtu.be/0Pd3dc1GcHc), ​[t-test](https://youtu.be/pTmLQvMM-1M) ([t-test vs p-value)](https://askanydifference.com/difference-between-t-test-and-p-value/), [scpipy ttest](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.ttest_ind.html)
 - ([chi-square](https://youtu.be/ZjdBM7NO7bY))
-- [permutation test](https://youtu.be/GmvpsJHGCxQ) ([AddGBoost ](https://www.sciencedirect.com/science/article/pii/S2666827021001225)+ [code](https://github.com/moshesipper/AddGBoost)), [permutation test](https://www.linkedin.com/feed/update/urn:li:activity:6934781784937107456/)
+- [permutation test](https://youtu.be/GmvpsJHGCxQ) ([AddGBoost ](https://www.sciencedirect.com/science/article/pii/S2666827021001225)+ [code](https://github.com/moshesipper/AddGBoost))
+- [The Permutation Test: A Statistical Test that has (More than) Survived the Test of Time](https://medium.com/@sipper/the-permutation-test-a-statistical-test-that-has-more-than-survived-the-test-of-time-c909ebe8eb92)
 
 10+11: Neural Networks
 
