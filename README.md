@@ -139,7 +139,7 @@
 - [Evolutionary Computation](http://www.evolutionarycomputation.org/slides/)
 - [Evolutionary Algorithms, Genetic Programming, and Learning
 ](https://medium.com/@sipper/evolutionary-algorithms-genetic-programming-and-learning-dfde441ad0b9)
--[Tiny GA](https://github.com/moshesipper/tiny_ga), [Tiny GP](https://github.com/moshesipper/tiny_gp)
+-[Tiny GA](https://github.com/moshesipper/tiny_ga), [Tiny GP](https://github.com/moshesipper/tiny_gp), [EC-KitY](https://www.eckity.org/)
 - Genetic Programming (GP): [Koza](http://www.genetic-programming.com/c2003lecture1modified.ppt),[ Koza Tutorial,](http://www.genetic-programming.com/gecco2003tutorial.pdf) [Koza &amp; Poli](http://www.cs.bham.ac.uk/~wbl/biblio/cache/bin/cache.php?koza:2003:gpt,http___www.genetic-programming.com_jkpdf_burke2003tutorial.pdf,http://www.genetic-programming.com/jkpdf/burke2003tutorial.pdf), [Yoo, ](https://coinse.kaist.ac.kr/assets/files/teaching/cs454/cs454-slide09.pdf)[Herrmann](https://www.inf.ed.ac.uk/teaching/courses/nat/slides/nat09h.pdf),[Koza's vids](https://www.youtube.com/channel/UC9MEHhji3ODbE_e66EgFkew)
 -[Multi-Objective Optimization](https://engineering.purdue.edu/~sudhoff/ee630/Lecture09.pdf)
 - [Schema theorem](https://engineering.purdue.edu/~sudhoff/ee630/Lecture03.pdf)
