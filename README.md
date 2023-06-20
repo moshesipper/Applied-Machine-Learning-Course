@@ -56,7 +56,7 @@
 - [Machine learning with scikit-learn](https://data-psl.github.io/lectures2020/slides/04_scikit_learn/#1)
 - [Machine learning models](https://data-psl.github.io/lectures2020/slides/03_machine_learning_models/)
 - [Toy datasets (sklearn)](https://scikit-learn.org/stable/datasets/toy_dataset.html)
--[Decision trees](https://youtu.be/_L39rN6gz7Y)
+- [Decision trees](https://youtu.be/_L39rN6gz7Y)
 - [Decision trees](https://colab.research.google.com/drive/1wyD94nW0HFvdhCkYLLmkxdVulhZTDD-x?usp=sharing) ![](colab.png)
 
 
@@ -68,21 +68,21 @@
 - [LinearReg](https://colab.research.google.com/drive/1fCQjAiEce6hU0osLzCWo73hC9iYva3QK?usp=sharing) ![](colab.png)
 - [Logistic Regression](https://youtu.be/yIYKR4sgzI8), [Logistic Regression](https://www.analyticsvidhya.com/blog/2021/07/an-introduction-to-logistic-regression/), [Cross-Entropy Loss](https://towardsdatascience.com/cross-entropy-loss-function-f38c4ec8643e)
 - [Optimization of linear models](https://data-psl.github.io/lectures2020/slides/05_optimization_linear_models/)
--[Ridge vs. Lasso](https://www.statology.org/when-to-use-ridge-lasso-regression/), [notes on regularization in ML](https://www.linkedin.com/feed/update/urn:li:activity:7053809365169971201/)
+- [Ridge vs. Lasso](https://www.statology.org/when-to-use-ridge-lasso-regression/), [notes on regularization in ML](https://www.linkedin.com/feed/update/urn:li:activity:7053809365169971201/)
 
 5: AdaBoost, Gradient Boosting
 
 - Summary: [Linear Regression](https://medium.com/analytics-vidhya/a-quick-summary-of-linear-regression-42d1dab85e3e), [Logistic Regression](https://www.analyticsvidhya.com/blog/2021/07/an-introduction-to-logistic-regression/), [LinVsLog](https://colab.research.google.com/drive/1kfMFdrVpL9NczZdKDfA_zGT0NMr3PMYS?usp=sharing) ![](colab.png), [PolynomialFeatures](https://colab.research.google.com/drive/1zjuhudzOZRCbovLwWSxYLxsJ67V7A5Dt?usp=sharing) ![](colab.png)
 - [Adaptive Boosting](https://youtu.be/LsK-xG1cLYA)
--[Gradient Boosting](https://youtu.be/3CC4N4z3GJc)
+- [Gradient Boosting](https://youtu.be/3CC4N4z3GJc)
 - [AddGBoost](https://www.sciencedirect.com/science/article/pii/S2666827021001225), [Strong(er) Gradient Boosting](https://medium.com/@sipper/strong-er-gradient-boosting-6eb617566328)
 
 6: XGBoost, Comparing ML algos, Gradient Descent
 
 - Reminder: [Adaboost](https://www.cs.bgu.ac.il/~sipper/adaboost.jpg), [Gradient boost](https://www.cs.bgu.ac.il/~sipper/gradboost.jpg)
--[XGBoost](https://youtu.be/OtD8wVaFm6E)
+- [XGBoost](https://youtu.be/OtD8wVaFm6E)
 - [Comparing supervised learning algorithms](https://www.dataschool.io/comparing-supervised-learning-algorithms/)
--[How to find the best performing Machine Learning algorithm](https://medium.com/analytics-vidhya/how-to-find-the-best-performing-machine-learning-algorithm-dc4eb4ff34b6), Boston dataset (`from sklearn.datasets import load_boston` -> [racist data destruction?](https://medium.com/@docintangible/racist-data-destruction-113e3eff54a8)) 
+- [How to find the best performing Machine Learning algorithm](https://medium.com/analytics-vidhya/how-to-find-the-best-performing-machine-learning-algorithm-dc4eb4ff34b6), Boston dataset (`from sklearn.datasets import load_boston` -> [racist data destruction?](https://medium.com/@docintangible/racist-data-destruction-113e3eff54a8)) 
 - [Gradient Descent](https://youtu.be/sDv4f4s2SB8) ([Least Squares](https://www.mathsisfun.com/data/least-squares-regression.html), [Least Squares](https://textbooks.math.gatech.edu/ila/least-squares.html))
 - [Stochastic Gradient Descent](https://youtu.be/vMh0zPT0tLI)
 - [Stochastic Gradient Descent Algorithm With Python and NumPy](https://realpython.com/gradient-descent-algorithm-python/)
@@ -103,8 +103,8 @@
 - [ML in practice](https://info.deeplearning.ai/the-batch-one-model-for-hundreds-of-tasks-recognizing-workplace-hazards-when-data-means-danger-vision-transformer-upgrade-1)
 - [balanced accuracy](https://www.statology.org/balanced-accuracy/), [balanced accuracy](https://scikit-learn.org/stable/modules/model_evaluation.html#balanced-accuracy-score), [various metrics from CM](https://en.wikipedia.org/wiki/Confusion_matrix)
 - [11 Different Uses of Dimensionality Reduction](https://towardsdatascience.com/11-different-uses-of-dimensionality-reduction-4325d62b4fa6)
--[PCA](https://youtu.be/FgakZw6K1QQ), [PCA](https://www.sartorius.com/en/knowledge/science-snippets/what-is-principal-component-analysis-pca-and-how-it-is-used-507186), [PCA vs LR](https://starship-knowledge.com/pca-vs-linear-regression#PCA_vs_Linear_Regression_-_How_do_they_Differ), [pca](https://colab.research.google.com/drive/1h6xLxKyEltPwsck-mJ5nQPFkMGYI8VOs?usp=sharing) ![](colab.png)
--[t-SNE](https://youtu.be/NEaUSP4YerM), [tsne](https://colab.research.google.com/drive/1vnA5iwWrjDY4AhHL_E86VLq59FwJG2s9?usp=sharing) ![](colab.png)
+- [PCA](https://youtu.be/FgakZw6K1QQ), [PCA](https://www.sartorius.com/en/knowledge/science-snippets/what-is-principal-component-analysis-pca-and-how-it-is-used-507186), [PCA vs LR](https://starship-knowledge.com/pca-vs-linear-regression#PCA_vs_Linear_Regression_-_How_do_they_Differ), [pca](https://colab.research.google.com/drive/1h6xLxKyEltPwsck-mJ5nQPFkMGYI8VOs?usp=sharing) ![](colab.png)
+- [t-SNE](https://youtu.be/NEaUSP4YerM), [tsne](https://colab.research.google.com/drive/1vnA5iwWrjDY4AhHL_E86VLq59FwJG2s9?usp=sharing) ![](colab.png)
 - [Clustering](https://www.geeksforgeeks.org/clustering-in-machine-learning/)
 - [Hierarchical clustering](https://youtu.be/7xHsRkOdVwo)
 - [K-means clustering](https://youtu.be/4b5d3muPQmA), [kmeans](https://colab.research.google.com/drive/1aoiM8cnS_DdNOP2njEsjWcyf6-zHMrJ1?usp=sharing) ![](colab.png)
