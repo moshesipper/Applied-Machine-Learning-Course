@@ -42,6 +42,7 @@
 - [Machine Learning: history, applications, recent successes](https://data-psl.github.io/lectures2020/slides/01_machine_learning_successes)
 - [Data Science Infographic](https://github.com/dataprofessor/infographic) (Building an ML Model, Data Science Landscape)
 - [How to avoid machine learning pitfalls](https://arxiv.org/abs/2108.02497)
+- [Top 10 machine learning algorithms with their use-cases](https://medium.com/@avikumart_/top-10-machine-learning-algorithms-with-their-use-cases-f1ea2c1dfd6b)
 
 2: ML Intro, Simple Example, KNN, Cross-Validation
 
