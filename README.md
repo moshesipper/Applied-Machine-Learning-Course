@@ -135,6 +135,7 @@
 - [Growth of AI computing](https://twitter.com/pmddomingos/status/1535112033137401857), [AI move from Academia](https://twitter.com/GaryMarcus/status/1536150812795121664), [Artificial General Intelligence Is Not as Imminent as You Might Think](https://www.scientificamerican.com/article/artificial-general-intelligence-is-not-as-imminent-as-you-might-think1/)
 - [Tinker With a Neural Network in Your Browser](https://playground.tensorflow.org/)
 - [Introduction to large language models](https://www.youtube.com/watch?v=zizonToFXDs), [Scikit-LLM](https://github.com/iryna-kondr/scikit-llm)
+- [A Tiny Large Language Model (LLM), Coded, and Hallucinating](https://medium.com/@sipper/a-tiny-large-language-model-llm-coded-and-hallucinating-9a427b04eb1a)
 - [Introduction to image generation (diffusion)](https://www.youtube.com/watch?v=kzxz8CO_oG4)
 
 12+13: Evolutionary Algorithms
