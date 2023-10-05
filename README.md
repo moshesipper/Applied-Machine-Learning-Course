@@ -43,6 +43,7 @@
 - [Data Science Infographic](https://github.com/dataprofessor/infographic) (Building an ML Model, Data Science Landscape)
 - [How to avoid machine learning pitfalls](https://arxiv.org/abs/2108.02497)
 - [Top 10 machine learning algorithms with their use-cases](https://medium.com/@avikumart_/top-10-machine-learning-algorithms-with-their-use-cases-f1ea2c1dfd6b)
+- [21 Most Important (and Must-know) Mathematical Equations in Data Science](https://www.blog.dailydoseofds.com/p/21-most-important-and-must-know-mathematical)
 
 2: ML Intro, Simple Example, KNN, Cross-Validation
 
