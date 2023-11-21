@@ -6,7 +6,7 @@
 
 [Course Contents](#contents)
 
-[5-Min Reads] (#medium)
+[Min Reads] (#medium)
 
 [Lesson Plan](#lessons)
 
@@ -34,7 +34,7 @@
 
 <a name="medium">**5-Min Reads**</a>
 
-Short medium articles of mine about topics related to this course:
+Short Medium articles of mine about topics related to this course:
 - [Linear Regression vs Logistic Regression in a Nutshell
 ](https://medium.com/mlearning-ai/linear-regression-vs-logistic-regression-in-a-nutshell-cf708cfe8f92)
 
