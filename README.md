@@ -23,7 +23,7 @@
 
 - What is machine learning (ML)?
 - Basics of Python programming
-- Applying ML: <sub>evaluation, dataset splits, cross-validation, performance measures, bias/variance tradeoff, visualization, confusion matrix, choosing estimators, hyperparameter tuning, statistics</sub>
+- Applying ML: <h5>evaluation, dataset splits, cross-validation, performance measures, bias/variance tradeoff, visualization, confusion matrix, choosing estimators, hyperparameter tuning, statistics</h5>
 - Supervised learning: models, features, objectives, model training, overfitting, regularization, classification, regression, gradient descent, k nearest neighbors, linear regression, logistic regression, decision tree, random forest, adaptive boosting, gradient boosting, support vector machine, naïve Bayes
 - Dimensionality reduction: principal component analysis
 - Unsupervised learning: hierarchical clustering, k-means, t-SNE
