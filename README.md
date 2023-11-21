@@ -2,7 +2,9 @@
 
 <img align="right" src="https://www.moshesipper.com/uploads/3/0/8/3/30831095/published/pixar-animation-studios-disney-pixar-wall-e-rubik-s-cube-wallpaper-preview2.jpg" width="200" />
 
-**This course covers the applied/coding side of algorithmics in machine learning and deep learning, with a smidgen of evolutionary algorithms.** 
+**This course covers the applied/coding side of algorithmics in machine learning and deep learning, with a smidgen of evolutionary algorithms.**
+
+*Syllabus: What is machine learning (ML), Python, applying ML, supervised learning, dimensionality reduction, unsupervised learning, deep networks, evolutionary algorithms*
 
 [Course Contents](#contents)
 
@@ -23,11 +25,11 @@
 
 - What is machine learning (ML)?
 - Basics of Python programming
-- Applying ML:<h6>evaluation, dataset splits, cross-validation, performance measures, bias/variance tradeoff, visualization, confusion matrix, choosing estimators, hyperparameter tuning, statistics</h6>
+- Applying ML: evaluation, dataset splits, cross-validation, performance measures, bias/variance tradeoff, visualization, confusion matrix, choosing estimators, hyperparameter tuning, statistics
 - Supervised learning: models, features, objectives, model training, overfitting, regularization, classification, regression, gradient descent, k nearest neighbors, linear regression, logistic regression, decision tree, random forest, adaptive boosting, gradient boosting, support vector machine, naïve Bayes
 - Dimensionality reduction: principal component analysis
 - Unsupervised learning: hierarchical clustering, k-means, t-SNE
-- Artificial neural networks: backpropagation, deep neural network, convolutional neural network
+- Deep networks: backpropagation, deep neural network, convolutional neural network
 - Evolutionary algorithms: genetic algorithm,genetic programming
 
 ***
