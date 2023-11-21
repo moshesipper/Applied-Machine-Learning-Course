@@ -4,7 +4,9 @@
 
 **This course covers the applied/coding side of algorithmics in machine learning and deep learning, with a smidgen of evolutionary algorithms.** 
 
-[Course Contents](#contents)	
+[Course Contents](#contents)
+
+[5-Min Reads] (#medium)
 
 [Lesson Plan](#lessons)
 
@@ -28,9 +30,17 @@
 - Artificial neural networks: backpropagation, deep neural network, convolutional neural network
 - Evolutionary algorithms: genetic algorithm,genetic programming
 
+***
+
+<a name="medium">**5-Min Reads**</a>
+Short medium articles of mine about topics related to this course:
+- [Linear Regression vs Logistic Regression in a Nutshell
+](https://medium.com/mlearning-ai/linear-regression-vs-logistic-regression-in-a-nutshell-cf708cfe8f92)
+
+
 ***	
 
-<a name="lessons">**Lesson plan**</a>
+<a name="lessons">**Lesson Plan**</a>
 
 (![](colab.png) marks my colab notebooks)
 
