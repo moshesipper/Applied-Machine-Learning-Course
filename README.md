@@ -6,7 +6,7 @@
 
 *Syllabus: What is machine learning (ML), Python, applying ML, supervised learning, dimensionality reduction, unsupervised learning, deep networks, evolutionary algorithms*
 
-[Course Contents](#contents)
+[Expanded Syllabus](#syllabus)
 
 [5-Min Reads](#medium)
 
@@ -21,7 +21,7 @@
 
 ***
 
-<a name="contents">**Course Contents**</a>
+<a name="syllabus">**Expanded Syllabus**</a>
 
 - What is machine learning (ML)?
 - Basics of Python programming
