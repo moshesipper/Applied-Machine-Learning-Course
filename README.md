@@ -6,7 +6,7 @@
 
 [Course Contents](#contents)
 
-[5-Min Reads] (#medium)
+[5-Min Reads](#medium)
 
 [Lesson Plan](#lessons)
 
@@ -47,6 +47,12 @@ Short Medium articles of mine about topics related to this course:
 ](https://medium.com/the-generator/a-is-for-alien-analogies-between-modern-ai-and-richard-feynmans-the-character-of-physical-law-57b5cbe93cf8)
 - [Jailbreaking Large Language Models: If You Torture the Model Long Enough, It Will Confess!
 ](https://medium.com/the-generator/jailbreaking-large-language-models-if-you-torture-the-model-long-enough-it-will-confess-55e910ee2c3c)
+- [Go Forth and Replicate: Self-Replication in Cellular Automata
+](https://medium.com/the-gray-area/go-forth-and-replicate-self-replication-in-cellular-automata-72ac2652a47a)
+- [Embryonic Electronics: The Embryonics Project
+](https://medium.com/predict/embryonic-electronics-the-embryonics-project-b9e98a713a02)
+- [The POE Model of Bio-Inspired Hardware Systems
+](https://medium.com/towards-artificial-intelligence/the-poe-model-of-bio-inspired-hardware-systems-435eec1421b)
 - [Overparameterization, Backpropagation, Alimentation: Them and Us
 ](https://medium.com/ai-mind-labs/overparameterization-backpropagation-alimentation-them-and-us-bb326edb60c2)
 - [Who’s the Boss?
