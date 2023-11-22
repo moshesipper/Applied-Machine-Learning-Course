@@ -37,6 +37,7 @@
 <a name="medium">**5-Min Reads**</a>
 
 Short Medium articles of mine about topics related to this course:
+- [When AI Lacks Morality](https://medium.com/the-generator/when-ai-lacks-morality-4b968a49198c)
 - [Linear Regression vs Logistic Regression in a Nutshell
 ](https://medium.com/mlearning-ai/linear-regression-vs-logistic-regression-in-a-nutshell-cf708cfe8f92)
 - [A Minimal Example of Face Recognition and Facial Analysis
