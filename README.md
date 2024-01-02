@@ -37,6 +37,9 @@
 <a name="medium">**5-Min Reads**</a>
 
 Short Medium articles of mine about topics related to this course:
+- [Loss is Boss](https://levelup.gitconnected.com/loss-is-boss-01ec08dea9e0)
+- [Artificial Intelligence is Able, but is It Willing?](https://medium.com/the-generator/artificial-intelligence-is-able-but-is-it-willing-52d5e4b466b9)
+- [Tips for Approaching a Prospective Academic Grad Advisor](https://medium.com/the-modern-scientist/tips-for-approaching-a-prospective-academic-grad-advisor-90065c510edb)
 - [When AI Lacks Morality](https://medium.com/the-generator/when-ai-lacks-morality-4b968a49198c)
 - [Linear Regression vs Logistic Regression in a Nutshell
 ](https://medium.com/mlearning-ai/linear-regression-vs-logistic-regression-in-a-nutshell-cf708cfe8f92)
