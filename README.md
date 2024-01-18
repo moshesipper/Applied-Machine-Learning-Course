@@ -37,6 +37,7 @@
 <a name="medium">**5-Min Reads**</a>
 
 Short Medium articles of mine about topics related to this course:
+- [Please Explain Yourself, AI](https://medium.com/the-generator/please-explain-yourself-ai-8c8ebfd8e484)
 - [Loss is Boss](https://levelup.gitconnected.com/loss-is-boss-01ec08dea9e0)
 - [Artificial Intelligence is Able, but is It Willing?](https://medium.com/the-generator/artificial-intelligence-is-able-but-is-it-willing-52d5e4b466b9)
 - [Tips for Approaching a Prospective Academic Grad Advisor](https://medium.com/the-modern-scientist/tips-for-approaching-a-prospective-academic-grad-advisor-90065c510edb)
