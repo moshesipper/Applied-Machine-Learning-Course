@@ -37,6 +37,8 @@
 <a name="medium">**5-Min Reads**</a>
 
 Short Medium articles of mine about topics related to this course:
+- [Coevolutionary Computation](https://medium.com/the-generator/coevolutionary-computation-fb719304d12e)
+- [Evolutionary Art](https://medium.com/the-generator/evolutionary-art-00460707d529)
 - [Please Explain Yourself, AI](https://medium.com/the-generator/please-explain-yourself-ai-8c8ebfd8e484)
 - [Loss is Boss](https://levelup.gitconnected.com/loss-is-boss-01ec08dea9e0)
 - [Artificial Intelligence is Able, but is It Willing?](https://medium.com/the-generator/artificial-intelligence-is-able-but-is-it-willing-52d5e4b466b9)
