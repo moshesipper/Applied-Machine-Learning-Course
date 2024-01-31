@@ -37,69 +37,74 @@
 <a name="medium">**5-Min Reads**</a>
 
 Short Medium articles of mine about topics related to this course:
-- [Coevolutionary Computation](https://medium.com/the-generator/coevolutionary-computation-fb719304d12e)
-- [Evolutionary Art](https://medium.com/the-generator/evolutionary-art-00460707d529)
-- [Please Explain Yourself, AI](https://medium.com/the-generator/please-explain-yourself-ai-8c8ebfd8e484)
-- [Loss is Boss](https://levelup.gitconnected.com/loss-is-boss-01ec08dea9e0)
-- [Artificial Intelligence is Able, but is It Willing?](https://medium.com/the-generator/artificial-intelligence-is-able-but-is-it-willing-52d5e4b466b9)
-- [Tips for Approaching a Prospective Academic Grad Advisor](https://medium.com/the-modern-scientist/tips-for-approaching-a-prospective-academic-grad-advisor-90065c510edb)
-- [When AI Lacks Morality](https://medium.com/the-generator/when-ai-lacks-morality-4b968a49198c)
-- [Linear Regression vs Logistic Regression in a Nutshell
-](https://medium.com/mlearning-ai/linear-regression-vs-logistic-regression-in-a-nutshell-cf708cfe8f92)
-- [A Minimal Example of Face Recognition and Facial Analysis
-](https://medium.com/ai-mind-labs/a-minimal-example-of-face-recognition-and-facial-analysis-ce4024da30d8)
-- [A Basic Variational Autoencoder in PyTorch Trained on the CelebA Dataset
-](https://medium.com/the-generator/a-basic-variational-autoencoder-in-pytorch-trained-on-the-celeba-dataset-f29c75316b26)
-- [Better and Better and Better Humans
-](https://medium.com/illumination/better-and-better-and-better-humans-77ae52b72baf)
-- [“A” is for Alien: Analogies Between Modern AI and Richard Feynman’s “The Character of Physical Law”
-](https://medium.com/the-generator/a-is-for-alien-analogies-between-modern-ai-and-richard-feynmans-the-character-of-physical-law-57b5cbe93cf8)
-- [Jailbreaking Large Language Models: If You Torture the Model Long Enough, It Will Confess!
-](https://medium.com/the-generator/jailbreaking-large-language-models-if-you-torture-the-model-long-enough-it-will-confess-55e910ee2c3c)
-- [Go Forth and Replicate: Self-Replication in Cellular Automata
-](https://medium.com/the-gray-area/go-forth-and-replicate-self-replication-in-cellular-automata-72ac2652a47a)
-- [Embryonic Electronics: The Embryonics Project
-](https://medium.com/predict/embryonic-electronics-the-embryonics-project-b9e98a713a02)
-- [The POE Model of Bio-Inspired Hardware Systems
-](https://medium.com/towards-artificial-intelligence/the-poe-model-of-bio-inspired-hardware-systems-435eec1421b)
-- [Overparameterization, Backpropagation, Alimentation: Them and Us
-](https://medium.com/ai-mind-labs/overparameterization-backpropagation-alimentation-them-and-us-bb326edb60c2)
-- [Who’s the Boss?
-](https://medium.com/predict/whos-the-boss-b2f9bb22671f?)
-- [The Permutation Test: A Data Scientist’s BFF
-](https://medium.com/cantors-paradise/the-permutation-test-a-data-scientists-bff-a8ca64a5adb4)
-- [Biologic or “By Ole Logic”
-](https://medium.com/predict/biologic-or-by-ole-logic-cc4e0deb7ea7)
-- [The Scigineer
-](https://medium.com/predict/the-scigineer-186918e4067e?)
-- [How to Build a Genetic Algorithm from Scratch in Python with Just 33 Lines of Code
-](https://medium.com/gitconnected/tiny-genetic-algorithm-33-line-version-and-3-line-version-38a851141512)
-- [A Tiny Large Language Model (LLM), Coded, and Hallucinating
-](https://medium.com/ai-mind-labs/a-tiny-large-language-model-llm-coded-and-hallucinating-9a427b04eb1a)
-- [A Minimal Example of Machine Learning (with scikit-learn)
-](https://medium.com/gitconnected/a-minimal-example-of-machine-learning-with-scikit-learn-4e98d5dcc6e7)
-- [Realtime Object Detection On Your Phone
-](https://medium.com/mlearning-ai/game-of-yolo-realtime-object-detection-on-your-phone-f0b6ac4bc75c)
-- [Turing Test, Chinese Room, and Large Language Models
-](https://medium.com/towards-artificial-intelligence/turing-test-chinese-room-and-large-language-models-b194f9600f14)
-- [I See Dead People, or It’s Intelligence, Jim, But Not As We Know It
-](https://medium.com/predict/i-see-dead-people-or-its-intelligence-jim-but-not-as-we-know-it-38830e9501ec)
-- [Two’s Company, Three’s an Ensemble
-](https://medium.com/towards-artificial-intelligence/twos-company-three-s-an-ensemble-99bd06608560)
-- [Evaluating Hyperparameters in Machine Learning
-](https://medium.com/mlearning-ai/evaluating-hyperparameters-in-machine-learning-25b7fa09362d)
-- [Building Activation Functions for Deep Networks
-](https://medium.com/towards-artificial-intelligence/building-activation-functions-for-deep-networks-82c2a9c9cc1f)
-- [Strong(er) Gradient Boosting
-](https://medium.com/mlearning-ai/strong-er-gradient-boosting-6eb617566328)
-- [Evolutionary Adversarial Attacks on Deep Networks
-](https://medium.com/towards-artificial-intelligence/evolutionary-adversarial-attacks-on-deep-networks-ff622b8e15e5)
-- [Evolutionary Algorithms, Genetic Programming, and Learning
-](https://medium.com/ai-mind-labs/evolutionary-algorithms-genetic-programming-and-learning-dfde441ad0b9)
-- [A Life of its Own
-](https://medium.com/ai-mind-labs/a-life-of-its-own-1c2020367c3a)
-- [Superintelligence: Supergood or Superbad?
+- Artificial Intelligence
+-- [Superintelligence: Supergood or Superbad?
 ](https://medium.com/predict/superintelligence-supergood-or-superbad-db70bf3b96d7)
+-- [Please Explain Yourself, AI](https://medium.com/the-generator/please-explain-yourself-ai-8c8ebfd8e484)
+-- [Artificial Intelligence is Able, but is It Willing?](https://medium.com/the-generator/artificial-intelligence-is-able-but-is-it-willing-52d5e4b466b9)
+-- [When AI Lacks Morality](https://medium.com/the-generator/when-ai-lacks-morality-4b968a49198c)
+-- [“A” is for Alien: Analogies Between Modern AI and Richard Feynman’s “The Character of Physical Law”
+](https://medium.com/the-generator/a-is-for-alien-analogies-between-modern-ai-and-richard-feynmans-the-character-of-physical-law-57b5cbe93cf8)
+-- [Turing Test, Chinese Room, and Large Language Models
+](https://medium.com/towards-artificial-intelligence/turing-test-chinese-room-and-large-language-models-b194f9600f14)
+- Deep Learning
+-- [Loss is Boss](https://levelup.gitconnected.com/loss-is-boss-01ec08dea9e0)
+-- [A Minimal Example of Face Recognition and Facial Analysis
+](https://medium.com/ai-mind-labs/a-minimal-example-of-face-recognition-and-facial-analysis-ce4024da30d8)
+-- [A Basic Variational Autoencoder in PyTorch Trained on the CelebA Dataset
+](https://medium.com/the-generator/a-basic-variational-autoencoder-in-pytorch-trained-on-the-celeba-dataset-f29c75316b26)
+-- [Jailbreaking Large Language Models: If You Torture the Model Long Enough, It Will Confess!
+](https://medium.com/the-generator/jailbreaking-large-language-models-if-you-torture-the-model-long-enough-it-will-confess-55e910ee2c3c)
+-- [Overparameterization, Backpropagation, Alimentation: Them and Us
+](https://medium.com/ai-mind-labs/overparameterization-backpropagation-alimentation-them-and-us-bb326edb60c2)
+-- [A Tiny Large Language Model (LLM), Coded, and Hallucinating
+](https://medium.com/ai-mind-labs/a-tiny-large-language-model-llm-coded-and-hallucinating-9a427b04eb1a)
+-- [Realtime Object Detection On Your Phone
+](https://medium.com/mlearning-ai/game-of-yolo-realtime-object-detection-on-your-phone-f0b6ac4bc75c)
+-- [I See Dead People, or It’s Intelligence, Jim, But Not As We Know It
+](https://medium.com/predict/i-see-dead-people-or-its-intelligence-jim-but-not-as-we-know-it-38830e9501ec)
+-- [Building Activation Functions for Deep Networks
+](https://medium.com/towards-artificial-intelligence/building-activation-functions-for-deep-networks-82c2a9c9cc1f)
+-- [Evolutionary Adversarial Attacks on Deep Networks
+](https://medium.com/towards-artificial-intelligence/evolutionary-adversarial-attacks-on-deep-networks-ff622b8e15e5)
+- Machine Learning
+-- [A Minimal Example of Machine Learning (with scikit-learn)
+](https://medium.com/gitconnected/a-minimal-example-of-machine-learning-with-scikit-learn-4e98d5dcc6e7)
+-- [Linear Regression vs Logistic Regression in a Nutshell
+](https://medium.com/mlearning-ai/linear-regression-vs-logistic-regression-in-a-nutshell-cf708cfe8f92)
+-- [Two’s Company, Three’s an Ensemble
+](https://medium.com/towards-artificial-intelligence/twos-company-three-s-an-ensemble-99bd06608560)
+-- [Evaluating Hyperparameters in Machine Learning
+](https://medium.com/mlearning-ai/evaluating-hyperparameters-in-machine-learning-25b7fa09362d)
+-- [Strong(er) Gradient Boosting
+](https://medium.com/mlearning-ai/strong-er-gradient-boosting-6eb617566328)
+- Evolutionary Algorithms
+-- [Coevolutionary Computation](https://medium.com/the-generator/coevolutionary-computation-fb719304d12e)
+-- [Evolutionary Art](https://medium.com/the-generator/evolutionary-art-00460707d529)
+-- [How to Build a Genetic Algorithm from Scratch in Python with Just 33 Lines of Code
+](https://medium.com/gitconnected/tiny-genetic-algorithm-33-line-version-and-3-line-version-38a851141512)
+-- [Evolutionary Algorithms, Genetic Programming, and Learning
+](https://medium.com/ai-mind-labs/evolutionary-algorithms-genetic-programming-and-learning-dfde441ad0b9)
+- Other
+-- [Tips for Approaching a Prospective Academic Grad Advisor](https://medium.com/the-modern-scientist/tips-for-approaching-a-prospective-academic-grad-advisor-90065c510edb)
+-- [Better and Better and Better Humans
+](https://medium.com/illumination/better-and-better-and-better-humans-77ae52b72baf)
+-- [Go Forth and Replicate: Self-Replication in Cellular Automata
+](https://medium.com/the-gray-area/go-forth-and-replicate-self-replication-in-cellular-automata-72ac2652a47a)
+-- [Embryonic Electronics: The Embryonics Project
+](https://medium.com/predict/embryonic-electronics-the-embryonics-project-b9e98a713a02)
+-- [The POE Model of Bio-Inspired Hardware Systems
+](https://medium.com/towards-artificial-intelligence/the-poe-model-of-bio-inspired-hardware-systems-435eec1421b)
+-- [Who’s the Boss?
+](https://medium.com/predict/whos-the-boss-b2f9bb22671f?)
+-- [The Permutation Test: A Data Scientist’s BFF
+](https://medium.com/cantors-paradise/the-permutation-test-a-data-scientists-bff-a8ca64a5adb4)
+-- [Biologic or “By Ole Logic”
+](https://medium.com/predict/biologic-or-by-ole-logic-cc4e0deb7ea7)
+-- [The Scigineer
+](https://medium.com/predict/the-scigineer-186918e4067e?)
+-- [A Life of its Own
+](https://medium.com/ai-mind-labs/a-life-of-its-own-1c2020367c3a)
 
 
 ***	
