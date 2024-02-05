@@ -40,6 +40,7 @@ Short Medium articles of mine about topics related to this course:
 - Artificial Intelligence
   - [Superintelligence: Supergood or Superbad?
 ](https://medium.com/predict/superintelligence-supergood-or-superbad-db70bf3b96d7)
+  - [Hey AI, What’s On (In) Your Mind?](https://medium.com/the-generator/hey-ai-whats-on-in-your-mind-f050ce156d12)
   - [Please Explain Yourself, AI](https://medium.com/the-generator/please-explain-yourself-ai-8c8ebfd8e484)
   - [Artificial Intelligence is Able, but is It Willing?](https://medium.com/the-generator/artificial-intelligence-is-able-but-is-it-willing-52d5e4b466b9)
   - [When AI Lacks Morality](https://medium.com/the-generator/when-ai-lacks-morality-4b968a49198c)
@@ -68,6 +69,8 @@ Short Medium articles of mine about topics related to this course:
   - [Evolutionary Adversarial Attacks on Deep Networks
 ](https://medium.com/towards-artificial-intelligence/evolutionary-adversarial-attacks-on-deep-networks-ff622b8e15e5)
 - Machine Learning
+  - [Somewhere Over the Gradient
+](https://levelup.gitconnected.com/somewhere-over-the-gradient-ec8c2eb0c184)
   - [A Minimal Example of Machine Learning (with scikit-learn)
 ](https://medium.com/gitconnected/a-minimal-example-of-machine-learning-with-scikit-learn-4e98d5dcc6e7)
   - [Linear Regression vs Logistic Regression in a Nutshell
