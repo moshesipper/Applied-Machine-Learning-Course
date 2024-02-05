@@ -35,6 +35,7 @@
 ***
 
 <a name="medium">**5-Min Reads**</a>
+
 [Here](https://medium.com/@sipper/moshe-sippers-writings-174ed2e861df) you can find short reads on various topics related to this course: Artificial Intelligence, Deep Learning, Machine Learning, Evolutionary Algorithms, and more.
 
 
