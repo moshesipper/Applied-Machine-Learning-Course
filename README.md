@@ -144,6 +144,7 @@
 - [Neural networks (StatQuest )](https://youtube.com/playlist?list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1), [Neural Networks (3Blue1Brown)](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&pp=iAQB)
 - [Neural Networks with À La Carte Selection of Activation Functions](https://drive.google.com/file/d/10wy_gFPoNLwQXHkHKAojYBxbKkB5W_da/view?usp=sharing)
 - [PyTorch](https://pytorch.org/tutorials/beginner/pytorch_with_examples.html), [PyTorch](https://towardsdatascience.com/understanding-pytorch-with-an-example-a-step-by-step-tutorial-81fc5f8c4e8e)
+- [Double Descent: Part 1: A Visual Introduction](https://mlu-explain.github.io/double-descent/)
 - [conv demo](https://deeplizard.com/resource/pavq7noze2), [convolution...](https://www.linkedin.com/posts/pascalbornet_artificialintelligence-ugcPost-6925288775740776448-0S-K/), [A simple image convolution
 ](https://youtube.com/shorts/4xWpQe3G9qI?si=RUwQHsAK4oP2bvc1)
 - [Implementing Image Processing Kernels from scratch using Convolution in Python
