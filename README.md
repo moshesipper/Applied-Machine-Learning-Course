@@ -243,29 +243,43 @@
 
 <a name="resources">**Resources: Evolutionary Algorithms, Machine Learning, Deep Learning**</a>
 
-Reads / Vids
+Vids
+
+*   [גיא כתבי - אלגוריתמים אבולוציוניים](https://www.youtube.com/watch?v=XPx-a6MVne8&ab_channel=guykatabi) (YouTube) \[גיא בוגר הקורס שלי: _אלגוריתמים אבולוציוניים וחיים מלאכותיים_\]
+*   [John Koza Genetic Programming](https://www.youtube.com/channel/UC9MEHhji3ODbE_e66EgFkew) (YouTube)
+*   [StatQuest with Josh Starmer](https://www.youtube.com/user/joshstarmer)
+*  [ML YouTube Courses](https://github.com/dair-ai/ML-YouTube-Courses)
+*	[Machine Learning Essentials for Biomedical Data Science: Introduction and ML Basics](https://www.youtube.com/watch?v=Qcgav8NmPxY&list=PLafPhSv1OSDfEqFsBnurxzJbcwZSJA8X4)
+*	[Artificial Intelligence Under Fire: Attacking and Defending Deep Neural Networks](https://www.youtube.com/watch?v=pz4PC-mKCDY)
+
+
+Basic Reads
 
 *   [Genetic and Evolutionary Algorithms and Programming](https://drive.google.com/file/d/0B6G3tbmMcpR4WVBTeDhKa3NtQjg/view?usp=sharing)
-*   [גיא כתבי - אלגוריתמים אבולוציוניים](https://www.youtube.com/watch?v=XPx-a6MVne8&ab_channel=guykatabi) (YouTube) \[גיא בוגר הקורס שלי: _אלגוריתמים אבולוציוניים וחיים מלאכותיים_\]
 *	[Choosing Representation, Mutation, and Crossover in Genetic Algorithms
 ](https://ieeexplore.ieee.org/document/9942691/interactive)
 *   [Introduction to Evolutionary Computing](http://www.evolutionarycomputation.org/) (course/book slides)
-*   [John Koza Genetic Programming](https://www.youtube.com/channel/UC9MEHhji3ODbE_e66EgFkew) (YouTube)
 *   [Some reports in the popular press](https://www.moshesipper.com/publications.html)
-*   [Why video games are essential for inventing artificial intelligence](https://togelius.blogspot.co.il/2016/01/why-video-games-are-essential-for.html)
-*   [Biologic or “By Ole Logic”](http://www.moshesipper.com/blog/biologic-or-by-ole-logic)
 *   [26 Top Machine Learning Interview Questions and Answers: Theory Edition](https://www.blog.confetti.ai/post/26-top-machine-learning-interview-questions-and-answers-theory)
 *   [10 Popular Machine Learning Algorithms In A Nutshell](https://www.theinsaneapp.com/2021/11/machine-learning-algorithms-for-beginners.html)
-*   [StatQuest with Josh Starmer](https://www.youtube.com/user/joshstarmer)
 *   [Machine learning preparatory week @PSL](https://data-psl.github.io/lectures2020/)
 *   [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome) (coursera)
-*   [ROC-AUC](https://www.analyticsvidhya.com/blog/2020/06/auc-roc-curve-machine-learning/)
 *   [Tinker With a Neural Network in Your Browser](https://playground.tensorflow.org/)
 *   [Common Machine Learning Algorithms for Beginners](https://www.dezyre.com/article/common-machine-learning-algorithms-for-beginners/202)
-*  [ML YouTube Courses](https://github.com/dair-ai/ML-YouTube-Courses)
-*	[Machine Learning Essentials for Biomedical Data Science: Introduction and ML Basics](https://www.youtube.com/watch?v=Qcgav8NmPxY&list=PLafPhSv1OSDfEqFsBnurxzJbcwZSJA8X4)
-*	[GPT in 60 Lines of NumPy](https://jaykmody.com/blog/gpt-from-scratch/)
+
+
+
+Advanced Reads
+
+*	[What can LLMs never do?](https://www.strangeloopcanon.com/p/what-can-llms-never-do)
+*	[Foundational Challenges in Assuring Alignment and Safety of Large Language Models
+](https://arxiv.org/abs/2404.09932)
+*	[“Explainability” Is a Poor Band-Aid for Biased AI in Medicine](https://fperrywilson.medium.com/explainability-is-a-poor-band-aid-for-biased-ai-in-medicine-3db62a338857)
 *	[Some Techniques To Make Your PyTorch Models Train (Much) Faster](https://sebastianraschka.com/blog/2023/pytorch-faster.html)
+*	[GPT in 60 Lines of NumPy](https://jaykmody.com/blog/gpt-from-scratch/)
+*   [ROC-AUC](https://www.analyticsvidhya.com/blog/2020/06/auc-roc-curve-machine-learning/)
+*   [Why video games are essential for inventing artificial intelligence](https://togelius.blogspot.co.il/2016/01/why-video-games-are-essential-for.html)
+
   
 
 Books (🡇 means free to download)
