@@ -259,7 +259,6 @@ Basic Reads
 *	[Choosing Representation, Mutation, and Crossover in Genetic Algorithms
 ](https://ieeexplore.ieee.org/document/9942691/interactive)
 *   [Introduction to Evolutionary Computing](http://www.evolutionarycomputation.org/) (course/book slides)
-*   [Some reports in the popular press](https://www.moshesipper.com/publications.html)
 *   [26 Top Machine Learning Interview Questions and Answers: Theory Edition](https://www.blog.confetti.ai/post/26-top-machine-learning-interview-questions-and-answers-theory)
 *   [10 Popular Machine Learning Algorithms In A Nutshell](https://www.theinsaneapp.com/2021/11/machine-learning-algorithms-for-beginners.html)
 *   [Machine learning preparatory week @PSL](https://data-psl.github.io/lectures2020/)
