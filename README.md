@@ -80,6 +80,7 @@
 
 - [Machine learning models](https://data-psl.github.io/lectures2020/slides/03_machine_learning_models/)
 - [Random Forests](https://youtu.be/J4Wdy0Wc_xQ)
+- [Random Forests](https://colab.research.google.com/drive/1yd-QebBMSJOlVP9Pot7DHyJtclPDvHqF?usp=sharing) ![](colab.png)
 - [Linear Regression](https://youtu.be/PaFPbb66DxQ)
 - [LinearReg](https://colab.research.google.com/drive/1fCQjAiEce6hU0osLzCWo73hC9iYva3QK?usp=sharing) ![](colab.png)
 - [Logistic Regression](https://youtu.be/yIYKR4sgzI8), [Logistic Regression](https://www.analyticsvidhya.com/blog/2021/07/an-introduction-to-logistic-regression/), [Cross-Entropy Loss](https://towardsdatascience.com/cross-entropy-loss-function-f38c4ec8643e)
