@@ -84,7 +84,7 @@
 - [Linear Regression](https://youtu.be/PaFPbb66DxQ)
 - [LinearReg](https://colab.research.google.com/drive/1fCQjAiEce6hU0osLzCWo73hC9iYva3QK?usp=sharing) ![](colab.png)
 - [Logistic Regression](https://youtu.be/yIYKR4sgzI8), [Logistic Regression](https://www.analyticsvidhya.com/blog/2021/07/an-introduction-to-logistic-regression/), [Cross-Entropy Loss](https://towardsdatascience.com/cross-entropy-loss-function-f38c4ec8643e)
-- [Linear Regression vs Logistic Regression in a Nutshell](https://pub.towardsai.net/linear-regression-vs-logistic-regression-in-a-nutshell-cf708cfe8f92) ![](medium.png))
+- [Linear Regression vs Logistic Regression in a Nutshell](https://pub.towardsai.net/linear-regression-vs-logistic-regression-in-a-nutshell-cf708cfe8f92) ![](medium.png)
 - [Optimization of linear models](https://data-psl.github.io/lectures2020/slides/05_optimization_linear_models/)
 - [Ridge vs. Lasso](https://www.statology.org/when-to-use-ridge-lasso-regression/), [notes on regularization in ML](https://www.linkedin.com/feed/update/urn:li:activity:7053809365169971201/)
 
@@ -94,7 +94,7 @@
 - [Adaptive Boosting](https://youtu.be/LsK-xG1cLYA)
 - [Gradient Boosting](https://youtu.be/3CC4N4z3GJc)
 - [Why tree gradients give you a boost](https://youtu.be/o6seqpMJSTI?si=i-jfTRuypFI2cUEB)
-- [AddGBoost](https://www.sciencedirect.com/science/article/pii/S2666827021001225), [Strong(er) Gradient Boosting](https://medium.com/@sipper/strong-er-gradient-boosting-6eb617566328) ![](medium.png))
+- [AddGBoost](https://www.sciencedirect.com/science/article/pii/S2666827021001225), [Strong(er) Gradient Boosting](https://medium.com/@sipper/strong-er-gradient-boosting-6eb617566328) ![](medium.png)
 
 6: XGBoost, Comparing ML algos, Gradient Descent
 
@@ -133,14 +133,14 @@
 
 - [Model Parameter vs. Hyperparameter](https://www.youtube.com/watch?v=Qcgav8NmPxY&t=1224s)
 - [Hyperparameter tuning](https://towardsdatascience.com/hyperparameter-tuning-explained-d0ebb2ba1d35), [Hyperparameter tuning](https://towardsdatascience.com/hyperparameter-tuning-a-practical-guide-and-template-b3bf0504f095), [Optuna](https://optuna.org/), [optuna](https://colab.research.google.com/drive/1FbG9yaUNn8EqL1NgLBBoRIx9E5EPBuIQ?usp=sharing) ![](colab.png)
-- [Evaluating Hyperparameters in Machine Learning](https://medium.com/@sipper/evaluating-hyperparameters-in-machine-learning-25b7fa09362d) ![](medium.png))
+- [Evaluating Hyperparameters in Machine Learning](https://medium.com/@sipper/evaluating-hyperparameters-in-machine-learning-25b7fa09362d) ![](medium.png)
 - [p-values](https://youtu.be/vemZtEM63GY), [how to calculate p-values](https://youtu.be/JQc3yx0-Q9E), [p-hacking](https://youtu.be/HDCOUXE3HMM)
 - [Probability is not Likelihood](https://www.youtube.com/watch?v=pYxNSUDSFH4)
 - [17 Statistical Hypothesis Tests in Python](https://machinelearningmastery.com/statistical-hypothesis-tests-in-python-cheat-sheet/)
 - [t-test](https://youtu.be/0Pd3dc1GcHc),[t-test](https://youtu.be/pTmLQvMM-1M) ([t-test vs p-value)](https://askanydifference.com/difference-between-t-test-and-p-value/), [scpipy ttest](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.ttest_ind.html)
 - ([chi-square](https://youtu.be/ZjdBM7NO7bY))
 - [permutation test](https://youtu.be/GmvpsJHGCxQ) ([AddGBoost ](https://www.sciencedirect.com/science/article/pii/S2666827021001225)+ [code](https://github.com/moshesipper/AddGBoost))
-- [The Permutation Test: A Data Scientist’s BFF](https://www.cantorsparadise.com/the-permutation-test-a-data-scientists-bff-a8ca64a5adb4) ![](medium.png))
+- [The Permutation Test: A Data Scientist’s BFF](https://www.cantorsparadise.com/the-permutation-test-a-data-scientists-bff-a8ca64a5adb4) ![](medium.png)
 - [Decision Tree](https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html#sklearn.tree.DecisionTreeClassifier.feature_importances_), [Explainable AI explained! | #4 SHAP](https://youtu.be/9haIOplEIGM?si=kxF4tpGBwziQFy28), [SHAP Values Explained](https://towardsdatascience.com/shap-explained-the-way-i-wish-someone-explained-it-to-me-ab81cc69ef30)
 
 10+11: Neural Networks
