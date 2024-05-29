@@ -174,9 +174,9 @@
 - [New Pathways in Coevolutionary Computation](https://drive.google.com/file/d/1fKymYCJPyd9rBmpEDgRPRe0GE7Yr3SuI/view?usp=sharing)
 - [Novelty search](https://www.cs.ucf.edu/~gitars/cap6671-2010/Presentations/lehman_alife08.pdf)
 - [Humies](https://www.human-competitive.org/)
-- [Building Activation Functions for Deep Networks](https://medium.com/@sipper/building-activation-functions-for-deep-networks-82c2a9c9cc1f)
+- [Building Activation Functions for Deep Networks](https://medium.com/@sipper/building-activation-functions-for-deep-networks-82c2a9c9cc1f) ![](medium.png)
 - [Evolutionary Adversarial Attacks on Deep Networks
-](https://medium.com/@sipper/evolutionary-adversarial-attacks-on-deep-networks-ff622b8e15e5)
+](https://medium.com/@sipper/evolutionary-adversarial-attacks-on-deep-networks-ff622b8e15e5) ![](medium.png)
 
 ***	
 
