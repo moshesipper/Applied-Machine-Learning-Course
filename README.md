@@ -160,7 +160,7 @@
 - [Introduction to large language models](https://www.youtube.com/watch?v=zizonToFXDs), [Scikit-LLM](https://github.com/iryna-kondr/scikit-llm)
 - [A Tiny Large Language Model (LLM), Coded, and Hallucinating](https://medium.com/@sipper/a-tiny-large-language-model-llm-coded-and-hallucinating-9a427b04eb1a) ![](medium.png)
 - [Introduction to image generation (diffusion)](https://www.youtube.com/watch?v=kzxz8CO_oG4)
-- [Loss is Boss](https://levelup.gitconnected.com/loss-is-boss-01ec08dea9e0) and other articles in the [DL section](https://medium.com/@sipper/moshe-sippers-writings-174ed2e861df) ![](medium.png)
+- [Loss is Boss](https://levelup.gitconnected.com/loss-is-boss-01ec08dea9e0) ![](medium.png) and other articles in the [DL section](https://medium.com/@sipper/moshe-sippers-writings-174ed2e861df) ![](medium.png)
 
 12+13: Evolutionary Algorithms
 
