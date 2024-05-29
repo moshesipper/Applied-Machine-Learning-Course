@@ -95,6 +95,7 @@
 - [Gradient Boosting](https://youtu.be/3CC4N4z3GJc)
 - [Why tree gradients give you a boost](https://youtu.be/o6seqpMJSTI?si=i-jfTRuypFI2cUEB)
 - [AddGBoost](https://www.sciencedirect.com/science/article/pii/S2666827021001225), [Strong(er) Gradient Boosting](https://medium.com/@sipper/strong-er-gradient-boosting-6eb617566328) ![](medium.png)
+- [Two’s Company, Three’s an Ensemble](https://pub.towardsai.net/twos-company-three-s-an-ensemble-99bd06608560) ![](medium.png)
 
 6: XGBoost, Comparing ML algos, Gradient Descent
 
