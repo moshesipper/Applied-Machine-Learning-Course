@@ -68,7 +68,7 @@
 3: Scikit-learn, Models, Decision Trees
 
 - [Machine learning with scikit-learn](https://data-psl.github.io/lectures2020/slides/04_scikit_learn/#1)
-- [A Minimal Example of Machine Learning (with scikit-learn)](https://medium.com/@sipper/a-minimal-example-of-machine-learning-with-scikit-learn-4e98d5dcc6e7)
+- [A Minimal Example of Machine Learning (with scikit-learn)](https://medium.com/@sipper/a-minimal-example-of-machine-learning-with-scikit-learn-4e98d5dcc6e7) ![](medium.png)
 - [19 Most Elegant Sklearn Tricks I Found After 3 Years of Use](https://pub.towardsai.net/19-most-elegant-sklearn-tricks-i-found-after-3-years-of-use-5bda439fa506)
 - [Machine learning models](https://data-psl.github.io/lectures2020/slides/03_machine_learning_models/)
 - [Toy datasets (sklearn)](https://scikit-learn.org/stable/datasets/toy_dataset.html)
