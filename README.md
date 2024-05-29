@@ -140,7 +140,7 @@
 - [t-test](https://youtu.be/0Pd3dc1GcHc),[t-test](https://youtu.be/pTmLQvMM-1M) ([t-test vs p-value)](https://askanydifference.com/difference-between-t-test-and-p-value/), [scpipy ttest](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.ttest_ind.html)
 - ([chi-square](https://youtu.be/ZjdBM7NO7bY))
 - [permutation test](https://youtu.be/GmvpsJHGCxQ) ([AddGBoost ](https://www.sciencedirect.com/science/article/pii/S2666827021001225)+ [code](https://github.com/moshesipper/AddGBoost))
-- [The Permutation Test: A Statistical Test that has (More than) Survived the Test of Time](https://medium.com/@sipper/the-permutation-test-a-statistical-test-that-has-more-than-survived-the-test-of-time-c909ebe8eb92)
+- [The Permutation Test: A Data Scientist’s BFF](https://www.cantorsparadise.com/the-permutation-test-a-data-scientists-bff-a8ca64a5adb4) ![](medium.png))
 - [Decision Tree](https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html#sklearn.tree.DecisionTreeClassifier.feature_importances_), [Explainable AI explained! | #4 SHAP](https://youtu.be/9haIOplEIGM?si=kxF4tpGBwziQFy28), [SHAP Values Explained](https://towardsdatascience.com/shap-explained-the-way-i-wish-someone-explained-it-to-me-ab81cc69ef30)
 
 10+11: Neural Networks
