@@ -165,6 +165,7 @@
 12+13: Evolutionary Algorithms
 
 - [Evolutionary Computation](http://www.evolutionarycomputation.org/slides/)
+- [How to Build a Genetic Algorithm from Scratch in Python with Just 33 Lines of Code](https://levelup.gitconnected.com/tiny-genetic-algorithm-33-line-version-and-3-line-version-38a851141512) ![](medium.png)
 - [Evolutionary Algorithms, Genetic Programming, and Learning
 ](https://medium.com/@sipper/evolutionary-algorithms-genetic-programming-and-learning-dfde441ad0b9) ![](medium.png)
 - [Tiny GA](https://github.com/moshesipper/tiny_ga), [Tiny GP](https://github.com/moshesipper/tiny_gp), [EC-KitY](https://www.eckity.org/)
