@@ -84,7 +84,7 @@
 - [Linear Regression](https://youtu.be/PaFPbb66DxQ)
 - [LinearReg](https://colab.research.google.com/drive/1fCQjAiEce6hU0osLzCWo73hC9iYva3QK?usp=sharing) ![](colab.png)
 - [Logistic Regression](https://youtu.be/yIYKR4sgzI8), [Logistic Regression](https://www.analyticsvidhya.com/blog/2021/07/an-introduction-to-logistic-regression/), [Cross-Entropy Loss](https://towardsdatascience.com/cross-entropy-loss-function-f38c4ec8643e)
-- [Linear Regression vs Logistic Regression in a Nutshell](https://pub.towardsai.net/linear-regression-vs-logistic-regression-in-a-nutshell-cf708cfe8f92)
+- [Linear Regression vs Logistic Regression in a Nutshell](https://pub.towardsai.net/linear-regression-vs-logistic-regression-in-a-nutshell-cf708cfe8f92) ![](medium.png))
 - [Optimization of linear models](https://data-psl.github.io/lectures2020/slides/05_optimization_linear_models/)
 - [Ridge vs. Lasso](https://www.statology.org/when-to-use-ridge-lasso-regression/), [notes on regularization in ML](https://www.linkedin.com/feed/update/urn:li:activity:7053809365169971201/)
 
