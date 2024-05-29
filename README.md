@@ -43,7 +43,7 @@
 
 <a name="lessons">**Lesson Plan**</a>
 
-(![](colab.png) marks my colab notebooks)
+(![](colab.png): my colab notebooks, (medium.png): my medium articles)
 
 
 1: Python, AI+ML Intro
