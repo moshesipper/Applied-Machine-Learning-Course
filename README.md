@@ -94,7 +94,7 @@
 - [Adaptive Boosting](https://youtu.be/LsK-xG1cLYA)
 - [Gradient Boosting](https://youtu.be/3CC4N4z3GJc)
 - [Why tree gradients give you a boost](https://youtu.be/o6seqpMJSTI?si=i-jfTRuypFI2cUEB)
-- [AddGBoost](https://www.sciencedirect.com/science/article/pii/S2666827021001225), [Strong(er) Gradient Boosting](https://medium.com/@sipper/strong-er-gradient-boosting-6eb617566328)
+- [AddGBoost](https://www.sciencedirect.com/science/article/pii/S2666827021001225), [Strong(er) Gradient Boosting](https://medium.com/@sipper/strong-er-gradient-boosting-6eb617566328) ![](medium.png))
 
 6: XGBoost, Comparing ML algos, Gradient Descent
 
