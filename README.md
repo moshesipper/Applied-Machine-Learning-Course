@@ -288,7 +288,7 @@
 	- [Koza Tutorial](http://www.genetic-programming.com/gecco2003tutorial.pdf)
 	- [Koza's vids](https://www.youtube.com/channel/UC9MEHhji3ODbE_e66EgFkew)
 	- [Koza &amp; Poli](https://www.genetic-programming.com/jkpdf/burke2003tutorial.pdf)
-	- [Yoo](https://coinse.kaist.ac.kr/assets/files/teaching/cs454/cs454-slide09.pdf)
+	- [Yoo](https://coinse.github.io/assets/files/teaching/cs454/cs454-slide09.pdf)
 	- [Herrmann](https://www.inf.ed.ac.uk/teaching/courses/nat/slides/nat09h.pdf)
 	
 	
