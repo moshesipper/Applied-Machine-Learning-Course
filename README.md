@@ -87,7 +87,7 @@
 
 
 
-- Models
+- ML Models
 	- [Machine learning models](https://data-psl.github.io/lectures2020/slides/03_machine_learning_models/)
 	
 	
