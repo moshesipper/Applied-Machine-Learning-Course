@@ -256,6 +256,7 @@
 	- [PyTorch](https://pytorch.org/tutorials/beginner/pytorch_with_examples.html)
 	- [PyTorch](https://towardsdatascience.com/understanding-pytorch-with-an-example-a-step-by-step-tutorial-81fc5f8c4e8e)
 	- [Double Descent](https://mlu-explain.github.io/double-descent/)
+	- [Overparameterization, Backpropagation, Alimentation: Them and Us](https://pub.aimind.so/overparameterization-backpropagation-alimentation-them-and-us-bb326edb60c2) ![](medium.png)
 	- [conv demo](https://deeplizard.com/resource/pavq7noze2)
 	- [convolution](https://www.linkedin.com/posts/pascalbornet_artificialintelligence-ugcPost-6925288775740776448-0S-K/)
 	- [A simple image convolution](https://youtube.com/shorts/4xWpQe3G9qI?si=RUwQHsAK4oP2bvc1)
