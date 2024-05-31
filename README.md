@@ -49,7 +49,7 @@
 - Python 
 	- [Python Programming](https://pythonbasics.org/)
 	- [Python](https://www.python.org/downloads/windows/)
-	- [PyCharm](https://www.jetbrains.com/pycharm/download/#section=windows))
+	- [PyCharm](https://www.jetbrains.com/pycharm/download/#section=windows)
 	- [Pandas](https://pythonbasics.org/what-is-pandas/)
 	- [NumPy](https://numpy.org/devdocs/user/absolute_beginners.html)
 	- [NumPy](https://www.w3schools.com/python/numpy/default.asp)
