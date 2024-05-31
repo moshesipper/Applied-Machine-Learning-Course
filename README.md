@@ -10,7 +10,7 @@
 
 [5-Min Reads](#medium)
 
-[Lesson Plan](#lessons)
+[Topics](#topics)
 
 [Cheat Sheets](#cheat)
 
@@ -41,7 +41,7 @@
 
 ***	
 
-<a name="lessons">**Lesson Plan**</a>
+<a name="topics">**Topics**</a>
 
 (![](colab.png): my colab notebooks, ![](medium.png): my medium articles)
 
