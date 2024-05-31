@@ -91,17 +91,31 @@
 	- [Decision trees](https://colab.research.google.com/drive/1wyD94nW0HFvdhCkYLLmkxdVulhZTDD-x?usp=sharing) ![](colab.png)
 
 
-4: Random Forest, Linear Regression Logistic Regression
+- Random Forest
+	- [Random Forests](https://youtu.be/J4Wdy0Wc_xQ)
+	- [Random Forests](https://colab.research.google.com/drive/1yd-QebBMSJOlVP9Pot7DHyJtclPDvHqF?usp=sharing) ![](colab.png)
 
-- [Machine learning models](https://data-psl.github.io/lectures2020/slides/03_machine_learning_models/)
-- [Random Forests](https://youtu.be/J4Wdy0Wc_xQ)
-- [Random Forests](https://colab.research.google.com/drive/1yd-QebBMSJOlVP9Pot7DHyJtclPDvHqF?usp=sharing) ![](colab.png)
-- [Linear Regression](https://youtu.be/PaFPbb66DxQ)
-- [LinearReg](https://colab.research.google.com/drive/1fCQjAiEce6hU0osLzCWo73hC9iYva3QK?usp=sharing) ![](colab.png)
-- [Logistic Regression](https://youtu.be/yIYKR4sgzI8), [Logistic Regression](https://www.analyticsvidhya.com/blog/2021/07/an-introduction-to-logistic-regression/), [Cross-Entropy Loss](https://towardsdatascience.com/cross-entropy-loss-function-f38c4ec8643e)
-- [Linear Regression vs Logistic Regression in a Nutshell](https://pub.towardsai.net/linear-regression-vs-logistic-regression-in-a-nutshell-cf708cfe8f92) ![](medium.png)
-- [Optimization of linear models](https://data-psl.github.io/lectures2020/slides/05_optimization_linear_models/)
-- [Ridge vs. Lasso](https://www.statology.org/when-to-use-ridge-lasso-regression/), [notes on regularization in ML](https://www.linkedin.com/feed/update/urn:li:activity:7053809365169971201/)
+
+
+- Linear Regression
+	- [Linear Regression](https://youtu.be/PaFPbb66DxQ)
+	- [LinearReg](https://colab.research.google.com/drive/1fCQjAiEce6hU0osLzCWo73hC9iYva3QK?usp=sharing) ![](colab.png)
+
+
+
+- Logistic Regression
+	- [Logistic Regression](https://youtu.be/yIYKR4sgzI8), [Logistic Regression](https://www.analyticsvidhya.com/blog/2021/07/an-introduction-to-logistic-regression/), [Cross-Entropy Loss](https://towardsdatascience.com/cross-entropy-loss-function-f38c4ec8643e)
+	- [Linear Regression vs Logistic Regression in a Nutshell](https://pub.towardsai.net/linear-regression-vs-logistic-regression-in-a-nutshell-cf708cfe8f92) ![](medium.png)
+
+
+- Linear Models
+	- [Optimization of linear models](https://data-psl.github.io/lectures2020/slides/05_optimization_linear_models/)
+	
+	
+- Ridge & Lasso	
+	- [Ridge vs. Lasso](https://www.statology.org/when-to-use-ridge-lasso-regression/), [notes on regularization in ML](https://www.linkedin.com/feed/update/urn:li:activity:7053809365169971201/)
+
+
 
 5: AdaBoost, Gradient Boosting
 
