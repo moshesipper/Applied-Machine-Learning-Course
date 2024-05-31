@@ -52,13 +52,16 @@
 	- [NumPy](https://numpy.org/devdocs/user/absolute_beginners.html) / [NumPy](https://www.w3schools.com/python/numpy/default.asp) ([Numba](https://numba.pydata.org/))
 	- [np.dot](https://numpy.org/doc/stable/reference/generated/numpy.dot.html) vs [loop example](https://colab.research.google.com/drive/1wAfDDyqYkj1izQvn7bDF9tJA4xYlDWzp?usp=sharing) ![](colab.png)
 
+
 - Artificial Intelligence	
 	- [Computing Machinery and Intelligence](https://www.cs.mcgill.ca/~dprecup/courses/AI/Materials/turing1950.pdf)
 	- [Four Takeaways on the Race to Amass Data for A.I.](https://www.nytimes.com/2024/04/06/technology/ai-data-tech-takeaways.html)
 
+
 - Date Science
 	- [Data Science Infographic](https://github.com/dataprofessor/infographic) (Building an ML Model, Data Science Landscape)
 	- [21 Most Important (and Must-know) Mathematical Equations in Data Science](https://www.blog.dailydoseofds.com/p/21-most-important-and-must-know-mathematical)
+
 
 - Machine Learning Intro
 	- [Machine Learning: history, applications, recent successes](https://data-psl.github.io/lectures2020/slides/01_machine_learning_successes)
@@ -71,21 +74,21 @@
 	- [kfold](https://colab.research.google.com/drive/1Hj17jfBbl0tYBVn6ze0YQ7xxTS5Dr1-D?usp=sharing) ![](colab.png)
 
 
+- Scikit-learn
+	- [Machine learning with scikit-learn](https://data-psl.github.io/lectures2020/slides/04_scikit_learn/#1)
+	- [A Minimal Example of Machine Learning (with scikit-learn)](https://medium.com/@sipper/a-minimal-example-of-machine-learning-with-scikit-learn-4e98d5dcc6e7) ![](medium.png)
+	- [19 Most Elegant Sklearn Tricks I Found After 3 Years of Use](https://pub.towardsai.net/19-most-elegant-sklearn-tricks-i-found-after-3-years-of-use-5bda439fa506)
+	- [Toy datasets (sklearn)](https://scikit-learn.org/stable/datasets/toy_dataset.html)
 
 
 
-
-
-
-3: Scikit-learn, Models, Decision Trees
-
-- [Machine learning with scikit-learn](https://data-psl.github.io/lectures2020/slides/04_scikit_learn/#1)
-- [A Minimal Example of Machine Learning (with scikit-learn)](https://medium.com/@sipper/a-minimal-example-of-machine-learning-with-scikit-learn-4e98d5dcc6e7) ![](medium.png)
-- [19 Most Elegant Sklearn Tricks I Found After 3 Years of Use](https://pub.towardsai.net/19-most-elegant-sklearn-tricks-i-found-after-3-years-of-use-5bda439fa506)
-- [Machine learning models](https://data-psl.github.io/lectures2020/slides/03_machine_learning_models/)
-- [Toy datasets (sklearn)](https://scikit-learn.org/stable/datasets/toy_dataset.html)
-- [Decision trees](https://youtu.be/_L39rN6gz7Y)
-- [Decision trees](https://colab.research.google.com/drive/1wyD94nW0HFvdhCkYLLmkxdVulhZTDD-x?usp=sharing) ![](colab.png)
+- Models
+	- [Machine learning models](https://data-psl.github.io/lectures2020/slides/03_machine_learning_models/)
+	
+	
+- Decision trees
+	- [Decision trees](https://youtu.be/_L39rN6gz7Y)
+	- [Decision trees](https://colab.research.google.com/drive/1wyD94nW0HFvdhCkYLLmkxdVulhZTDD-x?usp=sharing) ![](colab.png)
 
 
 4: Random Forest, Linear Regression Logistic Regression
