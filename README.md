@@ -219,9 +219,9 @@
 	- [Model Parameter vs. Hyperparameter](https://www.youtube.com/watch?v=Qcgav8NmPxY&t=1224s)
 	- [Hyperparameter tuning](https://towardsdatascience.com/hyperparameter-tuning-explained-d0ebb2ba1d35)
 	- [Hyperparameter tuning](https://towardsdatascience.com/hyperparameter-tuning-a-practical-guide-and-template-b3bf0504f095)
-	- [Optuna](https://optuna.org/), [optuna](https://colab.research.google.com/drive/1FbG9yaUNn8EqL1NgLBBoRIx9E5EPBuIQ?usp=sharing) ![](colab.png)
+	- [Optuna](https://optuna.org/)
+	- [optuna](https://colab.research.google.com/drive/1FbG9yaUNn8EqL1NgLBBoRIx9E5EPBuIQ?usp=sharing) ![](colab.png)
 	- [Evaluating Hyperparameters in Machine Learning](https://medium.com/@sipper/evaluating-hyperparameters-in-machine-learning-25b7fa09362d) ![](medium.png)
-
 
 
 - Some Topics in Probability 
@@ -242,7 +242,6 @@
 	- [Decision Tree](https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html#sklearn.tree.DecisionTreeClassifier.feature_importances_)
 	- [Explainable AI explained! | #4 SHAP](https://youtu.be/9haIOplEIGM?si=kxF4tpGBwziQFy28)
 	- [SHAP Values Explained](https://towardsdatascience.com/shap-explained-the-way-i-wish-someone-explained-it-to-me-ab81cc69ef30)
-
 
 
 - Neural Networks
