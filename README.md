@@ -86,7 +86,6 @@
 	- [Toy datasets (sklearn)](https://scikit-learn.org/stable/datasets/toy_dataset.html)
 
 
-
 - ML Models
 	- [Machine learning models](https://data-psl.github.io/lectures2020/slides/03_machine_learning_models/)
 	
@@ -105,7 +104,7 @@
 - Linear Regression
 	- [Linear Regression](https://youtu.be/PaFPbb66DxQ)
 	- [LinearReg](https://colab.research.google.com/drive/1fCQjAiEce6hU0osLzCWo73hC9iYva3QK?usp=sharing) ![](colab.png)
-	- [Linear Regression](https://medium.com/analytics-vidhya/a-quick-summary-of-linear-regression-42d1dab85e3e)
+	- [A Quick Summary of Linear Regression](https://medium.com/analytics-vidhya/a-quick-summary-of-linear-regression-42d1dab85e3e)
 
 
 - Logistic Regression
