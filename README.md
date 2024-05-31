@@ -174,8 +174,7 @@
 	
 - Bayesian 	
 	- [Multinomial Naive Bayes](https://youtu.be/O2L2Uv9pdDA)
-	
-	
+
 	
 - Metrics
 	- [sklearn.metrics](https://scikit-learn.org/stable/api/sklearn.metrics.html)
@@ -189,16 +188,13 @@
 	- [various metrics from CM](https://en.wikipedia.org/wiki/Confusion_matrix)
 
 
-- Reproducibility
-	- [Could machine learning fuel a reproducibility crisis in science?](https://www.nature.com/articles/d41586-022-02035-w)
-
-
 - ML in practice
 	- [ML in practice](https://info.deeplearning.ai/the-batch-one-model-for-hundreds-of-tasks-recognizing-workplace-hazards-when-data-means-danger-vision-transformer-upgrade-1)
 
 
 - Data Leakage	
 	- [Data Leakage Basics, with Examples in Scikit-Learn](https://pub.aimind.so/data-leakage-basics-with-examples-in-scikit-learn-9c946a6f75b2) ![](medium.png)
+	- [Could machine learning fuel a reproducibility crisis in science?](https://www.nature.com/articles/d41586-022-02035-w)
 	
 	
 - Dimensionality Reduction	
