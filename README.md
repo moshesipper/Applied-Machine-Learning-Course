@@ -54,13 +54,16 @@
 
 - Artificial Intelligence	
 	- [Computing Machinery and Intelligence](https://www.cs.mcgill.ca/~dprecup/courses/AI/Materials/turing1950.pdf)
+	- [Four Takeaways on the Race to Amass Data for A.I.](https://www.nytimes.com/2024/04/06/technology/ai-data-tech-takeaways.html)
 
-- [Machine Learning: history, applications, recent successes](https://data-psl.github.io/lectures2020/slides/01_machine_learning_successes)
-- [Data Science Infographic](https://github.com/dataprofessor/infographic) (Building an ML Model, Data Science Landscape)
-- [How to avoid machine learning pitfalls](https://arxiv.org/abs/2108.02497)
-- [Top 10 machine learning algorithms with their use-cases](https://medium.com/@avikumart_/top-10-machine-learning-algorithms-with-their-use-cases-f1ea2c1dfd6b)
-- [21 Most Important (and Must-know) Mathematical Equations in Data Science](https://www.blog.dailydoseofds.com/p/21-most-important-and-must-know-mathematical)
-- [Four Takeaways on the Race to Amass Data for A.I.](https://www.nytimes.com/2024/04/06/technology/ai-data-tech-takeaways.html)
+- Date Science
+	- [Data Science Infographic](https://github.com/dataprofessor/infographic) (Building an ML Model, Data Science Landscape)
+	- [21 Most Important (and Must-know) Mathematical Equations in Data Science](https://www.blog.dailydoseofds.com/p/21-most-important-and-must-know-mathematical)
+
+- Machine Learning
+	- [Machine Learning: history, applications, recent successes](https://data-psl.github.io/lectures2020/slides/01_machine_learning_successes)
+	- [How to avoid machine learning pitfalls](https://arxiv.org/abs/2108.02497)
+	- [Top 10 machine learning algorithms with their use-cases](https://medium.com/@avikumart_/top-10-machine-learning-algorithms-with-their-use-cases-f1ea2c1dfd6b)
 
 2: ML Intro, Simple Example, KNN, Cross-Validation
 
