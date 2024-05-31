@@ -178,7 +178,7 @@
 	
 	
 - Metrics
-	- [sklearn.metrics](https://scikit-learn.org/stable/modules/classes.html?highlight=metrics#module-sklearn.metrics)
+	- [sklearn.metrics](https://scikit-learn.org/stable/api/sklearn.metrics.html)
 	- [Confusion Matrix](https://youtu.be/Kdsp6soqA7o)
 	- [Sensitivity and Specificity](https://youtu.be/vP06aMoz4v8)
 	- [Sensitivity and specificity](https://en.wikipedia.org/wiki/Sensitivity_and_specificity)
