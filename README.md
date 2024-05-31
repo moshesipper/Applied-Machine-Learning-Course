@@ -139,91 +139,164 @@
 	
 	
 
-6: XGBoost, Comparing ML algos, Gradient Descent
+- XGBoost
+	- [XGBoost](https://youtu.be/OtD8wVaFm6E)
+	
 
-- Reminder: [Adaboost](https://www.cs.bgu.ac.il/~sipper/adaboost.jpg), [Gradient boost](https://www.cs.bgu.ac.il/~sipper/gradboost.jpg)
-- [XGBoost](https://youtu.be/OtD8wVaFm6E)
-- [Comparing supervised learning algorithms](https://www.dataschool.io/comparing-supervised-learning-algorithms/)
-- [How to find the best performing Machine Learning algorithm](https://medium.com/analytics-vidhya/how-to-find-the-best-performing-machine-learning-algorithm-dc4eb4ff34b6), Boston dataset (`from sklearn.datasets import load_boston` -> [racist data destruction?](https://medium.com/@docintangible/racist-data-destruction-113e3eff54a8)) 
-- [Gradient Descent](https://youtu.be/sDv4f4s2SB8) ([Least Squares](https://www.mathsisfun.com/data/least-squares-regression.html), [Least Squares](https://textbooks.math.gatech.edu/ila/least-squares.html))
-- [Stochastic Gradient Descent](https://youtu.be/vMh0zPT0tLI)
-- [Stochastic Gradient Descent Algorithm With Python and NumPy](https://realpython.com/gradient-descent-algorithm-python/)
+- Comparing ML algos
+	- [Comparing supervised learning algorithms](https://www.dataschool.io/comparing-supervised-learning-algorithms/)
+	- [How to find the best performing Machine Learning algorithm](https://medium.com/analytics-vidhya/how-to-find-the-best-performing-machine-learning-algorithm-dc4eb4ff34b6), Boston dataset (`from sklearn.datasets import load_boston` -> [racist data destruction?](https://medium.com/@docintangible/racist-data-destruction-113e3eff54a8)) 
 
-7: Choosing Model, SVM, Bayes, Metrics
 
-- [Choosing the right estimator](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
-- [Support Vector Machine](https://youtu.be/efR1C6CvhmE) [(](https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html)[sklearn.svm.SVC)](https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html), [Plot different SVM classifiers in the iris dataset](https://scikit-learn.org/stable/auto_examples/svm/plot_iris_svc.html#sphx-glr-auto-examples-svm-plot-iris-svc-py)
-- [Multinomial Naive Bayes](https://youtu.be/O2L2Uv9pdDA)
-- Metrics: [sklearn.metrics](https://scikit-learn.org/stable/modules/classes.html?highlight=metrics#module-sklearn.metrics), [Confusion Matrix](https://youtu.be/Kdsp6soqA7o), 
-[Sensitivity and Specificity](https://youtu.be/vP06aMoz4v8),
-[Sensitivity and specificity](https://en.wikipedia.org/wiki/Sensitivity_and_specificity),
- [ROC and AUC](https://youtu.be/4jRBRDbJemM) ([Online ROC Curve Calculator](https://www.rad.jhmi.edu/jeng/javarad/roc/JROCFITi.html)),[balanced accuracy](https://www.statology.org/balanced-accuracy/), [balanced accuracy](https://scikit-learn.org/stable/modules/model_evaluation.html#balanced-accuracy-score), [various metrics from CM](https://en.wikipedia.org/wiki/Confusion_matrix)
-- [Could machine learning fuel a reproducibility crisis in science?](https://www.nature.com/articles/d41586-022-02035-w)
+- Gradient Descent
+	- [Gradient Descent](https://youtu.be/sDv4f4s2SB8) ([Least Squares](https://www.mathsisfun.com/data/least-squares-regression.html), [Least Squares](https://textbooks.math.gatech.edu/ila/least-squares.html))
+	- [Stochastic Gradient Descent](https://youtu.be/vMh0zPT0tLI)
+	- [Stochastic Gradient Descent Algorithm With Python and NumPy](https://realpython.com/gradient-descent-algorithm-python/)
 
-8: Metrics, PCA, t-SNE, Clustering
 
-- [ML in practice](https://info.deeplearning.ai/the-batch-one-model-for-hundreds-of-tasks-recognizing-workplace-hazards-when-data-means-danger-vision-transformer-upgrade-1)
-- [balanced accuracy](https://www.statology.org/balanced-accuracy/), [balanced accuracy](https://scikit-learn.org/stable/modules/model_evaluation.html#balanced-accuracy-score), [various metrics from CM](https://en.wikipedia.org/wiki/Confusion_matrix)
-- [Data Leakage Basics, with Examples in Scikit-Learn](https://pub.aimind.so/data-leakage-basics-with-examples-in-scikit-learn-9c946a6f75b2) ![](medium.png)
-- [11 Different Uses of Dimensionality Reduction](https://towardsdatascience.com/11-different-uses-of-dimensionality-reduction-4325d62b4fa6)
-- [PCA](https://youtu.be/FgakZw6K1QQ), [PCA](https://www.sartorius.com/en/knowledge/science-snippets/what-is-principal-component-analysis-pca-and-how-it-is-used-507186), [PCA vs LR](https://starship-knowledge.com/pca-vs-linear-regression#PCA_vs_Linear_Regression_-_How_do_they_Differ), [pca](https://colab.research.google.com/drive/1h6xLxKyEltPwsck-mJ5nQPFkMGYI8VOs?usp=sharing) ![](colab.png)
-- [t-SNE](https://youtu.be/NEaUSP4YerM), [tsne](https://colab.research.google.com/drive/1vnA5iwWrjDY4AhHL_E86VLq59FwJG2s9?usp=sharing) ![](colab.png)
-- [Clustering](https://www.geeksforgeeks.org/clustering-in-machine-learning/)
-- [Hierarchical clustering](https://youtu.be/7xHsRkOdVwo)
-- [K-means clustering](https://youtu.be/4b5d3muPQmA), [kmeans](https://colab.research.google.com/drive/1aoiM8cnS_DdNOP2njEsjWcyf6-zHMrJ1?usp=sharing) ![](colab.png)
-- [From Data to Clusters: When is Your Clustering Good Enough?](https://towardsdatascience.com/from-data-to-clusters-when-is-your-clustering-good-enough-5895440a978a)
+- Choosing a Model
+	- [Choosing the right estimator](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
+	
+	
+- SVM	
+	- [Support Vector Machine](https://youtu.be/efR1C6CvhmE) [(](https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html)[sklearn.svm.SVC)](https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html)
+	- [Plot different SVM classifiers in the iris dataset](https://scikit-learn.org/stable/auto_examples/svm/plot_iris_svc.html#sphx-glr-auto-examples-svm-plot-iris-svc-py)
+	
+	
+- Bayesian 	
+	- [Multinomial Naive Bayes](https://youtu.be/O2L2Uv9pdDA)
+	
+	
+	
+- Metrics
+	- [sklearn.metrics](https://scikit-learn.org/stable/modules/classes.html?highlight=metrics#module-sklearn.metrics)
+	- [Confusion Matrix](https://youtu.be/Kdsp6soqA7o)
+	- [Sensitivity and Specificity](https://youtu.be/vP06aMoz4v8)
+	- [Sensitivity and specificity](https://en.wikipedia.org/wiki/Sensitivity_and_specificity)
+	-  [ROC and AUC](https://youtu.be/4jRBRDbJemM) ([Online ROC Curve Calculator](https://www.rad.jhmi.edu/jeng/javarad/roc/JROCFITi.html)),[balanced accuracy](https://www.statology.org/balanced-accuracy/)
+	- [balanced accuracy](https://scikit-learn.org/stable/modules/model_evaluation.html#balanced-accuracy-score)
+	- [balanced accuracy](https://www.statology.org/balanced-accuracy/)
+	- [various metrics from CM](https://en.wikipedia.org/wiki/Confusion_matrix)
 
-9: Hyperparameter Tuning, p-vals, t-test, Permutation Test, feature importance
 
-- [Model Parameter vs. Hyperparameter](https://www.youtube.com/watch?v=Qcgav8NmPxY&t=1224s)
-- [Hyperparameter tuning](https://towardsdatascience.com/hyperparameter-tuning-explained-d0ebb2ba1d35), [Hyperparameter tuning](https://towardsdatascience.com/hyperparameter-tuning-a-practical-guide-and-template-b3bf0504f095), [Optuna](https://optuna.org/), [optuna](https://colab.research.google.com/drive/1FbG9yaUNn8EqL1NgLBBoRIx9E5EPBuIQ?usp=sharing) ![](colab.png)
-- [Evaluating Hyperparameters in Machine Learning](https://medium.com/@sipper/evaluating-hyperparameters-in-machine-learning-25b7fa09362d) ![](medium.png)
-- [p-values](https://youtu.be/vemZtEM63GY), [how to calculate p-values](https://youtu.be/JQc3yx0-Q9E), [p-hacking](https://youtu.be/HDCOUXE3HMM)
-- [Probability is not Likelihood](https://www.youtube.com/watch?v=pYxNSUDSFH4)
-- [17 Statistical Hypothesis Tests in Python](https://machinelearningmastery.com/statistical-hypothesis-tests-in-python-cheat-sheet/)
-- [t-test](https://youtu.be/0Pd3dc1GcHc),[t-test](https://youtu.be/pTmLQvMM-1M) ([t-test vs p-value)](https://askanydifference.com/difference-between-t-test-and-p-value/), [scpipy ttest](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.ttest_ind.html)
-- ([chi-square](https://youtu.be/ZjdBM7NO7bY))
-- [permutation test](https://youtu.be/GmvpsJHGCxQ) ([AddGBoost ](https://www.sciencedirect.com/science/article/pii/S2666827021001225)+ [code](https://github.com/moshesipper/AddGBoost))
-- [The Permutation Test: A Data Scientist’s BFF](https://www.cantorsparadise.com/the-permutation-test-a-data-scientists-bff-a8ca64a5adb4) ![](medium.png)
-- [Decision Tree](https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html#sklearn.tree.DecisionTreeClassifier.feature_importances_), [Explainable AI explained! | #4 SHAP](https://youtu.be/9haIOplEIGM?si=kxF4tpGBwziQFy28), [SHAP Values Explained](https://towardsdatascience.com/shap-explained-the-way-i-wish-someone-explained-it-to-me-ab81cc69ef30)
+- Reproducibility
+	- [Could machine learning fuel a reproducibility crisis in science?](https://www.nature.com/articles/d41586-022-02035-w)
 
-10+11: Neural Networks
 
-- [Neural networks (StatQuest )](https://youtube.com/playlist?list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1), [Neural Networks (3Blue1Brown)](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&pp=iAQB)
-- [Neural Networks with À La Carte Selection of Activation Functions](https://drive.google.com/file/d/10wy_gFPoNLwQXHkHKAojYBxbKkB5W_da/view?usp=sharing)
-- [PyTorch](https://pytorch.org/tutorials/beginner/pytorch_with_examples.html), [PyTorch](https://towardsdatascience.com/understanding-pytorch-with-an-example-a-step-by-step-tutorial-81fc5f8c4e8e)
-- [Double Descent: Part 1: A Visual Introduction](https://mlu-explain.github.io/double-descent/)
-- [conv demo](https://deeplizard.com/resource/pavq7noze2), [convolution...](https://www.linkedin.com/posts/pascalbornet_artificialintelligence-ugcPost-6925288775740776448-0S-K/), [A simple image convolution
-](https://youtube.com/shorts/4xWpQe3G9qI?si=RUwQHsAK4oP2bvc1)
-- [Implementing Image Processing Kernels from scratch using Convolution in Python
-](https://medium.com/@sabribarac/implementing-image-processing-kernels-from-scratch-using-convolution-in-python-4e966e9aafaf)
-- [Growth of AI computing](https://twitter.com/pmddomingos/status/1535112033137401857), [AI move from Academia](https://twitter.com/GaryMarcus/status/1536150812795121664), [Artificial General Intelligence Is Not as Imminent as You Might Think](https://www.scientificamerican.com/article/artificial-general-intelligence-is-not-as-imminent-as-you-might-think1/)
-- [Tinker With a Neural Network in Your Browser](https://playground.tensorflow.org/)
-- [Introduction to large language models](https://www.youtube.com/watch?v=zizonToFXDs), [Scikit-LLM](https://github.com/iryna-kondr/scikit-llm)
-- [A Tiny Large Language Model (LLM), Coded, and Hallucinating](https://medium.com/@sipper/a-tiny-large-language-model-llm-coded-and-hallucinating-9a427b04eb1a) ![](medium.png)
-- [Introduction to image generation (diffusion)](https://www.youtube.com/watch?v=kzxz8CO_oG4)
-- [Loss is Boss](https://levelup.gitconnected.com/loss-is-boss-01ec08dea9e0) ![](medium.png) and other articles in the [DL section](https://medium.com/@sipper/moshe-sippers-writings-174ed2e861df) ![](medium.png)
+- ML in practice
+	- [ML in practice](https://info.deeplearning.ai/the-batch-one-model-for-hundreds-of-tasks-recognizing-workplace-hazards-when-data-means-danger-vision-transformer-upgrade-1)
 
-12+13: Evolutionary Algorithms
 
-- [Evolutionary Computation](http://www.evolutionarycomputation.org/slides/)
-- [How to Build a Genetic Algorithm from Scratch in Python with Just 33 Lines of Code](https://levelup.gitconnected.com/tiny-genetic-algorithm-33-line-version-and-3-line-version-38a851141512) ![](medium.png)
-- [Evolutionary Algorithms, Genetic Programming, and Learning
-](https://medium.com/@sipper/evolutionary-algorithms-genetic-programming-and-learning-dfde441ad0b9) ![](medium.png)
-- [Tiny GA](https://github.com/moshesipper/tiny_ga), [Tiny GP](https://github.com/moshesipper/tiny_gp), [EC-KitY](https://www.eckity.org/)
-- Genetic Programming (GP): [Koza](http://www.genetic-programming.com/c2003lecture1modified.ppt), [Koza Tutorial](http://www.genetic-programming.com/gecco2003tutorial.pdf), [Koza &amp; Poli](http://www.cs.bham.ac.uk/~wbl/biblio/cache/bin/cache.php?koza:2003:gpt,http___www.genetic-programming.com_jkpdf_burke2003tutorial.pdf,http://www.genetic-programming.com/jkpdf/burke2003tutorial.pdf), [Yoo](https://coinse.kaist.ac.kr/assets/files/teaching/cs454/cs454-slide09.pdf), [Herrmann](https://www.inf.ed.ac.uk/teaching/courses/nat/slides/nat09h.pdf), [Koza's vids](https://www.youtube.com/channel/UC9MEHhji3ODbE_e66EgFkew)
-- [Multi-Objective Optimization](https://engineering.purdue.edu/~sudhoff/ee630/Lecture09.pdf)
-- [Schema theorem](https://engineering.purdue.edu/~sudhoff/ee630/Lecture03.pdf)
-- [Linear GP](http://www.am.chalmers.se/~wolff/AI2/Lect05LGP.pdf)
-- [Cartesian GP](http://cs.ijs.si/ppsn2014/files/slides/ppsn2014-tutorial3-miller.pdf)
-- [Grammatical Evolution](https://web.archive.org/web/20110721124315/http:/www.grammaticalevolution.org/tutorial.pdf)
-- [Coevolutionary Computation](https://medium.com/the-generator/coevolutionary-computation-fb719304d12e) ![](medium.png), [New Pathways in Coevolutionary Computation](https://drive.google.com/file/d/1fKymYCJPyd9rBmpEDgRPRe0GE7Yr3SuI/view?usp=sharing)
-- [Novelty search](https://www.cs.ucf.edu/~gitars/cap6671-2010/Presentations/lehman_alife08.pdf)
-- [Humies](https://www.human-competitive.org/)
-- [Evolutionary Art](https://medium.com/the-generator/evolutionary-art-00460707d529) ![](medium.png)
-- [Building Activation Functions for Deep Networks](https://medium.com/@sipper/building-activation-functions-for-deep-networks-82c2a9c9cc1f) ![](medium.png)
-- [Evolutionary Adversarial Attacks on Deep Networks
-](https://medium.com/@sipper/evolutionary-adversarial-attacks-on-deep-networks-ff622b8e15e5) ![](medium.png)
+- Data Leakage	
+	- [Data Leakage Basics, with Examples in Scikit-Learn](https://pub.aimind.so/data-leakage-basics-with-examples-in-scikit-learn-9c946a6f75b2) ![](medium.png)
+	
+	
+- Dimensionality Reduction	
+	- [11 Different Uses of Dimensionality Reduction](https://towardsdatascience.com/11-different-uses-of-dimensionality-reduction-4325d62b4fa6)
+	- [PCA](https://youtu.be/FgakZw6K1QQ)
+	- [PCA](https://www.sartorius.com/en/knowledge/science-snippets/what-is-principal-component-analysis-pca-and-how-it-is-used-507186)
+	- [PCA vs LR](https://starship-knowledge.com/pca-vs-linear-regression#PCA_vs_Linear_Regression_-_How_do_they_Differ)
+	- [pca](https://colab.research.google.com/drive/1h6xLxKyEltPwsck-mJ5nQPFkMGYI8VOs?usp=sharing) ![](colab.png)
+	- [t-SNE](https://youtu.be/NEaUSP4YerM)
+	- [tsne](https://colab.research.google.com/drive/1vnA5iwWrjDY4AhHL_E86VLq59FwJG2s9?usp=sharing) ![](colab.png)
+	
+
+- Clustering	
+	- [Clustering](https://www.geeksforgeeks.org/clustering-in-machine-learning/)
+	- [Hierarchical clustering](https://youtu.be/7xHsRkOdVwo)
+	- [K-means clustering](https://youtu.be/4b5d3muPQmA), [kmeans](https://colab.research.google.com/drive/1aoiM8cnS_DdNOP2njEsjWcyf6-zHMrJ1?usp=sharing) ![](colab.png)
+	- [From Data to Clusters: When is Your Clustering Good Enough?](https://towardsdatascience.com/from-data-to-clusters-when-is-your-clustering-good-enough-5895440a978a)
+
+
+- Hyperparameters 
+	- [Model Parameter vs. Hyperparameter](https://www.youtube.com/watch?v=Qcgav8NmPxY&t=1224s)
+	- [Hyperparameter tuning](https://towardsdatascience.com/hyperparameter-tuning-explained-d0ebb2ba1d35)
+	- [Hyperparameter tuning](https://towardsdatascience.com/hyperparameter-tuning-a-practical-guide-and-template-b3bf0504f095)
+	- [Optuna](https://optuna.org/), [optuna](https://colab.research.google.com/drive/1FbG9yaUNn8EqL1NgLBBoRIx9E5EPBuIQ?usp=sharing) ![](colab.png)
+	- [Evaluating Hyperparameters in Machine Learning](https://medium.com/@sipper/evaluating-hyperparameters-in-machine-learning-25b7fa09362d) ![](medium.png)
+
+
+
+- Some Probability 
+	- [p-values](https://youtu.be/vemZtEM63GY)
+	- [how to calculate p-values](https://youtu.be/JQc3yx0-Q9E)
+	- [p-hacking](https://youtu.be/HDCOUXE3HMM)
+	- [Probability is not Likelihood](https://www.youtube.com/watch?v=pYxNSUDSFH4)
+	- [17 Statistical Hypothesis Tests in Python](https://machinelearningmastery.com/statistical-hypothesis-tests-in-python-cheat-sheet/)
+	- [t-test](https://youtu.be/0Pd3dc1GcHc),[t-test](https://youtu.be/pTmLQvMM-1M)
+	- [t-test vs p-value](https://askanydifference.com/difference-between-t-test-and-p-value/)
+	- [scpipy ttest](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.ttest_ind.html)
+	- ([chi-square](https://youtu.be/ZjdBM7NO7bY))
+	- [permutation test](https://youtu.be/GmvpsJHGCxQ) ([AddGBoost ](https://www.sciencedirect.com/science/article/pii/S2666827021001225)+ [code](https://github.com/moshesipper/AddGBoost))
+	- [The Permutation Test: A Data Scientist’s BFF](https://www.cantorsparadise.com/the-permutation-test-a-data-scientists-bff-a8ca64a5adb4) ![](medium.png)
+
+
+- Feature Importances
+	- [Decision Tree](https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html#sklearn.tree.DecisionTreeClassifier.feature_importances_)
+	- Explainable AI explained! | #4 SHAP](https://youtu.be/9haIOplEIGM?si=kxF4tpGBwziQFy28)
+	- [SHAP Values Explained](https://towardsdatascience.com/shap-explained-the-way-i-wish-someone-explained-it-to-me-ab81cc69ef30)
+
+
+
+- Neural Networks
+	- [Neural networks (StatQuest )](https://youtube.com/playlist?list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1)
+	- [Neural Networks (3Blue1Brown)](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&pp=iAQB)
+	- [Tinker With a Neural Network in Your Browser](https://playground.tensorflow.org/)
+	
+	
+- Deep Learning	
+	- [Neural Networks with À La Carte Selection of Activation Functions](https://drive.google.com/file/d/10wy_gFPoNLwQXHkHKAojYBxbKkB5W_da/view?usp=sharing)
+	- [PyTorch](https://pytorch.org/tutorials/beginner/pytorch_with_examples.html)
+	- [PyTorch](https://towardsdatascience.com/understanding-pytorch-with-an-example-a-step-by-step-tutorial-81fc5f8c4e8e)
+	- [Double Descent: Part 1: A Visual Introduction](https://mlu-explain.github.io/double-descent/)
+	- [conv demo](https://deeplizard.com/resource/pavq7noze2)
+	[convolution](https://www.linkedin.com/posts/pascalbornet_artificialintelligence-ugcPost-6925288775740776448-0S-K/)
+	- [A simple image convolution](https://youtube.com/shorts/4xWpQe3G9qI?si=RUwQHsAK4oP2bvc1)
+	- [Implementing Image Processing Kernels from scratch using Convolution in Python](https://medium.com/@sabribarac/implementing-image-processing-kernels-from-scratch-using-convolution-in-python-4e966e9aafaf)
+	- [Introduction to image generation (diffusion)](https://www.youtube.com/watch?v=kzxz8CO_oG4)
+	- [Loss is Boss](https://levelup.gitconnected.com/loss-is-boss-01ec08dea9e0) ![](medium.png) and other articles in the [DL section](https://medium.com/@sipper/moshe-sippers-writings-174ed2e861df) ![](medium.png)
+
+	
+- Large Language Models
+	- [Introduction to large language models](https://www.youtube.com/watch?v=zizonToFXDs)
+	- [Scikit-LLM](https://github.com/iryna-kondr/scikit-llm)
+	- [A Tiny Large Language Model (LLM), Coded, and Hallucinating](https://medium.com/@sipper/a-tiny-large-language-model-llm-coded-and-hallucinating-9a427b04eb1a) ![](medium.png)
+
+
+- DL and AI	
+	- [Growth of AI computing](https://twitter.com/pmddomingos/status/1535112033137401857)
+	- [AI move from Academia](https://twitter.com/GaryMarcus/status/1536150812795121664)
+	- [Artificial General Intelligence Is Not as Imminent as You Might Think](https://www.scientificamerican.com/article/artificial-general-intelligence-is-not-as-imminent-as-you-might-think1/)
+
+
+
+- Evolutionary Algorithms: Basics
+	- [Evolutionary Computation](http://www.evolutionarycomputation.org/slides/)
+	- [How to Build a Genetic Algorithm from Scratch in Python with Just 33 Lines of Code](https://levelup.gitconnected.com/tiny-genetic-algorithm-33-line-version-and-3-line-version-38a851141512) ![](medium.png)
+	- [Evolutionary Algorithms, Genetic Programming, and Learning](https://medium.com/@sipper/evolutionary-algorithms-genetic-programming-and-learning-dfde441ad0b9) ![](medium.png)
+	- [Tiny GA](https://github.com/moshesipper/tiny_ga), [Tiny GP](https://github.com/moshesipper/tiny_gp)
+	- [EC-KitY](https://www.eckity.org/)
+	- Genetic Programming (GP): [Koza](http://www.genetic-programming.com/c2003lecture1modified.ppt)
+	- [Koza Tutorial](http://www.genetic-programming.com/gecco2003tutorial.pdf)
+	- [Koza's vids](https://www.youtube.com/channel/UC9MEHhji3ODbE_e66EgFkew)
+	- [Koza &amp; Poli](http://www.cs.bham.ac.uk/~wbl/biblio/cache/bin/cache.php?koza:2003:gpt,http___www.genetic-programming.com_jkpdf_burke2003tutorial.pdf,http://www.genetic-programming.com/jkpdf/burke2003tutorial.pdf)
+	- [Yoo](https://coinse.kaist.ac.kr/assets/files/teaching/cs454/cs454-slide09.pdf)
+	- [Herrmann](https://www.inf.ed.ac.uk/teaching/courses/nat/slides/nat09h.pdf)
+	
+	
+- Evolutionary Algorithms: Advanced
+	- [Multi-Objective Optimization](https://engineering.purdue.edu/~sudhoff/ee630/Lecture09.pdf)
+	- [Schema theorem](https://engineering.purdue.edu/~sudhoff/ee630/Lecture03.pdf)
+	- [Linear GP](http://www.am.chalmers.se/~wolff/AI2/Lect05LGP.pdf)
+	- [Cartesian GP](http://cs.ijs.si/ppsn2014/files/slides/ppsn2014-tutorial3-miller.pdf)
+	- [Grammatical Evolution](https://web.archive.org/web/20110721124315/http:/www.grammaticalevolution.org/tutorial.pdf)
+	- [Coevolutionary Computation](https://medium.com/the-generator/coevolutionary-computation-fb719304d12e) ![](medium.png)
+	- [New Pathways in Coevolutionary Computation](https://drive.google.com/file/d/1fKymYCJPyd9rBmpEDgRPRe0GE7Yr3SuI/view?usp=sharing)
+	- [Novelty search](https://www.cs.ucf.edu/~gitars/cap6671-2010/Presentations/lehman_alife08.pdf)
+	- [Humies](https://www.human-competitive.org/)
+	- [Evolutionary Art](https://medium.com/the-generator/evolutionary-art-00460707d529) ![](medium.png)
+	- [Building Activation Functions for Deep Networks](https://medium.com/@sipper/building-activation-functions-for-deep-networks-82c2a9c9cc1f) ![](medium.png)
+	- [Evolutionary Adversarial Attacks on Deep Networks](https://medium.com/@sipper/evolutionary-adversarial-attacks-on-deep-networks-ff622b8e15e5) ![](medium.png)
 
 ***	
 
