@@ -234,7 +234,7 @@
 	- [t-test](https://youtu.be/pTmLQvMM-1M)
 	- [t-test vs p-value](https://askanydifference.com/difference-between-t-test-and-p-value/)
 	- [scpipy ttest](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.ttest_ind.html)
-	- ([chi-square](https://youtu.be/ZjdBM7NO7bY))
+	- [chi-square](https://youtu.be/ZjdBM7NO7bY)
 	- [permutation test](https://youtu.be/GmvpsJHGCxQ) ([AddGBoost ](https://www.sciencedirect.com/science/article/pii/S2666827021001225)+ [code](https://github.com/moshesipper/AddGBoost))
 	- [The Permutation Test: A Data Scientist’s BFF](https://www.cantorsparadise.com/the-permutation-test-a-data-scientists-bff-a8ca64a5adb4) ![](medium.png)
 
