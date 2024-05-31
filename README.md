@@ -257,7 +257,7 @@
 	- [PyTorch](https://towardsdatascience.com/understanding-pytorch-with-an-example-a-step-by-step-tutorial-81fc5f8c4e8e)
 	- [Double Descent: Part 1: A Visual Introduction](https://mlu-explain.github.io/double-descent/)
 	- [conv demo](https://deeplizard.com/resource/pavq7noze2)
-	[convolution](https://www.linkedin.com/posts/pascalbornet_artificialintelligence-ugcPost-6925288775740776448-0S-K/)
+	- [convolution](https://www.linkedin.com/posts/pascalbornet_artificialintelligence-ugcPost-6925288775740776448-0S-K/)
 	- [A simple image convolution](https://youtube.com/shorts/4xWpQe3G9qI?si=RUwQHsAK4oP2bvc1)
 	- [Implementing Image Processing Kernels from scratch using Convolution in Python](https://medium.com/@sabribarac/implementing-image-processing-kernels-from-scratch-using-convolution-in-python-4e966e9aafaf)
 	- [Introduction to image generation (diffusion)](https://www.youtube.com/watch?v=kzxz8CO_oG4)
