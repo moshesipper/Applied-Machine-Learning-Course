@@ -219,7 +219,7 @@
 
 
 
-- Some Probability 
+- Some Topics in Probability 
 	- [p-values](https://youtu.be/vemZtEM63GY)
 	- [how to calculate p-values](https://youtu.be/JQc3yx0-Q9E)
 	- [p-hacking](https://youtu.be/HDCOUXE3HMM)
@@ -235,7 +235,7 @@
 
 - Feature Importances
 	- [Decision Tree](https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html#sklearn.tree.DecisionTreeClassifier.feature_importances_)
-	- Explainable AI explained! | #4 SHAP](https://youtu.be/9haIOplEIGM?si=kxF4tpGBwziQFy28)
+	- [Explainable AI explained! | #4 SHAP](https://youtu.be/9haIOplEIGM?si=kxF4tpGBwziQFy28)
 	- [SHAP Values Explained](https://towardsdatascience.com/shap-explained-the-way-i-wish-someone-explained-it-to-me-ab81cc69ef30)
 
 
