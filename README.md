@@ -155,7 +155,9 @@
 
 
 - Gradient Descent
-	- [Gradient Descent](https://youtu.be/sDv4f4s2SB8) ([Least Squares](https://www.mathsisfun.com/data/least-squares-regression.html), [Least Squares](https://textbooks.math.gatech.edu/ila/least-squares.html))
+	- [Gradient Descent](https://youtu.be/sDv4f4s2SB8)
+	- [Least Squares](https://www.mathsisfun.com/data/least-squares-regression.html)
+	- [Least Squares](https://textbooks.math.gatech.edu/ila/least-squares.html)
 	- [Stochastic Gradient Descent](https://youtu.be/vMh0zPT0tLI)
 	- [Stochastic Gradient Descent Algorithm With Python and NumPy](https://realpython.com/gradient-descent-algorithm-python/)
 
