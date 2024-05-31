@@ -145,7 +145,8 @@
 
 - Comparing ML algos
 	- [Comparing supervised learning algorithms](https://www.dataschool.io/comparing-supervised-learning-algorithms/)
-	- [How to find the best performing Machine Learning algorithm](https://medium.com/analytics-vidhya/how-to-find-the-best-performing-machine-learning-algorithm-dc4eb4ff34b6), Boston dataset (`from sklearn.datasets import load_boston` -> [racist data destruction?](https://medium.com/@docintangible/racist-data-destruction-113e3eff54a8)) 
+	- [How to find the best performing Machine Learning algorithm](https://medium.com/analytics-vidhya/how-to-find-the-best-performing-machine-learning-algorithm-dc4eb4ff34b6)
+	- Boston dataset (`from sklearn.datasets import load_boston` -> [racist data destruction?](https://medium.com/@docintangible/racist-data-destruction-113e3eff54a8)) 
 
 
 - Gradient Descent
