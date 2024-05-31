@@ -148,7 +148,7 @@
 	- [XGBoost](https://youtu.be/OtD8wVaFm6E)
 	
 
-- Comparing ML algos
+- Comparing ML algorithms
 	- [Comparing supervised learning algorithms](https://www.dataschool.io/comparing-supervised-learning-algorithms/)
 	- [How to find the best performing Machine Learning algorithm](https://medium.com/analytics-vidhya/how-to-find-the-best-performing-machine-learning-algorithm-dc4eb4ff34b6)
 	- [racist data destruction?](https://medium.com/@docintangible/racist-data-destruction-113e3eff54a8)
