@@ -184,7 +184,6 @@
 	- [Sensitivity and specificity](https://en.wikipedia.org/wiki/Sensitivity_and_specificity)
 	-  [ROC and AUC](https://youtu.be/4jRBRDbJemM)
 	- [Online ROC Curve Calculator](https://www.rad.jhmi.edu/jeng/javarad/roc/JROCFITi.html)
-	- [balanced accuracy](https://www.statology.org/balanced-accuracy/)
 	- [balanced accuracy](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.balanced_accuracy_score.html#balanced-accuracy-score)
 	- [balanced accuracy](https://www.statology.org/balanced-accuracy/)
 	- [various metrics from CM](https://en.wikipedia.org/wiki/Confusion_matrix)
