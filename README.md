@@ -119,8 +119,9 @@
 	- [Optimization of linear models](https://data-psl.github.io/lectures2020/slides/05_optimization_linear_models/)
 	
 	
-- Ridge & Lasso	
-	- [Ridge vs. Lasso](https://www.statology.org/when-to-use-ridge-lasso-regression/), [notes on regularization in ML](https://www.linkedin.com/feed/update/urn:li:activity:7053809365169971201/)
+- Regularization: Ridge & Lasso	
+	- [Ridge vs. Lasso](https://www.statology.org/when-to-use-ridge-lasso-regression/)
+	- [notes on regularization in ML](https://www.linkedin.com/feed/update/urn:li:activity:7053809365169971201/)
 
 
 - AdaBoost
