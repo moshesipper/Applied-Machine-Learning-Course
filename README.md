@@ -152,6 +152,7 @@
 	- [Comparing supervised learning algorithms](https://www.dataschool.io/comparing-supervised-learning-algorithms/)
 	- [How to find the best performing Machine Learning algorithm](https://medium.com/analytics-vidhya/how-to-find-the-best-performing-machine-learning-algorithm-dc4eb4ff34b6)
 	- [`load_boston` removal](https://scikit-learn.org/1.0/modules/generated/sklearn.datasets.load_boston.html)
+	- [Choosing the right estimator](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
 
 
 - Gradient Descent
@@ -161,10 +162,6 @@
 	- [Stochastic Gradient Descent](https://youtu.be/vMh0zPT0tLI)
 	- [Stochastic Gradient Descent Algorithm With Python and NumPy](https://realpython.com/gradient-descent-algorithm-python/)
 
-
-- Choosing a Model
-	- [Choosing the right estimator](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
-	
 	
 - SVM	
 	- [Support Vector Machine](https://youtu.be/efR1C6CvhmE)
