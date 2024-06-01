@@ -179,6 +179,7 @@
 - Metrics
 	- [sklearn.metrics](https://scikit-learn.org/stable/api/sklearn.metrics.html)
 	- [Confusion Matrix](https://youtu.be/Kdsp6soqA7o)
+	- [Confusion Matrix & Metrics in a minute](https://medium.com/@asusrishabh/confusion-matrix-metrics-in-a-minute-e1596872e90b)
 	- [Sensitivity and Specificity](https://youtu.be/vP06aMoz4v8)
 	- [Sensitivity and specificity](https://en.wikipedia.org/wiki/Sensitivity_and_specificity)
 	-  [ROC and AUC](https://youtu.be/4jRBRDbJemM)
