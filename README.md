@@ -13,7 +13,7 @@
 
 ***
 
-<a name="syllabus">**Expanded Syllabus**</a>
+<a name="syllabus">**Syllabus**</a>
 
 - *What is machine learning (ML)*?
 - *Basics of Python programming*
