@@ -6,9 +6,9 @@
 
 **Syllabus: What is machine learning (ML), Python, applying ML, supervised learning, dimensionality reduction, unsupervised learning, deep networks, evolutionary algorithms**
 
-**[Short read on topics related to this course](https://medium.com/@sipper/moshe-sippers-writings-174ed2e861df)**
+**[Short reads on topics related to this course](https://medium.com/@sipper/moshe-sippers-writings-174ed2e861df)**
 
-[Topics](#topics) ✧ 
+[Course Topics](#topics) ✧ 
 [Algorithm Pros and Cons](#pros) ✧
 [Resources](#resources)
 
