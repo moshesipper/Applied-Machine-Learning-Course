@@ -2,7 +2,7 @@
 
 <img align="right" src="https://static1.moviewebimages.com/wordpress/wp-content/uploads/2022/07/Wall-E-Rubiks-Cube.png" width="200" />
 
-**This course covers the applied/coding side of algorithmics in machine learning and deep learning, with a smidgen of evolutionary algorithms.**
+**This course covers the applied/coding side of algorithmics in machine learning, with some deep learning and evolutionary algorithms thrown in as well.**
 
 *Syllabus: What is machine learning (ML), Python, applying ML, supervised learning, dimensionality reduction, unsupervised learning, deep networks, evolutionary algorithms*
 
