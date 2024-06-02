@@ -4,7 +4,7 @@
 
 **This course covers the applied/coding side of algorithmics in machine learning, with some deep learning and evolutionary algorithms thrown in as well.**
 
-**<span style="color:blue">Syllabus</span>: What is machine learning (ML), Python, applying ML, supervised learning, dimensionality reduction, unsupervised learning, deep networks, evolutionary algorithms**
+**<span style="color:red">Syllabus</span>: What is machine learning (ML), Python, applying ML, supervised learning, dimensionality reduction, unsupervised learning, deep networks, evolutionary algorithms**
 
 **[Short reads on topics related to this course](https://medium.com/@sipper/moshe-sippers-writings-174ed2e861df)**
 
