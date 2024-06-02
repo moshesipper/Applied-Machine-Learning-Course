@@ -4,10 +4,10 @@
 
 **This course covers the applied/coding side of algorithmics in machine learning, with some deep learning and evolutionary algorithms thrown in as well.**
 
-*Syllabus: What is machine learning (ML), Python, applying ML, supervised learning, dimensionality reduction, unsupervised learning, deep networks, evolutionary algorithms*
+**Syllabus: What is machine learning (ML), Python, applying ML, supervised learning, dimensionality reduction, unsupervised learning, deep networks, evolutionary algorithms**
 
-[Expanded Syllabus](#syllabus) ✧ 
-[5-Min Reads](#medium) ✧
+**[Short read on topics related to this course](https://medium.com/@sipper/moshe-sippers-writings-174ed2e861df)**
+
 [Topics](#topics) ✧ 
 [Algorithm Pros and Cons](#pros) ✧
 [Resources](#resources)
@@ -25,12 +25,6 @@
 - *Unsupervised learning*: hierarchical clustering, k-means, t-SNE
 - *Deep networks*: backpropagation, deep neural network, convolutional neural network
 - *Evolutionary algorithms*: genetic algorithm (GAs), genetic programming (GP)
-
-***
-
-<a name="medium">**5-Min Reads**</a>
-
-[Here](https://medium.com/@sipper/moshe-sippers-writings-174ed2e861df) you can find short reads on various topics related to this course: machine learning, deep learning, evolutionary algorithms, artificial intelligence, and more.
 
 
 ***	
