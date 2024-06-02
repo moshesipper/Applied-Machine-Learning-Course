@@ -12,8 +12,6 @@
 
 [Topics](#topics)
 
-[Cheat Sheets](#cheat)
-
 [Algorithm Pros and Cons](#pros)
 
 [Resources](#resources)
@@ -303,13 +301,6 @@
 	- [Building Activation Functions for Deep Networks](https://medium.com/@sipper/building-activation-functions-for-deep-networks-82c2a9c9cc1f) ![](medium.png)
 	- [Evolutionary Adversarial Attacks on Deep Networks](https://medium.com/@sipper/evolutionary-adversarial-attacks-on-deep-networks-ff622b8e15e5) ![](medium.png)
 
-***	
-
-<a name="cheat">**Cheat Sheets**</a>
-*   [Machine Learning Glossary](https://ml-cheatsheet.readthedocs.io/en/latest/index.html)
-*	[Cheat Sheets for Machine Learning and Data Science](https://sites.google.com/view/datascience-cheat-sheets)
-*	[The Illustrated Machine Learning Website](https://illustrated-machine-learning.github.io/)
-
 
 ***	
 
@@ -370,7 +361,14 @@
 
 ***	
 
-<a name="resources">**Resources: Evolutionary Algorithms, Machine Learning, Deep Learning**</a>
+<a name="resources">**Resources: Machine Learning, Deep Learning, Evolutionary Algorithms**</a>
+
+Cheat Sheets
+
+*   [Machine Learning Glossary](https://ml-cheatsheet.readthedocs.io/en/latest/index.html)
+*	[Cheat Sheets for Machine Learning and Data Science](https://sites.google.com/view/datascience-cheat-sheets)
+*	[The Illustrated Machine Learning Website](https://illustrated-machine-learning.github.io/)
+
 
 Vids
 
