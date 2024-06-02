@@ -6,14 +6,10 @@
 
 *Syllabus: What is machine learning (ML), Python, applying ML, supervised learning, dimensionality reduction, unsupervised learning, deep networks, evolutionary algorithms*
 
-[Expanded Syllabus](#syllabus)
-
-[5-Min Reads](#medium)
-
-[Topics](#topics)
-
-[Algorithm Pros and Cons](#pros)
-
+[Expanded Syllabus](#syllabus) ✧ 
+[5-Min Reads](#medium) ✧
+[Topics](#topics) ✧ 
+[Algorithm Pros and Cons](#pros) ✧
 [Resources](#resources)
 
 
