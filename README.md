@@ -16,7 +16,7 @@
 
 [Algorithm Pros and Cons](#pros)
 
-[Resources: Evolutionary Algorithms, Machine Learning, Deep Learning](#resources)
+[Resources](#resources)
 
 
 ***
