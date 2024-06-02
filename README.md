@@ -165,7 +165,6 @@
 	
 - SVM	
 	- [Support Vector Machine](https://youtu.be/efR1C6CvhmE)
-	- [sklearn.svm.SVC](https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html)
 	- [Plot different SVM classifiers in the iris dataset](https://scikit-learn.org/stable/auto_examples/svm/plot_iris_svc.html#sphx-glr-auto-examples-svm-plot-iris-svc-py)
 	
 	
