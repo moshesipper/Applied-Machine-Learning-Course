@@ -30,7 +30,7 @@
 - *Dimensionality reduction*: principal component analysis
 - *Unsupervised learning*: hierarchical clustering, k-means, t-SNE
 - *Deep networks*: backpropagation, deep neural network, convolutional neural network
-- *Evolutionary algorithms*: genetic algorithm,genetic programming
+- *Evolutionary algorithms*: genetic algorithm (GAs), genetic programming (GP)
 
 ***
 
