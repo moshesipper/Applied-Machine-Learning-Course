@@ -6,9 +6,7 @@
 
 **[Short reads on topics related to this course](https://medium.com/@sipper/moshe-sippers-writings-174ed2e861df)**
 
-[Course Topics](#topics) ✧ 
-[Algorithm Pros and Cons](#pros) ✧
-[Resources](#resources)
+[Course Topics](#topics) ✧ [Resources](#resources)
 
 
 ***
@@ -292,68 +290,12 @@
 
 ***	
 
-<a name="pros">**Algorithm Pros and Cons**</a>
-
-- KN Neighbors \
-   ✔ Simple, No training, No assumption about data, Easy to implement, New data can be added seamlessly, Only one hyperparameter \
-   ✖ Doesn't work well in high dimensions, Sensitive to noisy data, missing values and outliers, Doesn't work well with large data sets —  cost of calculating distance is high, Needs feature scaling, Doesn't work well on imbalanced data, Doesn't deal well with missing values
-
-- Decision Tree \
-   ✔ Doesn't require standardization or normalization, Easy to implement, Can handle missing values, Automatic feature selection \
-   ✖ High variance, Higher training time, Can become complex, Can easily overfit
-
-- Random Forest \
-   ✔ Left-out data can be used for testing, High accuracy, Provides feature importance estimates, Can handle missing values, Doesn't require feature scaling, Good performance on imbalanced datasets, Can handle large dataset, Outliers have little impact, Less overfitting \
-   ✖ Less interpretable, More computational resources, Prediction time high
-
-- Linear Regression \
-   ✔ Simple, Interpretable, Easy to Implement \
-   ✖ Assumes linear relationship between features, Sensitive to outliers
-
-- Logistic Regression \
-   ✔ Doesn’t assume linear relationship between independent and dependent variables, Output can be interpreted as probability, Robust to noise \
-   ✖ Requires more data, Effective when linearly separable
-
-- Lasso Regression (L1) \
-   ✔ Prevents overfitting, Selects features by shrinking coefficients to zero \
-   ✖ Selected features will be biased, Prediction can be worse than Ridge
-
-- Ridge Regression (L2) \
-   ✔ Prevents overfitting \
-   ✖ Increases bias, Less interpretability 
-
-- AdaBoost \
-   ✔ Fast, Reduced bias, Little need to tune \
-   ✖ Vulnerable to noise, Can overfit
-
-- Gradient Boosting \
-   ✔ Good performance \
-   ✖ Harder to tune hyperparameters
-
-- XGBoost \
-   ✔ Less feature engineering required, Outliers have little impact, Can output feature importance, Handles large datasets, Good model performance, Less prone to overfitting \
-   ✖ Difficult to interpret, Harder to tune as there are numerous hyperparameters
-
-- SVM \
-   ✔ Performs well in higher dimensions, Excellent when classes are separable, Outliers have less impact \
-   ✖ Slow, Poor performance with overlapping classes, Selecting appropriate kernel functions can be tricky
-
-- Naïve Bayes \
-   ✔ Fast, Simple, Requires less training data, Scalable, Insensitive to irrelevant features, Good performance with high-dimensional data \
-   ✖ Assumes independence of features
-
-- Deep Learning \
-  ✔ Superb performance with unstructured data (images, video, audio, text) \
-  ✖ (Very) long training time, Many hyperparameters, Prone to overfitting
-
-
-***	
-
 <a name="resources">**Resources: Machine Learning, Deep Learning, Evolutionary Algorithms**</a>
 
 Cheat Sheets
 
 *   [Machine Learning Glossary](https://ml-cheatsheet.readthedocs.io/en/latest/index.html)
+*	[Some Pros and Cons of Basic ML Algorithms, in 2 Minutes](https://medium.com/ai-mind-labs/some-pros-and-cons-of-basic-ml-algorithms-in-2-minutes-1cf7f327147f)
 *	[Cheat Sheets for Machine Learning and Data Science](https://sites.google.com/view/datascience-cheat-sheets)
 *	[The Illustrated Machine Learning Website](https://illustrated-machine-learning.github.io/)
 
