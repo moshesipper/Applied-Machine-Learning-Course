@@ -155,7 +155,7 @@
 - Bayesian 	
 	- [Multinomial Naive Bayes](https://youtu.be/O2L2Uv9pdDA)
 
-	
+
 - Metrics
 	- [sklearn.metrics](https://scikit-learn.org/stable/api/sklearn.metrics.html)
 	- [Confusion Matrix](https://youtu.be/Kdsp6soqA7o)
@@ -163,14 +163,9 @@
 	- [Sensitivity and Specificity](https://youtu.be/vP06aMoz4v8)
 	- [Sensitivity and specificity](https://en.wikipedia.org/wiki/Sensitivity_and_specificity)
 	-  [ROC and AUC](https://youtu.be/4jRBRDbJemM)
-	- [Online ROC Curve Calculator](https://www.rad.jhmi.edu/jeng/javarad/roc/JROCFITi.html)
 	- [balanced accuracy](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.balanced_accuracy_score.html#balanced-accuracy-score)
 	- [balanced accuracy](https://www.statology.org/balanced-accuracy/)
 	- [various metrics from CM](https://en.wikipedia.org/wiki/Confusion_matrix)
-
-
-- ML in practice
-	- [ML in practice](https://info.deeplearning.ai/the-batch-one-model-for-hundreds-of-tasks-recognizing-workplace-hazards-when-data-means-danger-vision-transformer-upgrade-1)
 
 
 - Data Leakage	
