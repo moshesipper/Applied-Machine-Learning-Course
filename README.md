@@ -221,6 +221,11 @@
 	- [SHAP Values Explained](https://towardsdatascience.com/shap-explained-the-way-i-wish-someone-explained-it-to-me-ab81cc69ef30)
 
 
+- Semi-Supervised Learning
+	- [Boosting vs. semi-supervised learning](https://youtu.be/2eU_8ExBzDw?si=pS9qK5YvO3tIFyTz)
+	- [LabelPropagation](https://scikit-learn.org/stable/modules/generated/sklearn.semi_supervised.LabelPropagation.html)
+
+
 - Neural Networks
 	- [Neural networks](https://youtube.com/playlist?list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1)
 	- [Neural networks](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&pp=iAQB)
