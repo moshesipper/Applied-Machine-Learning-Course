@@ -292,7 +292,7 @@
 
 ***	
 
-<a name="resources">**Resources: Machine Learning, Deep Learning, Evolutionary Algorithms**</a>
+<a name="resources">**Resources**</a>
 
 Cheat Sheets
 
