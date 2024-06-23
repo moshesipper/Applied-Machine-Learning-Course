@@ -4,7 +4,7 @@
 
 **This course covers the applied/coding side of algorithmics in machine learning, with some deep learning and evolutionary algorithms thrown in as well.**
 
-**[Short reads on topics related to this course](https://medium.com/@sipper/moshe-sippers-writings-174ed2e861df)**
+**[Moshe Sipper’s Cat-a-log of Writings](https://medium.com/@sipper/moshe-sippers-writings-174ed2e861df)**
 
 **[Some Pros and Cons of Basic ML Algorithms, in 2 Minutes](https://medium.com/ai-mind-labs/some-pros-and-cons-of-basic-ml-algorithms-in-2-minutes-1cf7f327147f)**
 
