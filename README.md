@@ -15,7 +15,7 @@
 
 <a name="syllabus">**Syllabus**</a>
 
-Python • Artificial Intelligenc • Date Science • Machine Learning Intro • Scikit-learn • ML Models • Decision trees • Random Forest • Linear Regression • Logistic Regression • Linear Models • Regularization: Ridge & Lasso • AdaBoost • Gradient Boosting • AddGBoost • Ensembles  • XGBoost • Comparing ML algorithms • Gradient Descent • SVM • Bayesian • Metrics • Data Leakage • Dimensionality Reduction • Clustering • Hyperparameters • Some Topics in Probability • Feature Importances • Semi-Supervised Learning • Neural Networks • Deep Learning • Large Language Models • DL and AI • Evolutionary Algorithms: Basics • Evolutionary Algorithms: Advanced
+Python ❖ Artificial Intelligence ❖ Date Science ❖ Machine Learning Intro ❖ Scikit-learn ❖ ML Models ❖ Decision Trees ❖ Random Forest ❖ Linear Regression ❖ Logistic Regression ❖ Linear Models ❖ Regularization: Ridge & Lasso ❖ AdaBoost ❖ Gradient Boosting ❖ AddGBoost ❖ Ensembles  ❖ XGBoost ❖ Comparing ML algorithms ❖ Gradient Descent ❖ SVM ❖ Bayesian ❖ Metrics ❖ Data Leakage ❖ Dimensionality Reduction ❖ Clustering ❖ Hyperparameters ❖ Some Topics in Probability ❖ Feature Importances ❖ Semi-Supervised Learning ❖ Neural Networks ❖ Deep Learning ❖ Large Language Models ❖ DL and AI ❖ Evolutionary Algorithms: Basics ❖ Evolutionary Algorithms: Advanced
 
 
 
@@ -70,7 +70,7 @@ Python • Artificial Intelligenc • Date Science • Machine Learning Intro �
 	- [Machine learning models](https://data-psl.github.io/lectures2020/slides/03_machine_learning_models/)
 	
 	
-- Decision trees
+- Decision Trees
 	- [Decision trees](https://youtu.be/_L39rN6gz7Y)
 	- [Decision trees](https://colab.research.google.com/drive/1wyD94nW0HFvdhCkYLLmkxdVulhZTDD-x?usp=sharing) ![](colab.png)
 
