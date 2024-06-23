@@ -6,12 +6,14 @@
 
 **[Short reads on topics related to this course](https://medium.com/@sipper/moshe-sippers-writings-174ed2e861df)**
 
+**[Some Pros and Cons of Basic ML Algorithms, in 2 Minutes](https://medium.com/ai-mind-labs/some-pros-and-cons-of-basic-ml-algorithms-in-2-minutes-1cf7f327147f)**
+
 [Course Topics](#topics) ✧ [Resources](#resources)
 
 
 ***
 
-<a name="syllabus">**Syllabus**</a>
+<a name="syllabus">**Syllabus**</a> (according to order of instruction) 
 
 - **Basics of Python programming**
 - **What is machine learning (ML)?**
