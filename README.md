@@ -15,18 +15,41 @@
 
 <a name="syllabus">**Syllabus**</a>
 
-- **Basics of Python programming**
-- **Intro: AI, Data Science, Machine Learning (ML)**
-- **Scikit-learn**
-- **Applying ML**: evaluation, dataset splits, cross-validation, performance measures, bias/variance tradeoff, visualization, confusion matrix, choosing estimators, hyperparameter tuning, statistics
-- **Supervised learning**: models, features, objectives, model training, overfitting, regularization, classification, regression, gradient descent, k nearest neighbors, linear regression, logistic regression, decision tree, random forest, adaptive boosting, gradient boosting, support vector machine, naïve Bayes
-- **Dimensionality reduction**: principal component analysis
-- **Unsupervised learning**: hierarchical clustering, k-means, t-SNE
-- **Deep networks**: backpropagation, deep neural network, convolutional neural network
-- **Evolutionary algorithms**: genetic algorithm (GAs), genetic programming (GP)
-
-- Python ✧ Artificial Intelligence ✧ Date Science ✧ Machine Learning Intro ✧ Scikit-learn ✧ ML Models ✧ Decision trees ✧ Random Forest ✧ Linear Regression ✧ Logistic Regression ✧ Linear Models ✧ Regularization: Ridge & Lasso ✧ AdaBoost ✧ Gradient Boosting ✧ AddGBoost ✧ Ensembles ✧ XGBoost ✧ Comparing ML algorithms ✧ Gradient Descent ✧ SVM ✧ Bayesian ✧ Metrics ✧ Data Leakage ✧ Dimensionality Reduction ✧ Clustering ✧ Hyperparameters ✧ Some Topics in Probability ✧ Feature Importances ✧ Semi-Supervised Learning ✧ Neural Networks ✧ Deep Learning ✧ Large Language Models ✧ DL and AI ✧ Evolutionary Algorithms
-
+- Python
+- Artificial Intelligence
+- Date Science
+- Machine Learning Intro
+- Scikit-learn
+- ML Models
+- Decision trees
+- Random Forest
+- Linear Regression
+- Logistic Regression
+- Linear Models
+- Regularization: Ridge & Lasso
+- AdaBoost
+- Gradient Boosting
+- AddGBoost
+- Ensembles
+- XGBoost
+- Comparing ML algorithms
+- Gradient Descent
+- SVM
+- Bayesian
+- Metrics
+- Data Leakage
+- Dimensionality Reduction
+- Clustering
+- Hyperparameters
+- Some Topics in Probability
+- Feature Importances
+- Semi-Supervised Learning
+- Neural Networks
+- Deep Learning
+- Large Language Models
+- DL and AI
+- Evolutionary Algorithms: Basics
+- Evolutionary Algorithms: Advanced
 
 
 ***	
