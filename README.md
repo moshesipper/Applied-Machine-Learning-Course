@@ -15,41 +15,8 @@
 
 <a name="syllabus">**Syllabus**</a>
 
-- Python
-- Artificial Intelligence
-- Date Science
-- Machine Learning Intro
-- Scikit-learn
-- ML Models
-- Decision trees
-- Random Forest
-- Linear Regression
-- Logistic Regression
-- Linear Models
-- Regularization: Ridge & Lasso
-- AdaBoost
-- Gradient Boosting
-- AddGBoost
-- Ensembles
-- XGBoost
-- Comparing ML algorithms
-- Gradient Descent
-- SVM
-- Bayesian
-- Metrics
-- Data Leakage
-- Dimensionality Reduction
-- Clustering
-- Hyperparameters
-- Some Topics in Probability
-- Feature Importances
-- Semi-Supervised Learning
-- Neural Networks
-- Deep Learning
-- Large Language Models
-- DL and AI
-- Evolutionary Algorithms: Basics
-- Evolutionary Algorithms: Advanced
+Python • Artificial Intelligenc • Date Science • Machine Learning Intro • Scikit-learn • ML Models • Decision trees • Random Forest • Linear Regression • Logistic Regression • Linear Models • Regularization: Ridge & Lasso • AdaBoost • Gradient Boosting • AddGBoost • Ensembles  • XGBoost • Comparing ML algorithms • Gradient Descent • SVM • Bayesian • Metrics • Data Leakage • Dimensionality Reduction • Clustering • Hyperparameters • Some Topics in Probability • Feature Importances • Semi-Supervised Learning • Neural Networks • Deep Learning • Large Language Models • DL and AI • Evolutionary Algorithms: Basics • Evolutionary Algorithms: Advanced
+
 
 
 ***	
