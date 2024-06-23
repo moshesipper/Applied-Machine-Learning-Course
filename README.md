@@ -4,7 +4,7 @@
 
 **This course covers the applied/coding side of algorithmics in machine learning, with some deep learning and evolutionary algorithms thrown in as well.**
 
-(<span style="color:blue">The course is now in its third iteration, and I update this repo continually</span>)
+($`\textcolor{blue}{\text{The course is now in its third iteration, and I update this repo continually}}`$)
 
 **[Moshe Sipper’s Cat-a-log of Writings](https://medium.com/@sipper/moshe-sippers-writings-174ed2e861df)**
 
