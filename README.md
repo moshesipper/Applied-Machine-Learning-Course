@@ -13,7 +13,7 @@
 
 ***
 
-<a name="syllabus">**Syllabus**</a> (according to order of instruction) 
+<a name="syllabus">**Syllabus**</a>
 
 - **Basics of Python programming**
 - **What is machine learning (ML)?**
@@ -27,7 +27,7 @@
 
 ***	
 
-<a name="topics">**Topics**</a>
+<a name="topics">**Topics**</a> (according to order of instruction)
 
 (![](colab.png): my colab notebooks, ![](medium.png): my medium articles)
 
