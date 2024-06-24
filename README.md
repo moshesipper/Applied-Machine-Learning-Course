@@ -143,6 +143,7 @@
 	- [Least Squares](https://textbooks.math.gatech.edu/ila/least-squares.html)
 	- [Stochastic Gradient Descent](https://youtu.be/vMh0zPT0tLI)
 	- [Stochastic Gradient Descent Algorithm With Python and NumPy](https://realpython.com/gradient-descent-algorithm-python/)
+	- [Gradient Descent With Momentum](https://towardsdatascience.com/gradient-descent-with-momentum-59420f626c8f)
 
 	
 - SVM	
