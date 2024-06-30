@@ -216,6 +216,7 @@
 
 - Feature Importances
 	- [Decision Tree](https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html#sklearn.tree.DecisionTreeClassifier.feature_importances_)
+	- [Feature importances with a forest of trees](https://scikit-learn.org/stable/auto_examples/ensemble/plot_forest_importances.html)
 	- [Explainable AI explained! | #4 SHAP](https://youtu.be/9haIOplEIGM?si=kxF4tpGBwziQFy28)
 	- [SHAP Values Explained](https://towardsdatascience.com/shap-explained-the-way-i-wish-someone-explained-it-to-me-ab81cc69ef30)
 
