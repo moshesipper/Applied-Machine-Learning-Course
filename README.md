@@ -10,7 +10,7 @@
 
 **[Some Pros and Cons of Basic ML Algorithms, in 2 Minutes](https://medium.com/ai-mind-labs/some-pros-and-cons-of-basic-ml-algorithms-in-2-minutes-1cf7f327147f)**
 
-[Additional resources](resources.md)
+[Additional Resources](resources.md) (Cheat Sheets, Vids, Reads, Books, Software, Datasets)
 
 
 ***
