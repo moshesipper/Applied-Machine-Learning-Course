@@ -283,11 +283,11 @@
 
 
 - Large Language Models
+	- [A Tiny Large Language Model (LLM), Coded, and Hallucinating](https://medium.com/@sipper/a-tiny-large-language-model-llm-coded-and-hallucinating-9a427b04eb1a) ![](medium.png)
 	- [Introduction to large language models](https://www.youtube.com/watch?v=zizonToFXDs)
 	- [Large Language Models from scratch](https://youtu.be/lnA9DMvHtfI?si=mjdh3ts-qrblJdjI)
 	- [Large Language Models: Part 2](https://youtu.be/YDiSFS-yHwk?si=7iD0M7QwGg0nifuq)
 	- [Scikit-LLM](https://github.com/iryna-kondr/scikit-llm)
-	- [A Tiny Large Language Model (LLM), Coded, and Hallucinating](https://medium.com/@sipper/a-tiny-large-language-model-llm-coded-and-hallucinating-9a427b04eb1a) ![](medium.png)
 	- [Coding a ChatGPT Like Transformer From Scratch in PyTorch](https://youtu.be/C9QSpl5nmrY?si=4ysM62zpwGpSYiMD)
 	- [Word Embeddings: Encoding Lexical Semantics](https://pytorch.org/tutorials/beginner/nlp/word_embeddings_tutorial.html?highlight=embeddings)
 	- [What are the query, key, and value vectors?](https://rahulrajpvr7d.medium.com/what-are-the-query-key-and-value-vectors-5656b8ca5fa0)
