@@ -13,7 +13,6 @@
 [Additional Resources](resources.md) (Cheat Sheets, Vids, Reads, Books, Software, Datasets)
 
 
-
 ***
 
 <a name="syllabus">**Syllabus**</a>
