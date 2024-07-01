@@ -17,7 +17,7 @@
 
 <a name="syllabus">**Syllabus**</a>
 
-❖ Python ❖ Artificial Intelligence ❖ Date Science ❖ Machine Learning Intro ❖ Scikit-learn ❖ ML Models ❖ Decision Trees ❖ Random Forest ❖ Linear Regression ❖ Logistic Regression ❖ Linear Models ❖ Regularization: Ridge & Lasso ❖ AdaBoost ❖ Gradient Boosting ❖ AddGBoost ❖ Ensembles  ❖ XGBoost ❖ Comparing ML algorithms ❖ Gradient Descent ❖ SVM ❖ Bayesian ❖ Metrics ❖ Data Leakage ❖ Dimensionality Reduction ❖ Clustering ❖ Hyperparameters ❖ Some Topics in Probability ❖ Feature Importances ❖ Semi-Supervised Learning ❖ Neural Networks ❖ Deep Learning ❖ Large Language Models ❖ DL and AI ❖ Evolutionary Algorithms: Basics ❖ Evolutionary Algorithms: Advanced
+❖ Python ❖ Artificial Intelligence ❖ Date Science ❖ Machine Learning Intro ❖ Scikit-learn ❖ ML Models ❖ Decision Trees ❖ Random Forest ❖ Linear Regression ❖ Logistic Regression ❖ Linear Models ❖ Regularization: Ridge & Lasso ❖ AdaBoost ❖ Gradient Boosting ❖ AddGBoost ❖ Ensembles  ❖ XGBoost ❖ Comparing ML algorithms ❖ Gradient Descent ❖ SVM ❖ Bayesian ❖ Metrics ❖ Data Leakage ❖ Dimensionality Reduction ❖ Clustering ❖ Hyperparameters ❖ Some Topics in Probability ❖ Feature Importances ❖ Semi-Supervised Learning ❖ Neural Networks ❖ Deep Learning ❖ DL and AI ❖ Evolutionary Algorithms: Basics ❖ Evolutionary Algorithms: Advanced ❖ Large Language Models 
 
 
 
@@ -245,12 +245,6 @@
 	- [Introduction to image generation (diffusion)](https://www.youtube.com/watch?v=kzxz8CO_oG4)
 	- [Loss is Boss](https://levelup.gitconnected.com/loss-is-boss-01ec08dea9e0) ![](medium.png) and other articles in the [DL section](https://medium.com/@sipper/moshe-sippers-writings-174ed2e861df) ![](medium.png)
 
-	
-- Large Language Models
-	- [Introduction to large language models](https://www.youtube.com/watch?v=zizonToFXDs)
-	- [Scikit-LLM](https://github.com/iryna-kondr/scikit-llm)
-	- [A Tiny Large Language Model (LLM), Coded, and Hallucinating](https://medium.com/@sipper/a-tiny-large-language-model-llm-coded-and-hallucinating-9a427b04eb1a) ![](medium.png)
-
 
 - DL and AI	
 	- [Growth of AI computing](https://twitter.com/pmddomingos/status/1535112033137401857)
@@ -287,6 +281,12 @@
 	- [Building Activation Functions for Deep Networks](https://medium.com/@sipper/building-activation-functions-for-deep-networks-82c2a9c9cc1f) ![](medium.png)
 	- [Evolutionary Adversarial Attacks on Deep Networks](https://medium.com/@sipper/evolutionary-adversarial-attacks-on-deep-networks-ff622b8e15e5) ![](medium.png)
 
+
+- Large Language Models
+	- [Introduction to large language models](https://www.youtube.com/watch?v=zizonToFXDs)
+	- [Scikit-LLM](https://github.com/iryna-kondr/scikit-llm)
+	- [A Tiny Large Language Model (LLM), Coded, and Hallucinating](https://medium.com/@sipper/a-tiny-large-language-model-llm-coded-and-hallucinating-9a427b04eb1a) ![](medium.png)
+	- [Coding a ChatGPT Like Transformer From Scratch in PyTorch](https://youtu.be/C9QSpl5nmrY?si=4ysM62zpwGpSYiMD)
 
 ***	
 
