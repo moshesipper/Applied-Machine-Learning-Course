@@ -283,8 +283,8 @@
 
 
 - Large Language Models
-	- [A Tiny Large Language Model (LLM), Coded, and Hallucinating](https://medium.com/@sipper/a-tiny-large-language-model-llm-coded-and-hallucinating-9a427b04eb1a) ![](medium.png)
 	- [Introduction to large language models](https://www.youtube.com/watch?v=zizonToFXDs)
+	- [A Tiny Large Language Model (LLM), Coded, and Hallucinating](https://medium.com/@sipper/a-tiny-large-language-model-llm-coded-and-hallucinating-9a427b04eb1a) ![](medium.png)
 	- [Large Language Models from scratch](https://youtu.be/lnA9DMvHtfI?si=mjdh3ts-qrblJdjI)
 	- [Large Language Models: Part 2](https://youtu.be/YDiSFS-yHwk?si=7iD0M7QwGg0nifuq)
 	- [Scikit-LLM](https://github.com/iryna-kondr/scikit-llm)
