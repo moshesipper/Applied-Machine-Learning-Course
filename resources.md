@@ -1,4 +1,4 @@
-** <ins>Additional Resources</ins> **
+**<ins>Additional Resources</ins>**
 
 Cheat Sheets
 
