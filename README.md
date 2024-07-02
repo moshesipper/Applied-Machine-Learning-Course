@@ -2,7 +2,7 @@
 
 <img align="right" src="https://static1.moviewebimages.com/wordpress/wp-content/uploads/2022/07/Wall-E-Rubiks-Cube.png" width="200" />
 
-**This course covers the applied/coding side of algorithmics in machine learning, with some deep learning and evolutionary algorithms thrown in as well.**
+**This course covers the applied side of algorithmics in machine learning, with some deep learning and evolutionary algorithms thrown in as well.**
 
 Note: I update this repo on a fairly regular basis (the course is now in its third iteration).
 
