@@ -1,4 +1,4 @@
-# Course: Applied Machine Learning 
+# Applied Machine Learning 
 
 <img align="right" src="https://static1.moviewebimages.com/wordpress/wp-content/uploads/2022/07/Wall-E-Rubiks-Cube.png" width="200" />
 
