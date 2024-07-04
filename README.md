@@ -238,6 +238,7 @@ Note: I update this repo on a fairly regular basis (the course is now in its thi
 	- [PyTorch](https://towardsdatascience.com/understanding-pytorch-with-an-example-a-step-by-step-tutorial-81fc5f8c4e8e)
 	- [Double Descent](https://mlu-explain.github.io/double-descent/)
 	- [Overparameterization, Backpropagation, Alimentation: Them and Us](https://pub.aimind.so/overparameterization-backpropagation-alimentation-them-and-us-bb326edb60c2) ![](medium.png)
+	- [No, Kernels & Filters Are Not The Same](https://towardsdatascience.com/no-kernels-filters-are-not-the-same-b230ec192ac9)
 	- [conv demo](https://deeplizard.com/resource/pavq7noze2)
 	- [convolution](https://www.linkedin.com/posts/pascalbornet_artificialintelligence-ugcPost-6925288775740776448-0S-K/)
 	- [A simple image convolution](https://youtube.com/shorts/4xWpQe3G9qI?si=RUwQHsAK4oP2bvc1)
