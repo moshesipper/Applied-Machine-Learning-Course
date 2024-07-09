@@ -291,5 +291,6 @@ Note: I update this repo on a fairly regular basis (the course is now in its thi
 	- [Scikit-LLM](https://github.com/iryna-kondr/scikit-llm)
 	- [Coding a ChatGPT Like Transformer From Scratch in PyTorch](https://youtu.be/C9QSpl5nmrY?si=4ysM62zpwGpSYiMD)
 	- [Word Embeddings: Encoding Lexical Semantics](https://pytorch.org/tutorials/beginner/nlp/word_embeddings_tutorial.html?highlight=embeddings)
+	- [The Magic Behind Embedding Models](https://towardsdatascience.com/the-magic-behind-embedding-models-c3af62f71fb)
 	- [What are the query, key, and value vectors?](https://rahulrajpvr7d.medium.com/what-are-the-query-key-and-value-vectors-5656b8ca5fa0)
 	- [Unpacking the Query, Key, and Value of Transformers: An Analogy to Database Operations](https://www.linkedin.com/pulse/unpacking-query-key-value-transformers-analogy-database-mohamed-nabil/)
