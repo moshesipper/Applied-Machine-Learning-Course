@@ -233,7 +233,7 @@ Note: I update this repo on a fairly regular basis (the course is now in its thi
 	
 	
 - Deep Learning	
-	- [Neural Networks with À La Carte Selection of Activation Functions](https://drive.google.com/file/d/10wy_gFPoNLwQXHkHKAojYBxbKkB5W_da/view?usp=sharing)
+	- [Neural Networks with À La Carte Selection of Activation Functions](https://arxiv.org/abs/2206.12166)
 	- [PyTorch](https://pytorch.org/tutorials/beginner/pytorch_with_examples.html)
 	- [PyTorch](https://towardsdatascience.com/understanding-pytorch-with-an-example-a-step-by-step-tutorial-81fc5f8c4e8e)
 	- [Double Descent](https://mlu-explain.github.io/double-descent/)
@@ -275,7 +275,7 @@ Note: I update this repo on a fairly regular basis (the course is now in its thi
 	- [Cartesian GP](http://cs.ijs.si/ppsn2014/files/slides/ppsn2014-tutorial3-miller.pdf)
 	- [Grammatical Evolution](https://web.archive.org/web/20110721124315/http:/www.grammaticalevolution.org/tutorial.pdf)
 	- [Coevolutionary Computation](https://medium.com/the-generator/coevolutionary-computation-fb719304d12e) ![](medium.png)
-	- [New Pathways in Coevolutionary Computation](https://drive.google.com/file/d/1fKymYCJPyd9rBmpEDgRPRe0GE7Yr3SuI/view?usp=sharing)
+	- [New Pathways in Coevolutionary Computation](https://arxiv.org/abs/2401.10515)
 	- [Novelty search](https://www.cs.ucf.edu/~gitars/cap6671-2010/Presentations/lehman_alife08.pdf)
 	- [Humies](https://www.human-competitive.org/)
 	- [Evolutionary Art](https://medium.com/the-generator/evolutionary-art-00460707d529) ![](medium.png)
