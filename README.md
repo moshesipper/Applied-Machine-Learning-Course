@@ -4,6 +4,8 @@
 
 **This course covers the applied side of algorithmics in machine learning, with some deep learning and evolutionary algorithms thrown in as well.**
 
+Prerequisites: Design of Algorithms, Algebra 2, Calculus 2, Probability and Statistics
+
 Note: I update this repo on a fairly regular basis (the course is now in its third iteration).
 
 **[Moshe Sipper’s Cat-a-log of Writings](https://medium.com/@sipper/moshe-sippers-writings-174ed2e861df)**
