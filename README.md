@@ -6,8 +6,6 @@
 
 Prerequisites: Design of Algorithms, Algebra 2, Calculus 2, Probability and Statistics
 
-Note: I update this repo on a fairly regular basis (the course is now in its third iteration).
-
 **[Moshe Sipper’s Cat-a-log of Writings](https://medium.com/@sipper/moshe-sippers-writings-174ed2e861df)**
 
 **[Some Pros and Cons of Basic ML Algorithms, in 2 Minutes](https://medium.com/ai-mind-labs/some-pros-and-cons-of-basic-ml-algorithms-in-2-minutes-1cf7f327147f)**
