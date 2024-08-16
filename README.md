@@ -224,6 +224,7 @@ Prerequisites: Design of Algorithms, Algebra 2, Calculus 2, Probability and Stat
 - Semi-Supervised Learning
 	- [Boosting vs. semi-supervised learning](https://youtu.be/2eU_8ExBzDw?si=pS9qK5YvO3tIFyTz)
 	- [LabelPropagation](https://scikit-learn.org/stable/modules/generated/sklearn.semi_supervised.LabelPropagation.html)
+	- [Semi-Supervised Learning: How To Overcome the Lack of Labels](https://dzone.com/articles/semi-supervised-learning-overcome-lack-of-labels)
 
 
 - Neural Networks
