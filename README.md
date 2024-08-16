@@ -12,7 +12,7 @@ Prerequisites: Design of Algorithms, Algebra 2, Calculus 2, Probability and Stat
 
 [Additional Resources](resources.md) (Cheat Sheets, Vids, Reads, Books, Software, Datasets)
 
-
+ 
 ***
 
 <a name="syllabus">**Syllabus**</a>
