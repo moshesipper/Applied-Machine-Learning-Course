@@ -50,6 +50,7 @@ Books (🡇 means free to download)
 
 *   M. Sipper, _[Evolved to Win](https://www.moshesipper.com/evolved-to-win.html)_, Lulu, 2011 🡇
 *   M. Sipper, _[Machine Nature: The Coming Age of Bio-Inspired Computing](https://www.moshesipper.com/machine-nature-the-coming-age-of-bio-inspired-computing.html)_, McGraw-Hill, New York, 2002
+* 	J. Starmer, _[The StatQuest Illustrated Guide to Machine Learning](https://statquest.org/statquest-store/)_, 2022 
 *   A.E. Eiben and J.E. Smith, [_Introduction to Evolutionary Computing_](http://www.cs.vu.nl/~gusz/ecbook/ecbook.html), Springer, 1st edition, 2003, Corr. 2nd printing, 2007
 *   R. Poli, B. Langdon, & N. McPhee, [_A Field Guide to Genetic Programming_](http://www.gp-field-guide.org.uk/), 2008 🡇
 *   J. Koza, [_Genetic Programming: On the Programming of Computers by Means of Natural Selection_](http://www.genetic-programming.org/gpbook1toc.html), MIT Press, Cambridge, MA, 1992.
