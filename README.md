@@ -48,6 +48,7 @@ Prerequisites: Design of Algorithms, Algebra 2, Calculus 2, Probability and Stat
 	- [Data Science Landscape](https://github.com/dataprofessor/infographic/blob/master/04-Data-Science-Landscape.JPG)
 	- [Building the Machine Learning Model](https://github.com/dataprofessor/infographic/blob/master/01-Building-the-Machine-Learning-Model.JPG)
 	- [21 Most Important (and Must-know) Mathematical Equations in Data Science](https://www.blog.dailydoseofds.com/p/21-most-important-and-must-know-mathematical)
+	- [spurious correlations](https://tylervigen.com/spurious-correlations)
 
 
 - Machine Learning Intro
