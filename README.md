@@ -247,6 +247,7 @@ Prerequisites: Design of Algorithms, Algebra 2, Calculus 2, Probability and Stat
 	- [Implementing Image Processing Kernels from scratch using Convolution in Python](https://medium.com/@sabribarac/implementing-image-processing-kernels-from-scratch-using-convolution-in-python-4e966e9aafaf)
 	- [Introduction to image generation (diffusion)](https://www.youtube.com/watch?v=kzxz8CO_oG4)
 	- [Loss is Boss](https://levelup.gitconnected.com/loss-is-boss-01ec08dea9e0) ![](medium.png) and other articles in the [DL section](https://medium.com/@sipper/moshe-sippers-writings-174ed2e861df) ![](medium.png)
+	- [Neural Networks from Scratch](https://github.com/DorsaRoh/Machine-Learning)
 
 
 - DL and AI	
