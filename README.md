@@ -60,6 +60,7 @@ Prerequisites: Design of Algorithms, Algebra 2, Calculus 2, Probability and Stat
 	- [Simple weather example](https://colab.research.google.com/drive/1XShD6G7sPGLXKtto4GBZPLWJoPcJEJBk?usp=sharing) ![](colab.png)
 	- [Iris knn (map)](https://scikit-learn.org/stable/auto_examples/neighbors/plot_classification.html#sphx-glr-auto-examples-neighbors-plot-classification-py)
 	- [kfold](https://colab.research.google.com/drive/1Hj17jfBbl0tYBVn6ze0YQ7xxTS5Dr1-D?usp=sharing) ![](colab.png)
+	- [Overfitting](https://miro.medium.com/v2/resize:fit:640/format:webp/1*aorb7r6PyHhQEZwwT1-_sw.png)
 
 
 - Scikit-learn
