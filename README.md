@@ -17,7 +17,7 @@ Prerequisites: Design of Algorithms, Algebra 2, Calculus 2, Probability and Stat
 
 <a name="syllabus">**Syllabus**</a>
 
-❖ Python ❖ Artificial Intelligence ❖ Date Science ❖ Machine Learning Intro ❖ Scikit-learn ❖ ML Models ❖ Decision Trees ❖ Random Forest ❖ Linear Regression ❖ Logistic Regression ❖ Linear Models ❖ Regularization: Ridge & Lasso ❖ AdaBoost ❖ Gradient Boosting ❖ AddGBoost ❖ Ensembles  ❖ XGBoost ❖ Comparing ML algorithms ❖ Gradient Descent ❖ SVM ❖ Bayesian ❖ Metrics ❖ Data Leakage ❖ Dimensionality Reduction ❖ Clustering ❖ Hyperparameters ❖ Some Topics in Probability ❖ Feature Importances ❖ Semi-Supervised Learning ❖ Neural Networks ❖ Deep Learning ❖ DL and AI ❖ Evolutionary Algorithms: Basics ❖ Evolutionary Algorithms: Advanced ❖ Large Language Models 
+❖ Math❖ Python ❖ Artificial Intelligence ❖ Date Science ❖ Machine Learning Intro ❖ Scikit-learn ❖ ML Models ❖ Decision Trees ❖ Random Forest ❖ Linear Regression ❖ Logistic Regression ❖ Linear Models ❖ Regularization: Ridge & Lasso ❖ AdaBoost ❖ Gradient Boosting ❖ AddGBoost ❖ Ensembles  ❖ XGBoost ❖ Comparing ML algorithms ❖ Gradient Descent ❖ SVM ❖ Bayesian ❖ Metrics ❖ Data Leakage ❖ Dimensionality Reduction ❖ Clustering ❖ Hyperparameters ❖ Some Topics in Probability ❖ Feature Importances ❖ Semi-Supervised Learning ❖ Neural Networks ❖ Deep Learning ❖ DL and AI ❖ Evolutionary Algorithms: Basics ❖ Evolutionary Algorithms: Advanced ❖ Large Language Models 
 
 
 
@@ -27,7 +27,9 @@ Prerequisites: Design of Algorithms, Algebra 2, Calculus 2, Probability and Stat
 
 (![](colab.png): my colab notebooks, ![](medium.png): my medium articles)
 
-
+- Math
+	- Mathematics for ML: [ppt](https://www.webpages.uidaho.edu/vakanski/Courses/Adversarial_Machine_Learning/Spring_2024/Lecture_3_Mathematics_for_Machine_Learning.pptx), [pdf](https://www.webpages.uidaho.edu/vakanski/Courses/Adversarial_Machine_Learning/Spring_2024/Lecture_3_Mathematics_for_Machine_Learning.pdf), [alternate](https://www.cs.ucf.edu/~lboloni/Teaching/CAP4611_Fall2023/slides/01-Prelim-02-MathReview.pdf)
+	
 - Python 
 	- [Python Programming](https://pythonbasics.org/)
 	- [Python](https://www.python.org/downloads/windows/)
