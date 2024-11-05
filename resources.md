@@ -51,7 +51,7 @@ Books (🡇 means free to download)
 *   M. Sipper, _[Evolved to Win](https://www.moshesipper.com/evolved-to-win.html)_, Lulu, 2011 🡇
 *   M. Sipper, _[Machine Nature: The Coming Age of Bio-Inspired Computing](https://www.moshesipper.com/machine-nature-the-coming-age-of-bio-inspired-computing.html)_, McGraw-Hill, New York, 2002
 * 	J. Starmer, _[The StatQuest Illustrated Guide to Machine Learning](https://statquest.org/statquest-store/)_, 2022 
-*	A. Narayanan & S. Kapoor, [AI Snake Oil: What Artificial Intelligence Can Do, What It Can’t, and How to Tell the Difference](https://press.princeton.edu/books/hardcover/9780691249131/ai-snake-oil)
+*	A. Narayanan & S. Kapoor, [AI Snake Oil: What Artificial Intelligence Can Do, What It Can’t, and How to Tell the Difference](https://press.princeton.edu/books/hardcover/9780691249131/ai-snake-oil), Princeton University Press, 2024
 *	Simon J.D. Prince, [Understanding Deep Learning](https://udlbook.github.io/udlbook/), MIT Press, 2023 🡇
 *   G. James, D. Witten, T. Hastie, R. Tibshirani, [An Introduction to Statistical Learning](https://www.statlearning.com/), 2nd edition, 2021 🡇
 *   A.E. Eiben and J.E. Smith, [_Introduction to Evolutionary Computing_](http://www.cs.vu.nl/~gusz/ecbook/ecbook.html), Springer, 1st edition, 2003, Corr. 2nd printing, 2007
