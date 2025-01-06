@@ -139,6 +139,7 @@ Prerequisites: Design of Algorithms, Algebra 2, Calculus 2, Probability and Stat
 	- [How to find the best performing Machine Learning algorithm](https://medium.com/analytics-vidhya/how-to-find-the-best-performing-machine-learning-algorithm-dc4eb4ff34b6)
 	- [`load_boston` removal](https://scikit-learn.org/1.0/modules/generated/sklearn.datasets.load_boston.html)
 	- [Choosing the right estimator](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
+	- [Questionable practices in machine learning](https://arxiv.org/abs/2407.12220)
 
 
 - Gradient Descent
