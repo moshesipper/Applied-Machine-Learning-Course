@@ -43,6 +43,7 @@ Advanced Reads
 *	[GPT in 60 Lines of NumPy](https://jaykmody.com/blog/gpt-from-scratch/)
 *   [ROC-AUC](https://www.analyticsvidhya.com/blog/2020/06/auc-roc-curve-machine-learning/)
 *   [Why video games are essential for inventing artificial intelligence](https://togelius.blogspot.co.il/2016/01/why-video-games-are-essential-for.html)
+*	[Agents](https://huyenchip.com//2025/01/07/agents.html)
 
   
 
