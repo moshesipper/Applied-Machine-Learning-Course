@@ -30,8 +30,9 @@ Prerequisites: Design of Algorithms, Algebra 2, Calculus 2, Probability and Stat
 - Math
 	- Mathematics for ML: [ppt](https://www.webpages.uidaho.edu/vakanski/Courses/Adversarial_Machine_Learning/Spring_2024/Lecture_3_Mathematics_for_Machine_Learning.pptx), [pdf](https://www.webpages.uidaho.edu/vakanski/Courses/Adversarial_Machine_Learning/Spring_2024/Lecture_3_Mathematics_for_Machine_Learning.pdf), [alternate](https://www.cs.ucf.edu/~lboloni/Teaching/CAP4611_Fall2023/slides/01-Prelim-02-MathReview.pdf)
 	
-- Python 
-	- [Python Programming](https://pythonbasics.org/)
+- Python
+	- [Python Tutorial With Google Colab](https://colab.research.google.com/github/cs231n/cs231n.github.io/blob/master/python-colab.ipynb)
+	- [Learn Python Programming](https://pythonbasics.org/)
 	- [Python](https://www.python.org/downloads/windows/)
 	- [PyCharm](https://www.jetbrains.com/pycharm/download/#section=windows)
 	- [Pandas](https://pythonbasics.org/what-is-pandas/)
