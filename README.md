@@ -98,6 +98,7 @@ Prerequisites: Design of Algorithms, Algebra 2, Calculus 2, Probability and Stat
 	- [Logistic Regression](https://youtu.be/yIYKR4sgzI8)
 	- [Logistic Regression](https://www.analyticsvidhya.com/blog/2021/07/an-introduction-to-logistic-regression/)
 	- [Cross-Entropy Loss](https://towardsdatascience.com/cross-entropy-loss-function-f38c4ec8643e)
+	- [Shannon Entropy calculator](https://planetcalc.com/2476/)
 	- [Linear Regression vs Logistic Regression in a Nutshell](https://pub.towardsai.net/linear-regression-vs-logistic-regression-in-a-nutshell-cf708cfe8f92) ![](medium.png)
 	- [LinVsLog](https://colab.research.google.com/drive/1kfMFdrVpL9NczZdKDfA_zGT0NMr3PMYS?usp=sharing) ![](colab.png)
 	- [PolynomialFeatures](https://colab.research.google.com/drive/1zjuhudzOZRCbovLwWSxYLxsJ67V7A5Dt?usp=sharing) ![](colab.png)
