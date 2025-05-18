@@ -173,6 +173,7 @@ Prerequisites: Design of Algorithms, Algebra 2, Calculus 2, Probability and Stat
 	- [balanced accuracy](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.balanced_accuracy_score.html#balanced-accuracy-score)
 	- [balanced accuracy](https://www.statology.org/balanced-accuracy/)
 	- [various metrics from CM](https://en.wikipedia.org/wiki/Confusion_matrix)
+	- [Summary of metrics](metrics.md)
 
 
 - Data Leakage	
