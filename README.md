@@ -185,7 +185,7 @@ Prerequisites: Design of Algorithms, Algebra 2, Calculus 2, Probability and Stat
 	- [11 Different Uses of Dimensionality Reduction](https://towardsdatascience.com/11-different-uses-of-dimensionality-reduction-4325d62b4fa6)
 	- [PCA](https://youtu.be/FgakZw6K1QQ)
 	- [PCA](https://www.sartorius.com/en/knowledge/science-snippets/what-is-principal-component-analysis-pca-and-how-it-is-used-507186)
-	- [PCA vs LR](https://starship-knowledge.com/pca-vs-linear-regression#PCA_vs_Linear_Regression_-_How_do_they_Differ)
+	- [PCA vs LR](https://shephexd.github.io/machine%20learning/2018/07/15/Machine_learning(9)-PCA.html)
 	- [pca](https://colab.research.google.com/drive/1h6xLxKyEltPwsck-mJ5nQPFkMGYI8VOs?usp=sharing) ![](colab.png)
 	- [t-SNE](https://youtu.be/NEaUSP4YerM)
 	- [tsne](https://colab.research.google.com/drive/1vnA5iwWrjDY4AhHL_E86VLq59FwJG2s9?usp=sharing) ![](colab.png)
