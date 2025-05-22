@@ -196,7 +196,7 @@ Prerequisites: Design of Algorithms, Algebra 2, Calculus 2, Probability and Stat
 	- [Hierarchical clustering](https://youtu.be/7xHsRkOdVwo)
 	- [K-means clustering](https://youtu.be/4b5d3muPQmA)
 	- [kmeans](https://colab.research.google.com/drive/1aoiM8cnS_DdNOP2njEsjWcyf6-zHMrJ1?usp=sharing) ![](colab.png)
-	- [From Data to Clusters: When is Your Clustering Good Enough?](https://towardsdatascience.com/from-data-to-clusters-when-is-your-clustering-good-enough-5895440a978a)
+	- [From Data to Clusters: When is Your Clustering Good Enough?](https://medium.com/data-science/from-data-to-clusters-when-is-your-clustering-good-enough-5895440a978a)
 
 
 - Hyperparameters 
