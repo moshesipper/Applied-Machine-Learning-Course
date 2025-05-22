@@ -201,8 +201,8 @@ Prerequisites: Design of Algorithms, Algebra 2, Calculus 2, Probability and Stat
 
 - Hyperparameters 
 	- [Model Parameter vs. Hyperparameter](https://www.youtube.com/watch?v=Qcgav8NmPxY&t=1224s)
-	- [Hyperparameter tuning](https://towardsdatascience.com/hyperparameter-tuning-explained-d0ebb2ba1d35)
-	- [Hyperparameter tuning](https://towardsdatascience.com/hyperparameter-tuning-a-practical-guide-and-template-b3bf0504f095)
+	- [Hyperparameter tuning](https://medium.com/data-science/hyperparameter-tuning-explained-d0ebb2ba1d35)
+	- [Hyperparameter tuning](https://medium.com/data-science/hyperparameter-tuning-a-practical-guide-and-template-b3bf0504f095)
 	- [Optuna](https://optuna.org/)
 	- [optuna](https://colab.research.google.com/drive/1FbG9yaUNn8EqL1NgLBBoRIx9E5EPBuIQ?usp=sharing) ![](colab.png)
 	- [Evaluating Hyperparameters in Machine Learning](https://medium.com/@sipper/evaluating-hyperparameters-in-machine-learning-25b7fa09362d) ![](medium.png)
@@ -227,7 +227,7 @@ Prerequisites: Design of Algorithms, Algebra 2, Calculus 2, Probability and Stat
 	- [Decision Tree](https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html#sklearn.tree.DecisionTreeClassifier.feature_importances_)
 	- [Feature importances with a forest of trees](https://scikit-learn.org/stable/auto_examples/ensemble/plot_forest_importances.html)
 	- [Explainable AI explained! | #4 SHAP](https://youtu.be/9haIOplEIGM?si=kxF4tpGBwziQFy28)
-	- [SHAP Values Explained](https://towardsdatascience.com/shap-explained-the-way-i-wish-someone-explained-it-to-me-ab81cc69ef30)
+	- [SHAP Values Explained](https://bix-tech.com/how-i-wish-someone-would-explain-shap-values-to-me/)
 
 
 - Semi-Supervised Learning
@@ -245,10 +245,9 @@ Prerequisites: Design of Algorithms, Algebra 2, Calculus 2, Probability and Stat
 - Deep Learning	
 	- [Neural Networks with À La Carte Selection of Activation Functions](https://arxiv.org/abs/2206.12166)
 	- [PyTorch](https://pytorch.org/tutorials/beginner/pytorch_with_examples.html)
-	- [PyTorch](https://towardsdatascience.com/understanding-pytorch-with-an-example-a-step-by-step-tutorial-81fc5f8c4e8e)
 	- [Double Descent](https://mlu-explain.github.io/double-descent/)
 	- [Overparameterization, Backpropagation, Alimentation: Them and Us](https://pub.aimind.so/overparameterization-backpropagation-alimentation-them-and-us-bb326edb60c2) ![](medium.png)
-	- [No, Kernels & Filters Are Not The Same](https://towardsdatascience.com/no-kernels-filters-are-not-the-same-b230ec192ac9)
+	- [No, Kernels & Filters Are Not The Same](https://medium.com/data-science/no-kernels-filters-are-not-the-same-b230ec192ac9)
 	- [conv demo](https://deeplizard.com/resource/pavq7noze2)
 	- [convolution](https://www.linkedin.com/posts/pascalbornet_artificialintelligence-ugcPost-6925288775740776448-0S-K/)
 	- [A simple image convolution](https://youtube.com/shorts/4xWpQe3G9qI?si=RUwQHsAK4oP2bvc1)
@@ -302,6 +301,6 @@ Prerequisites: Design of Algorithms, Algebra 2, Calculus 2, Probability and Stat
 	- [Scikit-LLM](https://github.com/iryna-kondr/scikit-llm)
 	- [Coding a ChatGPT Like Transformer From Scratch in PyTorch](https://youtu.be/C9QSpl5nmrY?si=4ysM62zpwGpSYiMD)
 	- [Word Embeddings: Encoding Lexical Semantics](https://pytorch.org/tutorials/beginner/nlp/word_embeddings_tutorial.html?highlight=embeddings)
-	- [The Magic Behind Embedding Models](https://towardsdatascience.com/the-magic-behind-embedding-models-c3af62f71fb)
+	- [The Magic Behind Embedding Models](https://medium.com/data-science/the-magic-behind-embedding-models-c3af62f71fb)
 	- [What are the query, key, and value vectors?](https://rahulrajpvr7d.medium.com/what-are-the-query-key-and-value-vectors-5656b8ca5fa0)
 	- [Unpacking the Query, Key, and Value of Transformers: An Analogy to Database Operations](https://www.linkedin.com/pulse/unpacking-query-key-value-transformers-analogy-database-mohamed-nabil/)
