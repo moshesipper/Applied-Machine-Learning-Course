@@ -275,7 +275,6 @@ Prerequisites: Design of Algorithms, Algebra 2, Calculus 2, Probability and Stat
 	- [GP Tutorial](http://www.genetic-programming.com/gecco2003tutorial.pdf)
 	- [GP vids](https://www.youtube.com/channel/UC9MEHhji3ODbE_e66EgFkew)
 	- [GP slides](https://coinse.github.io/assets/files/teaching/cs454/cs454-slide09.pdf)
-	- [Natural Computing](https://www.inf.ed.ac.uk/teaching/courses/nat/slides/nat09h.pdf)
 	
 	
 - Evolutionary Algorithms: Advanced
