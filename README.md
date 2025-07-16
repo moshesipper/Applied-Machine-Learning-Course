@@ -52,6 +52,7 @@ Prerequisites: Design of Algorithms, Algebra 2, Calculus 2, Probability and Stat
 	- [Building the Machine Learning Model](https://github.com/dataprofessor/infographic/blob/master/01-Building-the-Machine-Learning-Model.JPG)
 	- [21 Most Important (and Must-know) Mathematical Equations in Data Science](https://www.blog.dailydoseofds.com/p/21-most-important-and-must-know-mathematical)
 	- [spurious correlations](https://tylervigen.com/spurious-correlations)
+	- [Data Science Has Become a Pseudo-Science](https://www.reddit.com/r/datascience/comments/1lluwlv/data_science_has_become_a_pseudoscience/)
 
 
 - Machine Learning Intro
