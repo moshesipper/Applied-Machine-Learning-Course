@@ -40,6 +40,7 @@ Prerequisites: Design of Algorithms, Algebra 2, Calculus 2, Probability and Stat
 	- [NumPy](https://www.w3schools.com/python/numpy/default.asp)
 	- [Numba](https://numba.pydata.org/)
 	- [np.dot](https://numpy.org/doc/stable/reference/generated/numpy.dot.html) vs [loop example](https://colab.research.google.com/drive/1wAfDDyqYkj1izQvn7bDF9tJA4xYlDWzp?usp=sharing) ![](colab.png)
+	- [The history of Python](https://youtu.be/GfH4QL4VqJ0?si=r12zYzrowJvdP8_V) (try `import this`)
 
 
 - Artificial Intelligence	
