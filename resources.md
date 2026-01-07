@@ -30,7 +30,7 @@ Basic Reads
 *   [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome) (coursera)
 *   [Tinker With a Neural Network in Your Browser](https://playground.tensorflow.org/)
 *   [Common Machine Learning Algorithms for Beginners](https://www.dezyre.com/article/common-machine-learning-algorithms-for-beginners/202)
-
+*	[Machine Learning Intuition](https://eliottkalfon.github.io/ml_intuition/), 2026
 
 
 Advanced Reads
