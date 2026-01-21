@@ -12,6 +12,8 @@ Prerequisites: Design of Algorithms, Algebra 2, Calculus 2, Probability and Stat
 
 [Additional Resources](resources.md) (Cheat Sheets, Vids, Reads, Books, Software, Datasets)
 
+[Roz learns](https://www.youtube.com/watch?v=EJHR3fDhHJ8&t=140s) ✦ [Terminator doesn't](https://youtu.be/fYTOK89w8h0?si=I3cIH2sTZzIsnqeu&t=72)
+
 
 ***
 
