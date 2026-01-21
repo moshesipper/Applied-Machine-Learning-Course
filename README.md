@@ -241,34 +241,6 @@ Prerequisites: Design of Algorithms, Algebra 2, Calculus 2, Probability and Stat
 	- [Semi-Supervised Learning: How To Overcome the Lack of Labels](https://dzone.com/articles/semi-supervised-learning-overcome-lack-of-labels)
 
 
-- Neural Networks
-	- [Neural networks](https://youtube.com/playlist?list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1)
-	- [Neural networks](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&pp=iAQB)
-	- [Tinker With a Neural Network in Your Browser](https://playground.tensorflow.org/)
-	
-	
-- Deep Learning	
-	- [Neural Networks with À La Carte Selection of Activation Functions](https://arxiv.org/abs/2206.12166)
-	- [PyTorch](https://pytorch.org/tutorials/beginner/pytorch_with_examples.html)
-	- [Double Descent](https://mlu-explain.github.io/double-descent/)
-	- [Overparameterization, Backpropagation, Alimentation: Them and Us](https://pub.aimind.so/overparameterization-backpropagation-alimentation-them-and-us-bb326edb60c2) ![](medium.png)
-	- [No, Kernels & Filters Are Not The Same](https://medium.com/data-science/no-kernels-filters-are-not-the-same-b230ec192ac9)
-	- [conv demo](https://deeplizard.com/resource/pavq7noze2)
-	- [convolution](https://www.linkedin.com/posts/pascalbornet_artificialintelligence-ugcPost-6925288775740776448-0S-K/)
-	- [A simple image convolution](https://youtube.com/shorts/4xWpQe3G9qI?si=RUwQHsAK4oP2bvc1)
-	- [Implementing Image Processing Kernels from scratch using Convolution in Python](https://medium.com/@sabribarac/implementing-image-processing-kernels-from-scratch-using-convolution-in-python-4e966e9aafaf)
-	- [Introduction to image generation (diffusion)](https://www.youtube.com/watch?v=kzxz8CO_oG4)
-	- [Loss is Boss](https://levelup.gitconnected.com/loss-is-boss-01ec08dea9e0) ![](medium.png) and other articles in the [DL section](https://medium.com/@sipper/moshe-sippers-writings-174ed2e861df) ![](medium.png)
-	- [Neural Networks from Scratch](https://github.com/DorsaRoh/Machine-Learning)
-
-
-- DL and AI	
-	- [Growth of AI computing](https://twitter.com/pmddomingos/status/1535112033137401857)
-	- [AI move from Academia](https://twitter.com/GaryMarcus/status/1536150812795121664)
-	- [Artificial General Intelligence Is Not as Imminent as You Might Think](https://www.scientificamerican.com/article/artificial-general-intelligence-is-not-as-imminent-as-you-might-think1/)
-
-
-
 - Evolutionary Algorithms: Basics
 	- [Evolutionary Computation](http://www.evolutionarycomputation.org/slides/)
 	- [How to Build a Genetic Algorithm from Scratch in Python with Just 33 Lines of Code](https://levelup.gitconnected.com/tiny-genetic-algorithm-33-line-version-and-3-line-version-38a851141512) ![](medium.png)
@@ -297,11 +269,39 @@ Prerequisites: Design of Algorithms, Algebra 2, Calculus 2, Probability and Stat
 	- [Evolutionary Adversarial Attacks on Deep Networks](https://medium.com/@sipper/evolutionary-adversarial-attacks-on-deep-networks-ff622b8e15e5) ![](medium.png)
 
 
+- Neural Networks
+	- [Neural networks](https://youtube.com/playlist?list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1)
+	- [Neural networks](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&pp=iAQB)
+	- [Tinker With a Neural Network in Your Browser](https://playground.tensorflow.org/)
+	
+	
+- Deep Learning	
+	- [Neural Networks with À La Carte Selection of Activation Functions](https://arxiv.org/abs/2206.12166)
+	- [PyTorch](https://pytorch.org/tutorials/beginner/pytorch_with_examples.html)
+	- [Double Descent](https://mlu-explain.github.io/double-descent/)
+	- [Overparameterization, Backpropagation, Alimentation: Them and Us](https://pub.aimind.so/overparameterization-backpropagation-alimentation-them-and-us-bb326edb60c2) ![](medium.png)
+	- [No, Kernels & Filters Are Not The Same](https://medium.com/data-science/no-kernels-filters-are-not-the-same-b230ec192ac9)
+	- [conv demo](https://deeplizard.com/resource/pavq7noze2)
+	- [convolution](https://www.linkedin.com/posts/pascalbornet_artificialintelligence-ugcPost-6925288775740776448-0S-K/)
+	- [A simple image convolution](https://youtube.com/shorts/4xWpQe3G9qI?si=RUwQHsAK4oP2bvc1)
+	- [Implementing Image Processing Kernels from scratch using Convolution in Python](https://medium.com/@sabribarac/implementing-image-processing-kernels-from-scratch-using-convolution-in-python-4e966e9aafaf)
+	- [Introduction to image generation (diffusion)](https://www.youtube.com/watch?v=kzxz8CO_oG4)
+	- [Loss is Boss](https://levelup.gitconnected.com/loss-is-boss-01ec08dea9e0) ![](medium.png) and other articles in the [DL section](https://medium.com/@sipper/moshe-sippers-writings-174ed2e861df) ![](medium.png)
+	- [Neural Networks from Scratch](https://github.com/DorsaRoh/Machine-Learning)
+
+
+- DL and AI	
+	- [Growth of AI computing](https://twitter.com/pmddomingos/status/1535112033137401857)
+	- [AI move from Academia](https://twitter.com/GaryMarcus/status/1536150812795121664)
+	- [Artificial General Intelligence Is Not as Imminent as You Might Think](https://www.scientificamerican.com/article/artificial-general-intelligence-is-not-as-imminent-as-you-might-think1/)
+
+
 - Large Language Models
 	- [Introduction to large language models](https://www.youtube.com/watch?v=zizonToFXDs)
 	- [A Tiny Large Language Model (LLM), Coded, and Hallucinating](https://medium.com/@sipper/a-tiny-large-language-model-llm-coded-and-hallucinating-9a427b04eb1a) ![](medium.png)
 	- [Large Language Models from scratch](https://youtu.be/lnA9DMvHtfI?si=mjdh3ts-qrblJdjI)
 	- [Large Language Models: Part 2](https://youtu.be/YDiSFS-yHwk?si=7iD0M7QwGg0nifuq)
+	- [What Is ChatGPT Doing … and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
 	- [Scikit-LLM](https://github.com/iryna-kondr/scikit-llm)
 	- [Coding a ChatGPT Like Transformer From Scratch in PyTorch](https://youtu.be/C9QSpl5nmrY?si=4ysM62zpwGpSYiMD)
 	- [Word Embeddings: Encoding Lexical Semantics](https://pytorch.org/tutorials/beginner/nlp/word_embeddings_tutorial.html?highlight=embeddings)
