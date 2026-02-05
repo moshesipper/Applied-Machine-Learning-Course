@@ -12,7 +12,7 @@ Prerequisites: Design of Algorithms, Algebra 2, Calculus 2, Probability and Stat
 
 [Additional Resources](resources.md) (Cheat Sheets, Vids, Reads, Books, Software, Datasets)
 
-[Roz learns](https://www.youtube.com/watch?v=EJHR3fDhHJ8&t=140s) ✦ [Terminator doesn't](https://youtu.be/fYTOK89w8h0?si=I3cIH2sTZzIsnqeu&t=72) ✦ [A case study in personal ML](https://medium.com/data-science-collective/i-gave-claude-code-9-5-years-of-health-data-to-help-manage-my-thyroid-disease-85fcd8c0449f)
+[Roz learns](https://www.youtube.com/watch?v=EJHR3fDhHJ8&t=140s) ✦ [Terminator doesn't](https://youtu.be/fYTOK89w8h0?si=I3cIH2sTZzIsnqeu&t=72) ✦ [A case study in personal ML](https://medium.com/data-science-collective/i-gave-claude-code-9-5-years-of-health-data-to-help-manage-my-thyroid-disease-85fcd8c0449f) ✦ [Why Replacing Developers with AI is Going Horribly Wrong](https://youtu.be/WfjGZCuxl-U?si=xvh1FkfOKnz4B-qA)
 
 
 ***
