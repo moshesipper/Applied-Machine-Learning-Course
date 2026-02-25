@@ -13,7 +13,8 @@ Prerequisites: Design of Algorithms, Algebra 2, Calculus 2, Probability and Stat
 [Additional Resources](resources.md) (Cheat Sheets, Vids, Reads, Books, Software, Datasets)
 
 2026 Lineup: 
-[Roz learns](https://www.youtube.com/watch?v=EJHR3fDhHJ8&t=140s) ✦ [Terminator doesn't](https://youtu.be/fYTOK89w8h0?si=I3cIH2sTZzIsnqeu&t=72) ✦ [A case study in personal ML](https://medium.com/data-science-collective/i-gave-claude-code-9-5-years-of-health-data-to-help-manage-my-thyroid-disease-85fcd8c0449f) ✦ [Why Replacing Developers with AI is Going Horribly Wrong](https://youtu.be/WfjGZCuxl-U?si=xvh1FkfOKnz4B-qA) ✦ [The "Are You Sure?" Problem](https://www.randalolson.com/2026/02/07/the-are-you-sure-problem-why-your-ai-keeps-changing-its-mind/) ✦ [t's (Finally) Bursting...](https://youtu.be/yYe9YrdyJNQ?si=ujYjaiq_To94_-G-) ✦ [How Google KILLED ChatGPT in 2 years](https://www.youtube.com/watch?v=oTAXmydcjFY) ✦ [Who is using AI to code?](https://www.science.org/doi/10.1126/science.adz9311)
+[Roz learns](https://www.youtube.com/watch?v=EJHR3fDhHJ8&t=140s) ✦ [Terminator doesn't](https://youtu.be/fYTOK89w8h0?si=I3cIH2sTZzIsnqeu&t=72) ✦ [A case study in personal ML](https://medium.com/data-science-collective/i-gave-claude-code-9-5-years-of-health-data-to-help-manage-my-thyroid-disease-85fcd8c0449f) ✦ [Why Replacing Developers with AI is Going Horribly Wrong](https://youtu.be/WfjGZCuxl-U?si=xvh1FkfOKnz4B-qA) ✦ [The "Are You Sure?" Problem](https://www.randalolson.com/2026/02/07/the-are-you-sure-problem-why-your-ai-keeps-changing-its-mind/) ✦ [t's (Finally) Bursting...](https://youtu.be/yYe9YrdyJNQ?si=ujYjaiq_To94_-G-) ✦ [How Google KILLED ChatGPT in 2 years](https://www.youtube.com/watch?v=oTAXmydcjFY) ✦ [Who is using AI to code?](https://www.science.org/doi/10.1126/science.adz9311) ✦ [A Guide to Which AI to Use in the Agentic Era
+](https://www.oneusefulthing.org/p/a-guide-to-which-ai-to-use-in-the?_bhlid=633fbab6e0e65143bf23420b936e3edbddf77d45)
 
 
 ***
