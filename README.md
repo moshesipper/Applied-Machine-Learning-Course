@@ -49,7 +49,7 @@ Prerequisites: Design of Algorithms, Algebra 2, Calculus 2, Probability and Stat
 
 - Artificial Intelligence	
 	- [Computing Machinery and Intelligence](https://www.cs.mcgill.ca/~dprecup/courses/AI/Materials/turing1950.pdf)
-	- [Four Takeaways on the Race to Amass Data for A.I.](https://www.nytimes.com/2024/04/06/technology/ai-data-tech-takeaways.html)
+	- [Four Takeaways on the Race to Amass Data for A.I.](https://www.deccanherald.com/technology/four-takeaways-on-the-race-to-amass-data-for-ai-2969249)
 
 
 - Date Science
