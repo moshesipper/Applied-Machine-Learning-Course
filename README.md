@@ -301,6 +301,7 @@ Prerequisites: Design of Algorithms, Algebra 2, Calculus 2, Probability and Stat
 - Large Language Models
 	- [Introduction to large language models](https://www.youtube.com/watch?v=zizonToFXDs)
 	- [A Tiny Large Language Model (LLM), Coded, and Hallucinating](https://medium.com/@sipper/a-tiny-large-language-model-llm-coded-and-hallucinating-9a427b04eb1a) ![](medium.png)
+	- [How to Train Your GPT](https://github.com/raiyanyahya/how-to-train-your-gpt)
 	- [Large Language Models from scratch](https://youtu.be/lnA9DMvHtfI?si=mjdh3ts-qrblJdjI)
 	- [Large Language Models: Part 2](https://youtu.be/YDiSFS-yHwk?si=7iD0M7QwGg0nifuq)
 	- [What Is ChatGPT Doing … and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
