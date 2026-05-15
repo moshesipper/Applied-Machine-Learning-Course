@@ -158,17 +158,7 @@ Prerequisites: Design of Algorithms, Algebra 2, Calculus 2, Probability and Stat
 	- [Stochastic Gradient Descent](https://youtu.be/vMh0zPT0tLI)
 	- [Stochastic Gradient Descent Algorithm With Python and NumPy](https://realpython.com/gradient-descent-algorithm-python/)
 	- [Gradient Descent With Momentum](https://towardsdatascience.com/gradient-descent-with-momentum-59420f626c8f)
-
 	
-- SVM	
-	- [Support Vector Machine](https://youtu.be/efR1C6CvhmE)
-	- [Plot different SVM classifiers in the iris dataset](https://scikit-learn.org/stable/auto_examples/svm/plot_iris_svc.html#sphx-glr-auto-examples-svm-plot-iris-svc-py)
- 	- [SVM’s Kernel Trick in a minute](https://medium.com/@asusrishabh/svms-kernel-trick-in-a-minute-bd0554b31ec0) ![](medium.png)
-	
-	
-- Bayesian 	
-	- [Multinomial Naive Bayes](https://youtu.be/O2L2Uv9pdDA)
-
 
 - Metrics
 	- [sklearn.metrics](https://scikit-learn.org/stable/api/sklearn.metrics.html)
@@ -181,6 +171,16 @@ Prerequisites: Design of Algorithms, Algebra 2, Calculus 2, Probability and Stat
 	- [balanced accuracy](https://www.statology.org/balanced-accuracy/)
 	- [various metrics from CM](https://en.wikipedia.org/wiki/Confusion_matrix)
 	- [Summary of metrics](metrics.md)
+
+
+- SVM	
+	- [Support Vector Machine](https://youtu.be/efR1C6CvhmE)
+	- [Plot different SVM classifiers in the iris dataset](https://scikit-learn.org/stable/auto_examples/svm/plot_iris_svc.html#sphx-glr-auto-examples-svm-plot-iris-svc-py)
+ 	- [SVM’s Kernel Trick in a minute](https://medium.com/@asusrishabh/svms-kernel-trick-in-a-minute-bd0554b31ec0) ![](medium.png)
+	
+	
+- Bayesian 	
+	- [Multinomial Naive Bayes](https://youtu.be/O2L2Uv9pdDA)
 
 
 - Data Leakage	
