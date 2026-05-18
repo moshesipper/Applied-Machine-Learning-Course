@@ -173,6 +173,15 @@ Prerequisites: Design of Algorithms, Algebra 2, Calculus 2, Probability and Stat
 	- [Summary of metrics](metrics.md)
 
 
+- Hyperparameters 
+	- [Model Parameter vs. Hyperparameter](https://www.youtube.com/watch?v=Qcgav8NmPxY&t=1224s)
+	- [Hyperparameter tuning](https://medium.com/data-science/hyperparameter-tuning-explained-d0ebb2ba1d35)
+	- [Hyperparameter tuning](https://medium.com/data-science/hyperparameter-tuning-a-practical-guide-and-template-b3bf0504f095)
+	- [Optuna](https://optuna.org/)
+	- [optuna](https://colab.research.google.com/drive/1FbG9yaUNn8EqL1NgLBBoRIx9E5EPBuIQ?usp=sharing) ![](colab.png)
+	- [Evaluating Hyperparameters in Machine Learning](https://medium.com/@sipper/evaluating-hyperparameters-in-machine-learning-25b7fa09362d) ![](medium.png)
+
+
 - SVM	
 	- [Support Vector Machine](https://youtu.be/efR1C6CvhmE)
 	- [Plot different SVM classifiers in the iris dataset](https://scikit-learn.org/stable/auto_examples/svm/plot_iris_svc.html#sphx-glr-auto-examples-svm-plot-iris-svc-py)
@@ -204,15 +213,6 @@ Prerequisites: Design of Algorithms, Algebra 2, Calculus 2, Probability and Stat
 	- [K-means clustering](https://youtu.be/4b5d3muPQmA)
 	- [kmeans](https://colab.research.google.com/drive/1aoiM8cnS_DdNOP2njEsjWcyf6-zHMrJ1?usp=sharing) ![](colab.png)
 	- [From Data to Clusters: When is Your Clustering Good Enough?](https://medium.com/data-science/from-data-to-clusters-when-is-your-clustering-good-enough-5895440a978a)
-
-
-- Hyperparameters 
-	- [Model Parameter vs. Hyperparameter](https://www.youtube.com/watch?v=Qcgav8NmPxY&t=1224s)
-	- [Hyperparameter tuning](https://medium.com/data-science/hyperparameter-tuning-explained-d0ebb2ba1d35)
-	- [Hyperparameter tuning](https://medium.com/data-science/hyperparameter-tuning-a-practical-guide-and-template-b3bf0504f095)
-	- [Optuna](https://optuna.org/)
-	- [optuna](https://colab.research.google.com/drive/1FbG9yaUNn8EqL1NgLBBoRIx9E5EPBuIQ?usp=sharing) ![](colab.png)
-	- [Evaluating Hyperparameters in Machine Learning](https://medium.com/@sipper/evaluating-hyperparameters-in-machine-learning-25b7fa09362d) ![](medium.png)
 
 
 - Some Topics in Probability 
