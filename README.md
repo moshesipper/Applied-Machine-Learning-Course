@@ -21,7 +21,7 @@ Prerequisites: Design of Algorithms, Algebra 2, Calculus 2, Probability and Stat
 
 <a name="syllabus">**Syllabus**</a>
 
-❖ Math ❖ Python ❖ Artificial Intelligence ❖ Date Science ❖ Machine Learning Intro ❖ Scikit-learn ❖ ML Models ❖ Decision Trees ❖ Random Forest ❖ Linear Regression ❖ Logistic Regression ❖ Linear Models ❖ Regularization: Ridge & Lasso ❖ AdaBoost ❖ Gradient Boosting ❖ AddGBoost ❖ Ensembles  ❖ XGBoost ❖ Comparing ML algorithms ❖ Gradient Descent ❖ SVM ❖ Bayesian ❖ Metrics ❖ Data Leakage ❖ Dimensionality Reduction ❖ Clustering ❖ Hyperparameters ❖ Some Topics in Probability ❖ Feature Importances ❖ Semi-Supervised Learning ❖ Neural Networks ❖ Deep Learning ❖ DL and AI ❖ Evolutionary Algorithms: Basics ❖ Evolutionary Algorithms: Advanced ❖ Large Language Models 
+❖ Math ❖ Python ❖ Artificial Intelligence ❖ Date Science ❖ Machine Learning Intro ❖ Scikit-learn ❖ ML Models ❖ Decision Trees ❖ Random Forest ❖ Linear Regression ❖ Logistic Regression ❖ Linear Models ❖ Regularization: Ridge & Lasso ❖ AdaBoost ❖ Gradient Boosting ❖ AddGBoost ❖ Ensembles  ❖ XGBoost ❖ Comparing ML algorithms ❖ Gradient Descent ❖ SVM ❖ KNN ❖ Bayesian ❖ Metrics ❖ Data Leakage ❖ Dimensionality Reduction ❖ Clustering ❖ Hyperparameters ❖ Some Topics in Probability ❖ Feature Importances ❖ Semi-Supervised Learning ❖ Neural Networks ❖ Deep Learning ❖ DL and AI ❖ Evolutionary Algorithms: Basics ❖ Evolutionary Algorithms: Advanced ❖ Large Language Models 
 
 
 
@@ -158,7 +158,11 @@ Prerequisites: Design of Algorithms, Algebra 2, Calculus 2, Probability and Stat
 	- [Stochastic Gradient Descent](https://youtu.be/vMh0zPT0tLI)
 	- [Stochastic Gradient Descent Algorithm With Python and NumPy](https://realpython.com/gradient-descent-algorithm-python/)
 	- [Gradient Descent With Momentum](https://towardsdatascience.com/gradient-descent-with-momentum-59420f626c8f)
+
 	
+- K-Nearest Neighbors (KNN)
+	- [K-Nearest Neighbors (KNN) FROM SCRATCH in Python](https://youtu.be/V33JX4cFls4?si=PV5JlhZuy5WvKiho)
+
 
 - Metrics
 	- [sklearn.metrics](https://scikit-learn.org/stable/api/sklearn.metrics.html)
