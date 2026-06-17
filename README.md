@@ -247,7 +247,7 @@ Prerequisites: Design of Algorithms, Algebra 2, Calculus 2, Probability and Stat
 
 
 - Evolutionary Algorithms: Basics
-	- [Evolutionary Computation](http://www.evolutionarycomputation.org/slides/)
+	- [Evolutionary Computation](https://www.cems.uwe.ac.uk/~jsmith/ecbook/ecbook-course.html)
 	- [How to Build a Genetic Algorithm from Scratch in Python with Just 33 Lines of Code](https://levelup.gitconnected.com/tiny-genetic-algorithm-33-line-version-and-3-line-version-38a851141512) ![](medium.png)
 	- [Evolutionary Algorithms, Genetic Programming, and Learning](https://medium.com/@sipper/evolutionary-algorithms-genetic-programming-and-learning-dfde441ad0b9) ![](medium.png)
 	- [Tiny GA](https://github.com/moshesipper/tiny_ga)
