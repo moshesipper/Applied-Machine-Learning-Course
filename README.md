@@ -269,7 +269,7 @@ Prerequisites: Design of Algorithms, Algebra 2, Calculus 2, Probability and Stat
 	- [Grammatical Evolution](https://web.archive.org/web/20110721124315/http:/www.grammaticalevolution.org/tutorial.pdf)
 	- [Coevolutionary Computation](https://medium.com/the-generator/coevolutionary-computation-fb719304d12e) ![](medium.png)
 	- [New Pathways in Coevolutionary Computation](https://arxiv.org/abs/2401.10515)
-	- [Novelty search](https://www.cs.ucf.edu/~gitars/cap6671-2010/Presentations/lehman_alife08.pdf)
+	- [Novelty search](https://mitpress-request.mit.edu/sites/default/files/titles/alife/0262287196chap43.pdf)
 	- [Humies](https://www.human-competitive.org/)
 	- [Evolutionary Art](https://medium.com/the-generator/evolutionary-art-00460707d529) ![](medium.png)
 	- [Building Activation Functions for Deep Networks](https://medium.com/@sipper/building-activation-functions-for-deep-networks-82c2a9c9cc1f) ![](medium.png)
